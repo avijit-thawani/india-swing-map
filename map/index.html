@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>NDA vs others, Lok Sabha 2019 and 2024</title>
+<title>Indian swing constituencies</title>
 <style>
   :root {
     --bg: #f6f5f1; --panel: #ffffff; --ink: #1c1d1a; --muted: #5d5f58; --line: #d9d7cf;
@@ -52,8 +52,11 @@
   .linkish { border: 0; background: none; padding: 0; font: inherit; font-size: 12.5px; color: var(--oth); text-decoration: underline; cursor: pointer; }
   .src { color: var(--muted); font-size: 12.5px; margin: 14px 0 0; }
   #scatter { display: block; width: 100%; height: auto; }
+  #scatter { cursor: none; }
   #scatter .quad { fill: transparent; }
-  #scatter .quad:hover { fill: rgba(0,0,0,.05); }
+  #scatter .quad.swing { fill: rgba(123, 78, 163, .14); }
+  #scatter .dot { cursor: pointer; }
+  #lens { fill: rgba(0,0,0,.04); stroke: #111; stroke-width: 1; pointer-events: none; }
   #scatter .dot { stroke: #fff; stroke-width: 0.4; }
   #scatter .dot.dim { opacity: 0.08; }
   #scatter .guide { stroke: #8f8c84; stroke-width: 0.8; pointer-events: none; }
@@ -80,7 +83,7 @@
 </head>
 <body>
 <main>
-  <h1 id="title">NDA vs others in every Lok Sabha seat</h1>
+  <h1>Indian swing constituencies</h1>
   <p class="sub" id="subtitle" hidden></p>
 
   <div class="controls">
@@ -142,17 +145,17 @@ const NODATA = "#c9c6bd";
 let view = "swing", seats = [], pinned = null;
 let range = null;   // [low, high] in points when a stretch of the histogram is selected
 let axis = null;    // [min, max] of the histogram for the current view
-let quad = null;    // scatter-plot quarter under the pointer: "held", "gained", "lost" or "others"
+let lens = null;    // codes of the seats inside the scatter plot's hover circle
 let hoverBin = null; // [low, high] of the histogram bar under the pointer
 let hovered = null;  // the single seat under the pointer or pinned, in any of the three charts
 const flipped = p => !!(p.y2019 && p.y2024) && (p.y2019.winnerAlliance === "NDA") !== (p.y2024.winnerAlliance === "NDA");
 // A seat stays lit only if it passes every filter that is on: the selected range,
-// the changed-hands switch, and whatever quarter or bar is under the pointer.
+// the changed-hands switch, and the scatter circle or histogram bar under the pointer.
 function isLit(p) {
   const v = value(p);
   if (!inRange(v)) return false;
   if (document.getElementById("flips").checked && !flipped(p)) return false;
-  if (quad && quadrantOf(p) !== quad) return false;
+  if (lens && !lens.has(p.code)) return false;
   if (hoverBin && !(v !== null && v >= hoverBin[0] && v < hoverBin[1])) return false;
   return true;
 }
@@ -235,19 +238,8 @@ function paint() {
 }
 
 function summarise() {
-  const vals = seats.map(s => value(s.p)).filter(v => v !== null);
-  const title = document.getElementById("title");
-  const count = f => vals.filter(f).length;
-  if (view === "swing") {
-    title.textContent = `The NDA lost ground in ${count(v => v < 0)} of ${vals.length} seats between 2019 and 2024`;
-    document.getElementById("countTitle").textContent = "How far seats moved";
-  } else {
-    const year = view.slice(1), won = count(v => v > 0);
-    // Surat had no 2024 contest, so it has no lead to colour but still counts as an NDA seat.
-    const total = won + seats.filter(s => !s.p[view] && view === "y2024").length;
-    title.textContent = `In ${year} the NDA won ${total} seats, ${count(v => v > 0 && v < 5)} of them by under 5 points`;
-    document.getElementById("countTitle").textContent = `How big the ${year} leads were`;
-  }
+  document.getElementById("countTitle").textContent =
+    view === "swing" ? "How far seats moved" : `How big the ${view.slice(1)} leads were`;
 }
 
 // Histogram of the current view's values. Dragging across it sets `range`.
@@ -369,7 +361,6 @@ function drawScatter() {
   const n = { held: 0, lost: 0, gained: 0, others: 0 };
   for (const s of seats) { const q = quadrantOf(s.p); if (q) n[q]++; }
   const z = sc(0), a = SPAD, b = SSIZE - SPAD, zy = scy(0);
-  // Quarters first, so the dots drawn after them take the pointer where they overlap.
   const quads = [
     ["gained", a, a, z - a, zy - a, "NDA gained", a + 3, a + 10, "start"],
     ["held", z, a, b - z, zy - a, "NDA held", b - 3, a + 10, "end"],
@@ -377,7 +368,8 @@ function drawScatter() {
     ["lost", z, zy, b - z, b - zy, "NDA lost", b - 3, b - 5, "end"],
   ];
   let out = "";
-  for (const [q, x, y, w, h] of quads) out += `<rect class="quad" data-q="${q}" x="${x}" y="${y}" width="${w}" height="${h}"/>`;
+  // The two quarters where a seat changed sides are tinted.
+  for (const [q, x, y, w, h] of quads) out += `<rect class="quad${q === "gained" || q === "lost" ? " swing" : ""}" x="${x}" y="${y}" width="${w}" height="${h}"/>`;
   out += `<line class="guide" x1="${a}" x2="${b}" y1="${zy}" y2="${zy}"/><line class="guide" x1="${z}" x2="${z}" y1="${a}" y2="${b}"/>`;
   out += `<line class="diag" x1="${scx(SLO)}" y1="${scy(SLO)}" x2="${scx(SHI)}" y2="${scy(SHI)}"/>`;
   for (const [q, , , , , label, tx, ty, anchor] of quads) out += `<text class="q" x="${tx}" y="${ty}" text-anchor="${anchor}">${label} ${n[q]}</text>`;
@@ -396,10 +388,12 @@ function drawScatter() {
     s.dot = c;
     scatter.appendChild(c);
   }
-  const ring = document.createElementNS(ns, "circle");
-  ring.setAttribute("id", "dotHl");
-  ring.setAttribute("r", 0);
-  scatter.appendChild(ring);
+  for (const [id, r] of [["dotHl", 0], ["lens", 0]]) {
+    const c = document.createElementNS(ns, "circle");
+    c.setAttribute("id", id);
+    c.setAttribute("r", r);
+    scatter.appendChild(c);
+  }
 }
 function markDot(seat) {
   const ring = document.getElementById("dotHl");
@@ -408,15 +402,33 @@ function markDot(seat) {
     ring.setAttribute("cx", seat.dot.getAttribute("cx")); ring.setAttribute("cy", seat.dot.getAttribute("cy")); ring.setAttribute("r", 5);
   } else ring.setAttribute("r", 0);
 }
-function setQuad(q) { if (q !== quad) { quad = q; paint(); } }
-// Over a dot: that seat's details. Over empty space: light up that quarter's seats.
+// The pointer over the scatter is a small circle: every seat inside it lights up
+// across all three charts. Directly over a dot, that one seat is shown instead.
+const LENS = 13;  // circle radius, in the plot's own units
+function setLens(codes, x, y) {
+  const mark = document.getElementById("lens");
+  if (mark) { mark.setAttribute("r", codes ? LENS : 0); if (codes) { mark.setAttribute("cx", x); mark.setAttribute("cy", y); } }
+  const next = codes && codes.size ? codes : null;
+  const same = (!next && !lens) || (next && lens && next.size === lens.size && [...next].every(c => lens.has(c)));
+  if (same) return;
+  lens = next;
+  paint();
+}
 scatter.addEventListener("pointermove", e => {
   const seat = e.target.__seat;
-  if (seat) { setQuad(null); show(seat); return; }
+  if (seat) { setLens(null); show(seat); return; }
   unhover();
-  setQuad(e.target.dataset ? e.target.dataset.q || null : null);
+  const r = scatter.getBoundingClientRect();
+  const x = (e.clientX - r.left) / r.width * SSIZE, y = (e.clientY - r.top) / r.height * SSIZE;
+  const inside = new Set();
+  for (const s of seats) {
+    if (!s.dot) continue;
+    const dx = s.dot.getAttribute("cx") - x, dy = s.dot.getAttribute("cy") - y;
+    if (dx * dx + dy * dy <= LENS * LENS) inside.add(s.p.code);
+  }
+  setLens(inside, x.toFixed(1), y.toFixed(1));
 });
-scatter.addEventListener("pointerleave", () => { setQuad(null); unhover(); });
+scatter.addEventListener("pointerleave", () => { setLens(null); unhover(); });
 
 function yearBlock(p, year) {
   const r = p["y" + year];
