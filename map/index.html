@@ -3,58 +3,67 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Indian swing constituencies</title>
+<title>Indian swing seats</title>
 <style>
   :root {
     --bg: #f6f5f1; --panel: #ffffff; --ink: #1c1d1a; --muted: #5d5f58; --line: #d9d7cf;
     --nda: #c2182b; --mid: #7b4ea3; --oth: #1c5fc4; --flat: #e7e4ea;
   }
   * { box-sizing: border-box; }
+  html, body { height: 100%; }
   body { margin: 0; background: var(--bg); color: var(--ink);
     font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
-  main { max-width: 1180px; margin: 0 auto; padding: 20px 20px 40px; }
-  h1 { font-size: 26px; line-height: 1.2; margin: 0 0 6px; letter-spacing: -0.01em; }
-  .sub { color: var(--muted); margin: 0 0 16px; max-width: 760px; }
-  .controls { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; margin-bottom: 12px; }
+  /* The whole page is one screen tall: a header row, the charts, a credit line. */
+  main { height: 100vh; height: 100dvh; padding: 12px 16px 8px; display: grid; grid-template-rows: auto minmax(0, 1fr) auto; gap: 10px; }
+  .top { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 20px; }
+  h1 { font-size: 21px; line-height: 1.2; margin: 0; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); margin: 0; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; }
   .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--panel); }
-  .seg button { border: 0; background: none; padding: 8px 14px; font: inherit; color: var(--ink); cursor: pointer; }
+  .seg button { border: 0; background: none; padding: 6px 12px; font: inherit; color: var(--ink); cursor: pointer; }
   .seg button + button { border-left: 1px solid var(--line); }
   .seg button[aria-pressed="true"] { background: var(--ink); color: #fff; }
   .seg button:focus-visible, input:focus-visible, .ghost:focus-visible { outline: 2px solid var(--oth); outline-offset: 2px; }
   label.check { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); cursor: pointer; }
-  input[type="search"] { font: inherit; padding: 7px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); width: 210px; }
-  .ghost { border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 7px 12px; font: inherit; cursor: pointer; }
-  .layout { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 20px; align-items: start; }
-  @media (max-width: 860px) { .layout { grid-template-columns: 1fr; } }
-  .mapwrap { position: relative; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
-  svg { display: block; width: 100%; height: auto; touch-action: none; cursor: grab; }
-  svg.dragging { cursor: grabbing; }
+  input[type="search"] { font: inherit; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); width: 180px; min-width: 0; }
+  .together { display: inline-flex; flex-wrap: nowrap; gap: 8px; align-items: center; }
+  .ghost { white-space: nowrap; border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 7px 12px; font: inherit; cursor: pointer; }
+  .layout { display: grid; grid-template-columns: minmax(0, 1fr) clamp(280px, 31vw, 500px); gap: 14px; min-height: 0; }
+  .mapwrap { position: relative; min-height: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  svg { display: block; touch-action: none; }
+  #map { position: absolute; inset: 0; width: 100%; height: 100%; cursor: grab; }
+  #map.dragging { cursor: grabbing; }
+  /* The right column splits the same height three ways; the two charts stretch. */
+  aside { display: flex; flex-direction: column; gap: 10px; min-height: 0; }
   .seat { stroke: #fff; stroke-width: 0.5; vector-effect: non-scaling-stroke; }
   .seat.flip { stroke: #111; stroke-width: 1.6; }
   .seat.dim { opacity: 0.25; }
   #hl { fill: none; stroke: #000; stroke-width: 2.5; vector-effect: non-scaling-stroke; pointer-events: none; }
-  aside h2 { font-size: 15px; margin: 0 0 8px; }
-  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-bottom: 14px; }
+  aside h2 { font-size: 14.5px; margin: 0 0 6px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; display: flex; flex-direction: column; min-height: 0; flex: none; }
+  .card.histcard { flex: 1.2 1 0; }
+  .card.scattercard { flex: 1.8 1 0; }
+  .cardhead { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
   .bar { height: 14px; border-radius: 4px; }
   .ticks { display: flex; justify-content: space-between; font-size: 12.5px; color: var(--muted); margin-top: 4px; }
-  .keyrow { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); margin-top: 8px; }
-  .swatch { width: 18px; height: 12px; border-radius: 3px; flex: none; }
-  #hist { display: block; width: 100%; height: auto; touch-action: none; cursor: crosshair; user-select: none; }
+  #hist { flex: 1 1 0; min-height: 48px; width: 100%; cursor: crosshair; user-select: none; }
   #hist .bar.all { opacity: 0.22; }
   #barHl { fill: none; stroke: #000; stroke-width: 1.6; pointer-events: none; }
   #hist .sel { fill: none; stroke: var(--ink); stroke-width: 1.2; }
   #hist .zero { stroke: var(--ink); stroke-width: 1; stroke-dasharray: 2 2; }
-  #hist text { font-size: 10px; fill: var(--muted); }
+  #hist text { font-size: 11px; fill: var(--muted); }
   .ends { display: flex; justify-content: space-between; font-size: 12.5px; color: var(--muted); }
-  .range { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); margin-top: 10px; }
+  .range { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); margin-top: 6px; }
   .range input { width: 62px; font: inherit; font-size: 13px; padding: 3px 5px; border: 1px solid var(--line); border-radius: 6px; }
-  #showing { font-size: 13.5px; font-weight: 600; margin: 8px 0 0; min-height: 1.4em; }
+  #showing { font-size: 13px; font-weight: 600; white-space: nowrap; }
   .linkish { border: 0; background: none; padding: 0; font: inherit; font-size: 12.5px; color: var(--oth); text-decoration: underline; cursor: pointer; }
-  .src { color: var(--muted); font-size: 12.5px; margin: 14px 0 0; }
-  #scatter { display: block; width: 100%; height: auto; }
-  #scatter { cursor: none; }
+  .src { color: var(--muted); font-size: 12px; margin: 0; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2px 16px; }
+  .src a { color: var(--ink); margin-right: 8px; }
+  .src .links a { margin-right: 0; }
+  .src .links { white-space: nowrap; }
+  #scatter { flex: 1 1 0; min-height: 0; width: 100%; cursor: none; }
   #scatter .quad { fill: transparent; }
-  #scatter .quad.swing { fill: rgba(123, 78, 163, .14); }
+  #scatter .quad.swing { fill: rgba(123, 78, 163, .22); }
   #scatter .dot { cursor: pointer; }
   #lens { fill: rgba(0,0,0,.04); stroke: #111; stroke-width: 1; pointer-events: none; }
   #scatter .dot { stroke: #fff; stroke-width: 0.4; }
@@ -79,23 +88,41 @@
   #info .win { font-weight: 700; }
   #info .foot { border-top: 1px solid var(--line); padding-top: 4px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   #info .foot span { font-weight: 400; color: #8a4b00; }
+  /* Narrow or very short screens: stop fitting one screen and let the page scroll. */
+  @media (max-width: 860px), (max-height: 540px) {
+    html, body { height: auto; }
+    main { height: auto; display: block; }
+    main > * + * { margin-top: 10px; }
+    .layout { grid-template-columns: 1fr; }
+    .mapwrap { height: 72vh; }
+    .card + .card { margin-top: 10px; }
+    main { padding-top: 0; padding-bottom: 0; }
+    .top { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 8px 0; border-bottom: 1px solid var(--line); }
+    .src { position: sticky; bottom: 0; background: var(--bg); padding: 6px 0; border-top: 1px solid var(--line); }
+    .card.histcard, .card.scattercard { flex: none; }
+    #hist { flex: none; height: 150px; }
+    #scatter { flex: none; height: auto; aspect-ratio: 1; }
+  }
 </style>
 </head>
 <body>
 <main>
-  <h1>Indian swing constituencies</h1>
+  <div class="top">
+  <h1>Indian swing seats</h1>
   <p class="sub" id="subtitle" hidden></p>
-
   <div class="controls">
     <div class="seg" role="group" aria-label="What the colour shows">
       <button data-view="swing" aria-pressed="true">Change since 2019</button>
       <button data-view="y2024" aria-pressed="false">2024 result</button>
       <button data-view="y2019" aria-pressed="false">2019 result</button>
     </div>
-    <label class="check"><input type="checkbox" id="flips"> Outline seats that changed hands</label>
-    <input type="search" id="find" list="seatlist" placeholder="Find a seat" aria-label="Find a seat">
-    <datalist id="seatlist"></datalist>
-    <button class="ghost" id="reset">Reset zoom</button>
+    <label class="check"><input type="checkbox" id="flips"> Swing seats</label>
+    <span class="together">
+      <input type="search" id="find" list="seatlist" placeholder="Find a seat" aria-label="Find a seat">
+      <datalist id="seatlist"></datalist>
+      <button class="ghost" id="reset">Reset zoom</button>
+    </span>
+  </div>
   </div>
 
   <div class="layout">
@@ -108,36 +135,41 @@
         <h2 id="legendTitle">Colour</h2>
         <div class="bar" id="legendBar"></div>
         <div class="ticks" id="legendTicks"></div>
-        <div class="keyrow" id="legendExtra"></div>
       </div>
-      <div class="card">
-        <h2 id="countTitle">Seats</h2>
-        <svg id="hist" viewBox="0 0 272 104" role="img" aria-label="Histogram of seats"></svg>
+      <div class="card histcard">
+        <div class="cardhead"><h2 id="countTitle">Seats</h2><span id="showing"></span></div>
+        <svg id="hist" role="img" aria-label="Histogram of seats"></svg>
         <div class="ends"><span id="endLeft"></span><span id="endRight"></span></div>
         <div class="range">
           <label>From <input type="number" id="lo" step="2.5" aria-label="Lowest value shown, in points"></label>
           <label>to <input type="number" id="hi" step="2.5" aria-label="Highest value shown, in points"></label> points
           <button class="linkish" id="clearRange" hidden>Show all</button>
         </div>
-        <p id="showing"></p>
       </div>
-      <div class="card">
+      <div class="card scattercard">
         <h2>2019 lead vs 2024 lead</h2>
         <svg id="scatter" viewBox="0 0 272 272" role="img" aria-label="Scatter plot of each seat's NDA lead in 2019 against 2024"></svg>
       </div>
     </aside>
   </div>
-  <p class="src">Results: Election Commission of India via India Data Portal. Alliances: Wikipedia. Shapes: DataMeet, 2019 boundaries.</p>
+  <footer class="src">
+    <span>Data:
+      <a href="https://ckandev.indiadataportal.com/dataset/loksabha-general-election-results">[1] ECI results via India Data Portal</a>
+      <a href="https://en.wikipedia.org/wiki/Results_of_the_2024_Indian_general_election">[2] Alliances from Wikipedia</a>
+      <a href="https://github.com/datameet/maps/tree/master/parliamentary-constituencies">[3] 2019 seat shapes from DataMeet</a>
+    </span>
+    <span class="links"><a href="https://github.com/avijit-thawani">avijit-thawani</a> · <a href="https://github.com/avijit-thawani/india-swing-map">Source code</a></span>
+  </footer>
 </main>
 
 <script>
 const NDA = [194, 24, 43], MID = [123, 78, 163], OTH = [28, 95, 196], FLAT = [231, 228, 234];
 const VIEWS = {
-  swing: { clamp: 25, mid: FLAT, legend: "Change in the NDA's lead, 2019 to 2024, in points",
+  swing: { clamp: 25, mid: FLAT, legend: "Changes in NDA lead",
     ticks: ["25+ to others", "no change", "25+ to NDA"], ends: ["← moved to others", "moved to the NDA →"] },
-  y2024: { clamp: 20, mid: MID, legend: "The NDA's lead in 2024, in points",
+  y2024: { clamp: 20, mid: MID, legend: "NDA lead in 2024",
     ticks: ["Others by 20+", "tied", "NDA by 20+"], ends: ["← others won by more", "NDA won by more →"] },
-  y2019: { clamp: 20, mid: MID, legend: "The NDA's lead in 2019, in points",
+  y2019: { clamp: 20, mid: MID, legend: "NDA lead in 2019",
     ticks: ["Others by 20+", "tied", "NDA by 20+"], ends: ["← others won by more", "NDA won by more →"] },
 };
 const BIN = 2.5;  // width of one histogram bar, in points
@@ -195,10 +227,9 @@ function draw() {
   for (const s of seats) for (const poly of s.g) for (const [x, y] of poly[0]) {
     if (x < minX) minX = x; if (x > maxX) maxX = x; if (y < minY) minY = y; if (y > maxY) maxY = y;
   }
-  const W = 800, k = W / (maxX - minX), H = (maxY - minY) * k, pad = 12;
-  home = { x: -pad, y: -pad, w: W + 2 * pad, h: H + 2 * pad };
-  box = { ...home };
-  applyBox();
+  const W = 800, k = W / (maxX - minX), H = (maxY - minY) * k;
+  mapW = W; mapH = H;
+  fitHome();
   const frag = document.createDocumentFragment();
   for (const s of seats) {
     const el = document.createElementNS("http://www.w3.org/2000/svg", "path");
@@ -209,6 +240,21 @@ function draw() {
     frag.appendChild(el);
   }
   layer.appendChild(frag);
+}
+// The map's resting view: all of India, centred, in a viewBox shaped like the
+// space the map has on screen, so it fills that space at any window size.
+let mapW = 0, mapH = 0;
+const wrap = document.querySelector(".mapwrap");
+function fitHome() {
+  if (!mapW) return;
+  const pad = 12, bw = mapW + 2 * pad, bh = mapH + 2 * pad;
+  const aspect = (wrap.clientWidth || bw) / (wrap.clientHeight || bh);
+  const w = aspect > bw / bh ? bh * aspect : bw, h = w / aspect;
+  const atHome = !box || (Math.abs(box.x - home.x) < 1e-6 && Math.abs(box.y - home.y) < 1e-6 && Math.abs(box.w - home.w) < 1e-6);
+  home = { x: mapW / 2 - w / 2, y: mapH / 2 - h / 2, w, h };
+  if (atHome) box = { ...home };
+  else { const cy = box.y + box.h / 2; box.h = box.w / aspect; box.y = cy - box.h / 2; }  // zoomed in: keep the centre
+  applyBox();
 }
 function applyBox() { svg.setAttribute("viewBox", `${box.x} ${box.y} ${box.w} ${box.h}`); }
 
@@ -230,8 +276,6 @@ function paint() {
   for (let i = 0; i <= 10; i++) stops.push(colour((i / 5 - 1) * cfg.clamp, cfg));
   document.getElementById("legendBar").style.background = `linear-gradient(90deg, ${stops.join(",")})`;
   document.getElementById("legendTicks").innerHTML = cfg.ticks.map(t => `<span>${t}</span>`).join("");
-  document.getElementById("legendExtra").innerHTML =
-    `<span class="swatch" style="background:${NODATA}"></span><span>${view === "y2019" ? "No result" : "Surat: no 2024 contest"}</span>`;
   summarise();
   histogram();
   if (hovered) show(hovered);
@@ -244,10 +288,15 @@ function summarise() {
 
 // Histogram of the current view's values. Dragging across it sets `range`.
 const hist = document.getElementById("hist");
-const HW = 272, HTOP = 4, HBASE = 84;
+let HW = 272, HBASE = 84;  // drawn at the element's real pixel size, set in histogram()
+const HTOP = 6;
 const sx = v => (v - axis[0]) / (axis[1] - axis[0]) * HW;
 function histogram() {
   const cfg = VIEWS[view];
+  HW = hist.clientWidth || 272;
+  const HH = hist.clientHeight || 104;
+  HBASE = HH - 17;
+  hist.setAttribute("viewBox", `0 0 ${HW} ${HH}`);
   const vals = seats.map(s => value(s.p)).filter(v => v !== null);
   const lo = Math.floor(Math.min(...vals) / 5) * 5, hi = Math.ceil(Math.max(...vals) / 5) * 5;
   axis = [lo, hi];
@@ -287,9 +336,7 @@ function histogram() {
   loBox.value = range ? range[0] : lo; hiBox.value = range ? range[1] : hi;
   document.getElementById("clearRange").hidden = !range;
   const shown = vals.filter(inRange).length;
-  document.getElementById("showing").textContent = range
-    ? `Showing ${shown} of ${vals.length} seats: ${pts(range[0])} to ${pts(range[1])} points`
-    : `Showing all ${vals.length} seats`;
+  document.getElementById("showing").textContent = range ? `${shown} of ${vals.length} seats` : `${vals.length} seats`;
 }
 // Outline the histogram bar holding the seat under the pointer.
 function markBar() {
@@ -418,8 +465,9 @@ scatter.addEventListener("pointermove", e => {
   const seat = e.target.__seat;
   if (seat) { setLens(null); show(seat); return; }
   unhover();
-  const r = scatter.getBoundingClientRect();
-  const x = (e.clientX - r.left) / r.width * SSIZE, y = (e.clientY - r.top) / r.height * SSIZE;
+  // The plot is square inside a box that usually is not, so convert through the SVG's own transform.
+  const m = scatter.getScreenCTM();
+  const x = (e.clientX - m.e) / m.a, y = (e.clientY - m.f) / m.d;
   const inside = new Set();
   for (const s of seats) {
     if (!s.dot) continue;
@@ -523,6 +571,12 @@ document.getElementById("find").addEventListener("change", e => {
   applyBox();
   pin(seat);
 });
+
+// Keep the map and histogram fitted when the window or layout changes size.
+if (typeof ResizeObserver !== "undefined") {
+  new ResizeObserver(fitHome).observe(wrap);
+  new ResizeObserver(() => { if (seats.length) histogram(); }).observe(hist);
+}
 
 fetch("data.json").then(r => r.json()).then(data => {
   seats = data.seats;

@@ -59,12 +59,23 @@ Wikipedia's and seats it could not match.
   match.
 - Indore 2024: the results file names the BSP candidate as runner-up, not NOTA.
 
-## Sources and licences
+## Sources
 
-- **Results**: Election Commission of India statistical reports, as published
-  by [India Data Portal](https://ckandev.indiadataportal.com/dataset/loksabha-general-election-results)
-  under the Open Data Commons Attribution License.
-- **Alliances**: Wikipedia's candidate lists and results pages for each
-  election (wikitext copies in `raw/`), CC BY-SA 4.0.
-- **Seat shapes**: [DataMeet](https://github.com/datameet/maps/tree/master/parliamentary-constituencies)
-  simplified 2019 parliamentary constituencies by Arun Ganesh, CC0.
+| What | Source | Files | Licence |
+| --- | --- | --- | --- |
+| Seat results 2004 to 2024: electors, turnout, votes, winner, runner-up | Election Commission of India statistical reports, as published by [India Data Portal](https://ckandev.indiadataportal.com/dataset/loksabha-general-election-results) | `raw/idp_summary_*.csv` | Open Data Commons Attribution |
+| Every candidate's votes, 2019 and 2024 | Same | `raw/idp_detailed_2019_2024.csv` | Open Data Commons Attribution |
+| Alliance candidates by seat: NDA 2004 to 2024, UPA 2009 to 2019, INDIA 2024 | Wikipedia, "List of National Democratic Alliance candidates in the *year* Indian general election", "List of United Progressive Alliance candidates in the *year* Indian general election" and "List of Indian National Developmental Inclusive Alliance candidates for the 2024 Indian general election" | `raw/alliances/*.wiki` | CC BY-SA 4.0 |
+| UPA parties in 2004 | Wikipedia, [United Progressive Alliance](https://en.wikipedia.org/wiki/United_Progressive_Alliance) | `raw/alliances/upa_main.wiki` | CC BY-SA 4.0 |
+| NDA and INDIA parties in 2024; cross-check of 2019 and 2024 margins | Wikipedia, [Results of the 2024 Indian general election](https://en.wikipedia.org/wiki/Results_of_the_2024_Indian_general_election) and [2019](https://en.wikipedia.org/wiki/Results_of_the_2019_Indian_general_election) | `raw/Results_of_the_*.wiki` | CC BY-SA 4.0 |
+| Seat shapes, 2019 boundaries | [DataMeet](https://github.com/datameet/maps/tree/master/parliamentary-constituencies) simplified parliamentary constituencies, by Arun Ganesh | `raw/datameet_india_pc_2019_simplified.geojson` | CC0 |
+
+The Wikipedia files are wikitext copies downloaded in November 2026. The idea
+came from [visualized.in/elections](https://visualized.in/elections), whose
+2024 figures this data reproduces.
+
+## Licence
+
+The code and the page are under the [MIT License](LICENSE). The files in
+`raw/` and the tables derived from them keep the licences of their sources,
+listed above.
