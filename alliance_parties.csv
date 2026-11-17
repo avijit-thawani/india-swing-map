@@ -1,0 +1,423 @@
+year,state,party,alliance
+2004,Andaman and Nicobar Islands,Bharatiya Janata Party,NDA
+2004,Andhra Pradesh,Bharatiya Janata Party,NDA
+2004,Andhra Pradesh,Telugu Desam Party,NDA
+2004,Arunachal Pradesh,Bharatiya Janata Party,NDA
+2004,Assam,Bharatiya Janata Party,NDA
+2004,Assam,Janata Dal (United),NDA
+2004,Bihar,Bharatiya Janata Party,NDA
+2004,Bihar,Janata Dal (United),NDA
+2004,Chandigarh,Bharatiya Janata Party,NDA
+2004,Chhattisgarh,Bharatiya Janata Party,NDA
+2004,Dadra and Nagar Haveli,Bharatiya Janata Party,NDA
+2004,Daman and Diu,Bharatiya Janata Party,NDA
+2004,NCT of Delhi,Bharatiya Janata Party,NDA
+2004,Goa,Bharatiya Janata Party,NDA
+2004,Gujarat,Bharatiya Janata Party,NDA
+2004,Haryana,Bharatiya Janata Party,NDA
+2004,Himachal Pradesh,Bharatiya Janata Party,NDA
+2004,Jammu and Kashmir,Bharatiya Janata Party,NDA
+2004,Jharkhand,Bharatiya Janata Party,NDA
+2004,Karnataka,Bharatiya Janata Party,NDA
+2004,Karnataka,Janata Dal (United),NDA
+2004,Kerala,Bharatiya Janata Party,NDA
+2004,Kerala,Indian Federal Democratic Party,NDA
+2004,Lakshadweep,Janata Dal (United),NDA
+2004,Madhya Pradesh,Bharatiya Janata Party,NDA
+2004,Maharashtra,Bharatiya Janata Party,NDA
+2004,Maharashtra,Shiv Sena,NDA
+2004,Manipur,Bharatiya Janata Party,NDA
+2004,Meghalaya,All India Trinamool Congress,NDA
+2004,Meghalaya,Bharatiya Janata Party,NDA
+2004,Mizoram,Mizo National Front,NDA
+2004,Nagaland,Naga People's Front,NDA
+2004,Odisha,Bharatiya Janata Party,NDA
+2004,Odisha,Biju Janata Dal,NDA
+2004,Puducherry,Bharatiya Janata Party,NDA
+2004,Punjab,Bharatiya Janata Party,NDA
+2004,Punjab,Shiromani Akali Dal,NDA
+2004,Rajasthan,Bharatiya Janata Party,NDA
+2004,Sikkim,Sikkim Democratic Front,NDA
+2004,Tamil Nadu,All India Anna Dravida Munnetra Kazhagam,NDA
+2004,Tamil Nadu,Bharatiya Janata Party,NDA
+2004,Tripura,All India Trinamool Congress,NDA
+2004,Tripura,Bharatiya Janata Party,NDA
+2004,Uttarakhand,Bharatiya Janata Party,NDA
+2004,Uttar Pradesh,Bharatiya Janata Party,NDA
+2004,Uttar Pradesh,Janata Dal (United),NDA
+2004,West Bengal,All India Trinamool Congress,NDA
+2004,West Bengal,Bharatiya Janata Party,NDA
+2004,all states,Dravida Munnetra Kazhagam,UPA
+2004,all states,Indian National Congress,UPA
+2004,all states,Indian Union Muslim League,UPA
+2004,all states,Jammu and Kashmir Peoples Democratic Party,UPA
+2004,all states,Jharkhand Mukti Morcha,UPA
+2004,all states,Lok Janshakti Party,UPA
+2004,all states,Marumalarchi Dravida Munnetra Kazhagam,UPA
+2004,all states,Nationalist Congress Party,UPA
+2004,all states,Pattali Makkal Katchi,UPA
+2004,all states,Rashtriya Janata Dal,UPA
+2004,all states,Republican Party of India (Athawale),UPA
+2004,all states,Telangana Rashtra Samithi,UPA
+2009,Andaman and Nicobar Islands,Bharatiya Janata Party,NDA
+2009,Andhra Pradesh,Bharatiya Janata Party,NDA
+2009,Arunachal Pradesh,Bharatiya Janata Party,NDA
+2009,Assam,Asom Gana Parishad,NDA
+2009,Assam,Bharatiya Janata Party,NDA
+2009,Assam,Rashtrawadi Sena,NDA
+2009,Bihar,Bharatiya Janata Party,NDA
+2009,Bihar,Janata Dal (United),NDA
+2009,Chandigarh,Bharatiya Janata Party,NDA
+2009,Chhattisgarh,Bharatiya Janata Party,NDA
+2009,Dadra and Nagar Haveli,Bharatiya Janata Party,NDA
+2009,Daman and Diu,Bharatiya Janata Party,NDA
+2009,NCT of Delhi,Bharatiya Janata Party,NDA
+2009,Goa,Bharatiya Janata Party,NDA
+2009,Gujarat,Bharatiya Janata Party,NDA
+2009,Haryana,Bharatiya Janata Party,NDA
+2009,Haryana,Indian National Lok Dal,NDA
+2009,Himachal Pradesh,Bharatiya Janata Party,NDA
+2009,Jammu and Kashmir,Bharatiya Janata Party,NDA
+2009,Jharkhand,Bharatiya Janata Party,NDA
+2009,Jharkhand,Janata Dal (United),NDA
+2009,Karnataka,Bharatiya Janata Party,NDA
+2009,Kerala,Bharatiya Janata Party,NDA
+2009,Kerala,Janata Dal (United),NDA
+2009,Lakshadweep,Bharatiya Janata Party,NDA
+2009,Madhya Pradesh,Bharatiya Janata Party,NDA
+2009,Maharashtra,Bharatiya Janata Party,NDA
+2009,Maharashtra,Shiv Sena,NDA
+2009,Manipur,Bharatiya Janata Party,NDA
+2009,Nagaland,Naga People's Front,NDA
+2009,Odisha,Bharatiya Janata Party,NDA
+2009,Puducherry,Bharatiya Janata Party,NDA
+2009,Punjab,Bharatiya Janata Party,NDA
+2009,Punjab,Shiromani Akali Dal,NDA
+2009,Rajasthan,Bharatiya Janata Party,NDA
+2009,Sikkim,Bharatiya Janata Party,NDA
+2009,Tamil Nadu,Bharatiya Janata Party,NDA
+2009,Tamil Nadu,Janata Dal (United),NDA
+2009,Tamil Nadu,Shiv Sena,NDA
+2009,Tripura,Bharatiya Janata Party,NDA
+2009,Uttarakhand,Bharatiya Janata Party,NDA
+2009,Uttar Pradesh,Bharatiya Janata Party,NDA
+2009,Uttar Pradesh,Janata Dal (United),NDA
+2009,Uttar Pradesh,Rashtriya Lok Dal,NDA
+2009,West Bengal,Bharatiya Janata Party,NDA
+2009,,Nationalist Congress Party,UPA
+2009,Andaman and Nicobar Islands,Indian National Congress,UPA
+2009,Andhra Pradesh,Indian National Congress,UPA
+2009,Arunachal Pradesh,Indian National Congress,UPA
+2009,Assam,Bodoland People's Front,UPA
+2009,Assam,Indian National Congress,UPA
+2009,Bihar,Indian National Congress,UPA
+2009,Bihar,Nationalist Congress Party,UPA
+2009,Chandigarh,Indian National Congress,UPA
+2009,Chhattisgarh,Indian National Congress,UPA
+2009,Dadra and Nagar Haveli,Indian National Congress,UPA
+2009,Daman and Diu,Indian National Congress,UPA
+2009,NCT of Delhi,Indian National Congress,UPA
+2009,Goa,Indian National Congress,UPA
+2009,Goa,Nationalist Congress Party,UPA
+2009,Gujarat,Indian National Congress,UPA
+2009,Haryana,Indian National Congress,UPA
+2009,Himachal Pradesh,Indian National Congress,UPA
+2009,Jammu and Kashmir,Indian National Congress,UPA
+2009,Jammu and Kashmir,Jammu & Kashmir National Conference,UPA
+2009,Jharkhand,Indian National Congress,UPA
+2009,Jharkhand,Jharkhand Mukti Morcha,UPA
+2009,Karnataka,Indian National Congress,UPA
+2009,Kerala,Indian National Congress,UPA
+2009,Kerala,Indian Union Muslim League,UPA
+2009,Kerala,Kerala Congress (M),UPA
+2009,Lakshadweep,Indian National Congress,UPA
+2009,Madhya Pradesh,Indian National Congress,UPA
+2009,Maharashtra,Indian National Congress,UPA
+2009,Maharashtra,Nationalist Congress Party,UPA
+2009,Maharashtra,Republican Party of India,UPA
+2009,Maharashtra,Republican Party of India (Athawale),UPA
+2009,Manipur,Indian National Congress,UPA
+2009,Meghalaya,Indian National Congress,UPA
+2009,Mizoram,Indian National Congress,UPA
+2009,Nagaland,Indian National Congress,UPA
+2009,Odisha,Indian National Congress,UPA
+2009,Puducherry,Indian National Congress,UPA
+2009,Punjab,Indian National Congress,UPA
+2009,Rajasthan,Indian National Congress,UPA
+2009,Sikkim,Indian National Congress,UPA
+2009,Tamil Nadu,Dravida Munnetra Kazhagam,UPA
+2009,Tamil Nadu,Indian National Congress,UPA
+2009,Tamil Nadu,Viduthalai Chiruthaigal Katchi,UPA
+2009,Tripura,Indian National Congress,UPA
+2009,Uttarakhand,Indian National Congress,UPA
+2009,Uttar Pradesh,Indian National Congress,UPA
+2009,Uttar Pradesh,Mahan Dal,UPA
+2009,Uttar Pradesh,Rashtriya Swabhiman Party,UPA
+2009,West Bengal,All India Trinamool Congress,UPA
+2009,West Bengal,Indian National Congress,UPA
+2014,Andaman and Nicobar Islands,Bharatiya Janata Party,NDA
+2014,Andhra Pradesh,Bharatiya Janata Party,NDA
+2014,Andhra Pradesh,Telugu Desam Party,NDA
+2014,Arunachal Pradesh,Bharatiya Janata Party,NDA
+2014,Assam,Bharatiya Janata Party,NDA
+2014,Bihar,Bharatiya Janata Party,NDA
+2014,Bihar,Lok Janshakti Party,NDA
+2014,Bihar,Rashtriya Lok Samata Party,NDA
+2014,Chandigarh,Bharatiya Janata Party,NDA
+2014,Chhattisgarh,Bharatiya Janata Party,NDA
+2014,Dadra and Nagar Haveli,Bharatiya Janata Party,NDA
+2014,Daman and Diu,Bharatiya Janata Party,NDA
+2014,NCT of Delhi,Bharatiya Janata Party,NDA
+2014,Goa,Bharatiya Janata Party,NDA
+2014,Gujarat,Bharatiya Janata Party,NDA
+2014,Haryana,Bharatiya Janata Party,NDA
+2014,Haryana,Haryana Janhit Congress (BL),NDA
+2014,Himachal Pradesh,Bharatiya Janata Party,NDA
+2014,Jammu and Kashmir,Bharatiya Janata Party,NDA
+2014,Jharkhand,Bharatiya Janata Party,NDA
+2014,Karnataka,Bharatiya Janata Party,NDA
+2014,Kerala,Bharatiya Janata Party,NDA
+2014,Kerala,Kerala Congress (Nationalist),NDA
+2014,Lakshadweep,Bharatiya Janata Party,NDA
+2014,Madhya Pradesh,Bharatiya Janata Party,NDA
+2014,Maharashtra,Bharatiya Janata Party,NDA
+2014,Maharashtra,Rashtriya Samaj Paksha,NDA
+2014,Maharashtra,Republican Party of India (Athvale),NDA
+2014,Maharashtra,Shiv Sena,NDA
+2014,Maharashtra,Swabhimani Paksha,NDA
+2014,Manipur,Bharatiya Janata Party,NDA
+2014,Meghalaya,Bharatiya Janata Party,NDA
+2014,Meghalaya,National People's Party (India),NDA
+2014,Mizoram,Mizo National Front,NDA
+2014,Nagaland,Naga People's Front,NDA
+2014,Odisha,Bharatiya Janata Party,NDA
+2014,Puducherry,All India N.R. Congress,NDA
+2014,Punjab,Bharatiya Janata Party,NDA
+2014,Punjab,Shiromani Akali Dal,NDA
+2014,Rajasthan,Bharatiya Janata Party,NDA
+2014,Sikkim,Bharatiya Janata Party,NDA
+2014,Tamil Nadu,Bharatiya Janata Party,NDA
+2014,Tamil Nadu,Desiya Murpokku Dravida Kazhagam,NDA
+2014,Tamil Nadu,Indhiya Jananayaga Katchi,NDA
+2014,Tamil Nadu,Kongunadu Makkal Desia Katchi,NDA
+2014,Tamil Nadu,Marumalarchi Dravida Munnetra Kazhagam,NDA
+2014,Tamil Nadu,New Justice Party,NDA
+2014,Tamil Nadu,Pattali Makkal Katchi,NDA
+2014,Tripura,Bharatiya Janata Party,NDA
+2014,Uttarakhand,Bharatiya Janata Party,NDA
+2014,Uttar Pradesh,Apna Dal (Kamerawadi),NDA
+2014,Uttar Pradesh,Bharatiya Janata Party,NDA
+2014,West Bengal,Bharatiya Janata Party,NDA
+2014,Andaman and Nicobar Islands,Indian National Congress,UPA
+2014,Andhra Pradesh,Communist Party of India,UPA
+2014,Andhra Pradesh,Indian National Congress,UPA
+2014,Arunachal Pradesh,Indian National Congress,UPA
+2014,Assam,Bodoland People's Front,UPA
+2014,Assam,Indian National Congress,UPA
+2014,Bihar,Indian National Congress,UPA
+2014,Bihar,Nationalist Congress Party,UPA
+2014,Bihar,Rashtriya Janata Dal,UPA
+2014,Chandigarh,Indian National Congress,UPA
+2014,Chhattisgarh,Indian National Congress,UPA
+2014,Dadra and Nagar Haveli,Indian National Congress,UPA
+2014,Daman and Diu,Indian National Congress,UPA
+2014,NCT of Delhi,Indian National Congress,UPA
+2014,Goa,Indian National Congress,UPA
+2014,Gujarat,Indian National Congress,UPA
+2014,Gujarat,Nationalist Congress Party,UPA
+2014,Haryana,Indian National Congress,UPA
+2014,Himachal Pradesh,Indian National Congress,UPA
+2014,Jammu and Kashmir,Indian National Congress,UPA
+2014,Jammu and Kashmir,Jammu & Kashmir National Conference,UPA
+2014,Jharkhand,Indian National Congress,UPA
+2014,Jharkhand,Jharkhand Mukti Morcha,UPA
+2014,Jharkhand,Rashtriya Janata Dal,UPA
+2014,Karnataka,Indian National Congress,UPA
+2014,Kerala,Indian National Congress,UPA
+2014,Kerala,Indian Union Muslim League,UPA
+2014,Kerala,Kerala Congress (M),UPA
+2014,Kerala,Revolutionary Socialist Party (India),UPA
+2014,Kerala,Socialist Janata (Democratic),UPA
+2014,Lakshadweep,Indian National Congress,UPA
+2014,Madhya Pradesh,Indian National Congress,UPA
+2014,Maharashtra,Indian National Congress,UPA
+2014,Maharashtra,Nationalist Congress Party,UPA
+2014,Manipur,Indian National Congress,UPA
+2014,Meghalaya,Indian National Congress,UPA
+2014,Mizoram,Indian National Congress,UPA
+2014,Nagaland,Indian National Congress,UPA
+2014,Odisha,Indian National Congress,UPA
+2014,Puducherry,Indian National Congress,UPA
+2014,Punjab,Indian National Congress,UPA
+2014,Rajasthan,Indian National Congress,UPA
+2014,Sikkim,Indian National Congress,UPA
+2014,Tamil Nadu,Indian National Congress,UPA
+2014,Tripura,Indian National Congress,UPA
+2014,Uttarakhand,Indian National Congress,UPA
+2014,Uttar Pradesh,Indian National Congress,UPA
+2014,Uttar Pradesh,Mahan Dal,UPA
+2014,Uttar Pradesh,Rashtriya Lok Dal,UPA
+2014,West Bengal,Indian National Congress,UPA
+2019,Andaman and Nicobar Islands,Bharatiya Janata Party,NDA
+2019,Andhra Pradesh,Bharatiya Janata Party,NDA
+2019,Arunachal Pradesh,Bharatiya Janata Party,NDA
+2019,Assam,Asom Gana Parishad,NDA
+2019,Assam,Bharatiya Janata Party,NDA
+2019,Assam,Bodoland People's Front,NDA
+2019,Bihar,Bharatiya Janata Party,NDA
+2019,Bihar,Janata Dal (United),NDA
+2019,Bihar,Lok Janshakti Party,NDA
+2019,Chandigarh,Bharatiya Janata Party,NDA
+2019,Chhattisgarh,Bharatiya Janata Party,NDA
+2019,Dadra and Nagar Haveli,Bharatiya Janata Party,NDA
+2019,Daman and Diu,Bharatiya Janata Party,NDA
+2019,NCT of Delhi,Bharatiya Janata Party,NDA
+2019,Goa,Bharatiya Janata Party,NDA
+2019,Gujarat,Bharatiya Janata Party,NDA
+2019,Haryana,Bharatiya Janata Party,NDA
+2019,Himachal Pradesh,Bharatiya Janata Party,NDA
+2019,Jammu and Kashmir,Bharatiya Janata Party,NDA
+2019,Jharkhand,All Jharkhand Students Union,NDA
+2019,Jharkhand,Bharatiya Janata Party,NDA
+2019,Karnataka,Bharatiya Janata Party,NDA
+2019,Kerala,Bharath Dharma Jana Sena,NDA
+2019,Kerala,Bharatiya Janata Party,NDA
+2019,Kerala,Kerala Congress (Thomas),NDA
+2019,Lakshadweep,Bharatiya Janata Party,NDA
+2019,Madhya Pradesh,Bharatiya Janata Party,NDA
+2019,Maharashtra,Bharatiya Janata Party,NDA
+2019,Maharashtra,Shiv Sena,NDA
+2019,Manipur,Bharatiya Janata Party,NDA
+2019,Meghalaya,Bharatiya Janata Party,NDA
+2019,Mizoram,Bharatiya Janata Party,NDA
+2019,Nagaland,Nationalist Democratic Progressive Party,NDA
+2019,Odisha,Bharatiya Janata Party,NDA
+2019,Puducherry,All India N.R. Congress,NDA
+2019,Punjab,Bharatiya Janata Party,NDA
+2019,Punjab,Shiromani Akali Dal,NDA
+2019,Rajasthan,Bharatiya Janata Party,NDA
+2019,Rajasthan,Rashtriya Loktantrik Party,NDA
+2019,Sikkim,Bharatiya Janata Party,NDA
+2019,Tamil Nadu,All India Anna Dravida Munnetra Kazhagam,NDA
+2019,Tamil Nadu,Bharatiya Janata Party,NDA
+2019,Tamil Nadu,Desiya Murpokku Dravida Kazhagam,NDA
+2019,Tamil Nadu,Pattali Makkal Katchi,NDA
+2019,Tamil Nadu,Puthiya Needhi Katchi,NDA
+2019,Tamil Nadu,Puthiya Tamilagam,NDA
+2019,Tamil Nadu,Tamil Maanila Congress,NDA
+2019,Telangana,Bharatiya Janata Party,NDA
+2019,Tripura,Bharatiya Janata Party,NDA
+2019,Uttarakhand,Bharatiya Janata Party,NDA
+2019,Uttar Pradesh,Apna Dal (Sonelal),NDA
+2019,Uttar Pradesh,Bharatiya Janata Party,NDA
+2019,West Bengal,Bharatiya Janata Party,NDA
+2019,Andaman and Nicobar Islands,Indian National Congress,UPA
+2019,Andhra Pradesh,Indian National Congress,UPA
+2019,Arunachal Pradesh,Indian National Congress,UPA
+2019,Assam,Indian National Congress,UPA
+2019,Bihar,Communist Party of India (Marxist-Leninist) Liberation,UPA
+2019,Bihar,Hindustani Awam Morcha,UPA
+2019,Bihar,Indian National Congress,UPA
+2019,Bihar,Rashtriya Janata Dal,UPA
+2019,Bihar,Rashtriya Lok Samta Party,UPA
+2019,Bihar,Vikassheel Insaan Party,UPA
+2019,Chandigarh,Indian National Congress,UPA
+2019,Chhattisgarh,Indian National Congress,UPA
+2019,Dadra and Nagar Haveli,Indian National Congress,UPA
+2019,Daman and Diu,Indian National Congress,UPA
+2019,NCT of Delhi,Indian National Congress,UPA
+2019,Goa,Indian National Congress,UPA
+2019,Gujarat,Indian National Congress,UPA
+2019,Haryana,Indian National Congress,UPA
+2019,Himachal Pradesh,Indian National Congress,UPA
+2019,Jammu and Kashmir,Indian National Congress,UPA
+2019,Jammu and Kashmir,Jammu & Kashmir National Conference,UPA
+2019,Jharkhand,Indian National Congress,UPA
+2019,Jharkhand,Jharkhand Mukti Morcha,UPA
+2019,Jharkhand,Jharkhand Vikas Morcha (Prajatantrik),UPA
+2019,Jharkhand,Rashtriya Janata Dal,UPA
+2019,Karnataka,Indian National Congress,UPA
+2019,Karnataka,Janata Dal (Secular),UPA
+2019,Kerala,Indian National Congress,UPA
+2019,Kerala,Indian Union Muslim League,UPA
+2019,Kerala,Kerala Congress,UPA
+2019,Kerala,Revolutionary Socialist Party (India),UPA
+2019,Lakshadweep,Nationalist Congress Party,UPA
+2019,Madhya Pradesh,Indian National Congress,UPA
+2019,Maharashtra,Indian National Congress,UPA
+2019,Maharashtra,Nationalist Congress Party,UPA
+2019,Maharashtra,Swabhimani Paksha,UPA
+2019,Manipur,Indian National Congress,UPA
+2019,Meghalaya,Indian National Congress,UPA
+2019,Nagaland,Indian National Congress,UPA
+2019,Odisha,Communist Party of India,UPA
+2019,Odisha,Indian National Congress,UPA
+2019,Odisha,Jharkhand Mukti Morcha,UPA
+2019,Puducherry,Indian National Congress,UPA
+2019,Punjab,Indian National Congress,UPA
+2019,Rajasthan,Indian National Congress,UPA
+2019,Sikkim,Indian National Congress,UPA
+2019,Tamil Nadu,Communist Party of India,UPA
+2019,Tamil Nadu,Communist Party of India (Marxist),UPA
+2019,Tamil Nadu,Dravida Munnetra Kazhagam,UPA
+2019,Tamil Nadu,Indhiya Jananayaga Katchi,UPA
+2019,Tamil Nadu,Indian National Congress,UPA
+2019,Tamil Nadu,Indian Union Muslim League,UPA
+2019,Tamil Nadu,Kongunadu Makkal Desia Katchi,UPA
+2019,Tamil Nadu,Marumalarchi Dravida Munnetra Kazhagam,UPA
+2019,Tamil Nadu,Viduthalai Chiruthaigal Katchi,UPA
+2019,Telangana,Indian National Congress,UPA
+2019,Tripura,Indian National Congress,UPA
+2019,Uttarakhand,Indian National Congress,UPA
+2019,Uttar Pradesh,Indian National Congress,UPA
+2019,West Bengal,Indian National Congress,UPA
+2024,all states,Aam Aadmi Party,INDIA
+2024,all states,All India Forward Bloc,INDIA
+2024,all states,All India Trinamool Congress,INDIA
+2024,all states,Assam Jatiya Parishad,INDIA
+2024,all states,Bharat Adivasi Party,INDIA
+2024,all states,Communist Party of India,INDIA
+2024,all states,Communist Party of India (Marxist),INDIA
+2024,all states,Communist Party of India (Marxist–Leninist) Liberation,INDIA
+2024,all states,Dravida Munnetra Kazhagam,INDIA
+2024,all states,Indian National Congress,INDIA
+2024,all states,Indian Union Muslim League,INDIA
+2024,all states,Jammu and Kashmir National Conference,INDIA
+2024,all states,Jammu and Kashmir Peoples Democratic Party,INDIA
+2024,all states,Jharkhand Mukti Morcha,INDIA
+2024,all states,Kerala Congress,INDIA
+2024,all states,Kerala Congress (Mani),INDIA
+2024,all states,Marumalarchi Dravida Munnetra Kazhagam,INDIA
+2024,all states,Nationalist Congress Party – Sharadchandra Pawar,INDIA
+2024,all states,Rashtriya Janata Dal,INDIA
+2024,all states,Rashtriya Loktantrik Party,INDIA
+2024,all states,Revolutionary Socialist Party (India),INDIA
+2024,all states,Samajwadi Party,INDIA
+2024,all states,Shiv Sena (Uddhav Balasaheb Thackeray),INDIA
+2024,all states,Viduthalai Chiruthaigal Katchi,INDIA
+2024,all states,Vikassheel Insaan Party,INDIA
+2024,all states,All Jharkhand Students Union,NDA
+2024,all states,Amma Makkal Munnettra Kazhagam,NDA
+2024,all states,Apna Dal (Soneylal),NDA
+2024,all states,Asom Gana Parishad,NDA
+2024,all states,Bharath Dharma Jana Sena,NDA
+2024,all states,Bharatiya Janata Party,NDA
+2024,all states,Hindustani Awam Morcha,NDA
+2024,all states,Jana Sena Party,NDA
+2024,all states,Janata Dal (Secular),NDA
+2024,all states,Janata Dal (United),NDA
+2024,all states,Lok Janshakti Party (Ram Vilas),NDA
+2024,all states,Naga People's Front,NDA
+2024,all states,Nationalist Congress Party,NDA
+2024,all states,Nationalist Democratic Progressive Party,NDA
+2024,all states,National People's Party (India),NDA
+2024,all states,Pattali Makkal Katchi,NDA
+2024,all states,Rashtriya Lok Dal,NDA
+2024,all states,Rashtriya Lok Morcha,NDA
+2024,all states,Rashtriya Samaj Paksha,NDA
+2024,all states,Shiv Sena,NDA
+2024,all states,Sikkim Krantikari Morcha,NDA
+2024,all states,Suheldev Bharatiya Samaj Party,NDA
+2024,all states,Tamil Maanila Congress,NDA
+2024,all states,Telugu Desam Party,NDA
+2024,all states,United People's Party Liberal,NDA

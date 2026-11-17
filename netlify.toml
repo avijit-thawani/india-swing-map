@@ -1,0 +1,6 @@
+# Static site: the page and its data file are committed, so there is nothing to build.
+[build]
+  publish = "map"
+
+[dev]
+  autoLaunch = false

@@ -1,0 +1,2930 @@
+{{short description|none}}
+{{Use dmy dates|date=August 2024}}
+{{Use Indian English|date=August 2024}}
+[[National Democratic Alliance]] (NDA) is an Indian political party coalition led by [[Bharatiya Janata Party]] (BJP). Following is the ''[[Lok Sabha]]'' [[List of Constituencies of the Lok Sabha|constituencies-wise]] list of '''the National Democratic Alliance candidates for the [[2019 Indian general election]]'''.
+
+BJP is one of the two major political parties in India; the other being the [[Indian National Congress]]. BJP has formed pre-poll alliance with various parties and independent candidates to constitute the National Democratic Alliance. Of the [[States and union territories of India|29 states and 7 union territories]], BJP will be having alliance in 11 states (Assam, Bihar, Jharkhand, Karnataka, Kerala, Maharashtra Nagaland, Punjab, Rajasthan, Tamil Nadu and Uttar Pradesh) and 1 union territory (Puducherry) with regional political parties.
+
+Together, NDA will be contesting for all 543 constituency seats that will form the [[17th Lok Sabha]]. BJP will form the highest share of NDA by contesting in 437 constituencies; followed by other large parties like, AIADMK (20), JDU (17) and Shiromani Akali Dal (10)
+
+<!--alphabetical list-->[[File:2019 NDA Seat Sharing Current .png|alt=|thumb|394x394px|Seat-sharing arrangement of the BJP-led NDA for the 2019 Indian general election.<br />
+{{ubl|{{legend inline|1 = #ff9933|2=Bharatiya Janata Party}}|
+{{legend inline|1 = #FF6634|2=Shiv Sena}}|
+{{legend inline|1 = #009900|2=All India Anna Dravida Munnetra Kazhagam}}|
+{{legend inline|1 = #003366|2=Janata Dal (United)}}|
+{{legend inline|1 = #666633|2=Shiromani Akali Dal}}|
+{{legend inline|1 = #99ff00|2=Pattali Makkal Katchi}}|
+{{legend inline|1 = #66ff99|2=Lok Janshakti Party}}|
+{{legend inline|1 = #ffff00|2=Bharath Dharma Jana Sena}}|
+{{legend inline|1 = #008080|2=Desiya Murpokku Dravida Kazhagam}}|
+{{legend inline|1 = #99ccff|2=Asom Gana Parishad}}|
+{{legend inline|1 = #ff33cc|2=Apna Dal (Sonelal)}}|
+{{legend inline|1 = #ff33ff|2=All Jharkhand Students Union}}|
+{{legend inline|1 = #6b8e23|2=Puthiya Tamilagam}}|
+{{legend inline|1 = #0000ff|2=Tamil Maanila Congress}}|
+{{legend inline|1 = #000000|2=Puthiya Needhi Katchi}}|
+{{legend inline|1 = #ffc000|2=All India N.R. Congress}}|
+{{legend inline|1 = #f2cee0 |2=Bodoland People's Front}}|
+{{legend inline|1 = #fd4242|2=Nationalist Democratic Progressive Party}}|
+{{legend inline|1 = #964b00|2=Kerala Congress (Thomas)}}|
+{{legend inline|1 = #ffffe0|2=Rashtriya Loktantrik Party}}|
+{{legend inline|1 = #808080|2= Sumalatha (Independent candidate)}}|
+{{legend inline|1 = #ffffff|2=''None''}}}}]]
+
+==Seat Sharing Summary==
+{| class="wikitable sortable" style="text-align:center;"
+|+Constituents of National Democratic Alliance (Pre-poll Alliance)
+! #
+! Party
+! Alliance in states
+! Seats <br>contested
+! Seats <br>won
+!Seats Loss
+! References
+|-
+! align="center" |1
+| [[Bharatiya Janata Party]]
+| All States and UTs
+| align=right|<big>'''437'''</big>
+|align=right|'''<big>303</big>'''
+|134
+| align=center|<ref name="BJP">{{cite web | url=https://www.ndtv.com/india-news/bjp-candidate-list-lok-sabha-elections-2019-bjp-candidates-list-for-lok-sabha-elections-2019-all-184-2010962 | title=Bharatiya Janata Party: First Candidate List for Lok Sabha 2019 | publisher=NDTV | accessdate=2 April 2019 }}</ref><ref name="BJP-SS">{{cite web|url=https://indianexpress.com/elections/lok-sabha-elections-bjp-shiv-sena-seat-sharing-amit-shah-uddhav-thackeray-live-updates-5589817/|title=Lok Sabha polls: BJP to contest on 25 seats, Shiv Sena settles for 23 in Maharashtra|date=18 February 2019|website=The Indian Express|language=en-IN|access-date=18 February 2019}}</ref><ref name="BJP-AIADMK-PMK-DMDK-TMC-PT-PNK"/><ref name="BJP-JD(U)-LJP"/><ref name="BJP-SAD"/><ref name="ADMK-DMDK-BJP"/><ref name="BJP-BDJS-KC">{{cite web|url=https://www.thenewsminute.com/article/nda-finally-reaches-consensus-seat-sharing-kerala-bjp-contest-14-seats-98670|title=Kerala: NDA seat sharing|date=10 March 2019|website=indianexpress.com}}</ref><ref name=BJP-AINRC/><ref name="BJP-BPF"/>
+|-
+!align="center" |2
+|[[Shiv Sena]] 
+|Maharashtra
+|align=right|23
+|align=right|18
+|5
+|
+|-
+! align="center" |3
+| [[All India Anna Dravida Munnetra Kazhagam]]
+| Tamil Nadu
+| align=right|20  
+| align=right|1
+|19
+| align=center|<ref name="BJP-AIADMK-PMK-DMDK-TMC-PT-PNK">{{Cite news|url=https://www.indiatoday.in/elections/lok-sabha-2019/story/20-20-deal-for-aiadmk-allies-tmc-allotted-one-seat-in-tamil-nadu-1477403-2019-03-13|title=Tamilnadu: BJP, AIADMK, PMK ,DMDK mega alliance|date=13 March 2019|work=Indiatoday|access-date=2 April 2019}}</ref>
+|-
+! align="center" |4
+| [[Janata Dal (United)]]
+| Bihar
+| align="right" |17  
+| align="right" |16
+|1
+| align="center" |<ref name="BJP-JD(U)-LJP">{{Cite news|url=https://economictimes.indiatimes.com/news/politics-and-nation/bjp-jdu-ljp-finalise-17176-seat-sharing-formula-for-bihar-lok-sabha-polls/articleshow/67215178.cms|title=BJP, JDU, LJP finalise 17:17:6 seat sharing formula for Bihar Lok Sabha polls|last=Chaturvedi|first=Rakesh Mohan|date=24 December 2018|work=The Economic Times|access-date=24 January 2019}}</ref>
+|-
+! align="center" |5
+| [[Shiromani Akali Dal]]
+| Punjab
+| align="right" |10
+| align="right" |2
+|8
+| align="center" |<ref name="BJP-SAD">{{Cite web|url=https://www.ndtv.com/india-news/lok-sabha-elections-2019-amit-shah-shiromani-akali-dal-sad-bjp-to-fight-2019-polls-from-punjab-2000732|title=Akali Dal, BJP To Fight 2019 Polls From Punjab Together, Says Amit Shah|website=NDTV.com|access-date=3 March 2019}}</ref>
+|-
+! align="center" |6
+|[[Pattali Makkal Katchi]]
+| Tamil Nadu
+| align="right" |7
+| align="right" |0
+|7
+| align="center" |<ref name="BJP-AIADMK-PMK-DMDK-TMC-PT-PNK" />
+|-
+! align="center" |7
+| [[Lok Janshakti Party]]
+| Bihar
+| align="right" |6
+| align="right" |6
+|0
+| align="center" |<ref name="BJP-JD(U)-LJP" />
+|-
+! align="center" |8
+|[[Desiya Murpokku Dravida Kazhagam]]
+| Tamil Nadu
+| align="right" |4
+| align="right" |0
+|4
+| align="center" |<ref name="ADMK-DMDK-BJP">{{cite web|url=https://tamil.indianexpress.com/election/vijayakanth-alliance-2019-aiadmk-dmdk-live-updates/|title=AIADMK – DMDK Alliance: அ.தி.மு.க கூட்டணியில் 4 தொகுதிகளில் களமிறங்கும் தே.மு.தி.க!|date=10 March 2019|website=indianexpress.com}}</ref>
+|-
+! align="center" |9
+| [[Bharath Dharma Jana Sena]]
+| Kerala
+| align="right" |4  
+| align="right" |0
+|4
+| align="center" |<ref name="BJP-BDJS-KC" />
+|-
+! align="center" |10
+| [[Asom Gana Parishad]]
+| Assam
+| align="right" |3  
+| align="right" |0
+|3
+| align="center" |
+|-
+! align="center" |11
+| [[Apna Dal (Sonelal)]]
+| Uttar Pradesh
+| align="right" |2  
+| align="right" |2 
+|0
+| align="center" |
+|-
+! align="center" |12
+|[[Puthiya Tamilagam]]
+| Tamil Nadu
+| align="right" |1
+| align="right" |0
+|1
+| align="center" |<ref name="BJP-AIADMK-PMK-DMDK-TMC-PT-PNK" />
+|-
+! align="center" |13
+|[[Puthiya Needhi Katchi]]
+| Tamil Nadu
+| align="right" |1
+| align="right" |0
+|1
+| align="center" |<ref name="BJP-AIADMK-PMK-DMDK-TMC-PT-PNK" />
+|-
+! align="center" |14
+|[[Tamil Maanila Congress]]
+| Tamil Nadu
+| align="right" |1
+| align="right" |0
+|1
+| align="center" |<ref name="BJP-AIADMK-PMK-DMDK-TMC-PT-PNK" />
+|-
+! align="center" |15
+| [[All Jharkhand Students Union]]
+| Jharkhand
+| align=right|1  
+| align=right|1
+|0
+| align=center|
+|-
+! align="center" |16
+| [[Bodoland People's Front]]
+| Assam
+| align="right" |1
+| align="right" |0
+|1
+| align="center" |<ref name="BJP-BPF">{{Cite web|url=https://thenortheasttoday.com/assam-bodoland-peoples-front-to-field-pramila-rani-brahma-from-kokrajhar-for-lone-btc-seat/|title=Assam: Bodoland Peoples' Front to field Pramila Rani Brahma from Kokrajhar for lone BTC seat|date=2019-03-12|website=TNT-The NorthEast Today|language=en-US|access-date=2019-03-12|archive-date=2019-06-26|archive-url=https://web.archive.org/web/20190626191959/https://thenortheasttoday.com/assam-bodoland-peoples-front-to-field-pramila-rani-brahma-from-kokrajhar-for-lone-btc-seat/|url-status=dead}}</ref>
+|-
+! align="center" |17
+| [[Nationalist Democratic Progressive Party]]
+| Nagaland
+| align="right" |1
+| align="right" |1
+|0
+| align="center" |
+|-
+! align="center" |18
+| [[Kerala Congress (Thomas)]]
+| Kerala
+| align="right" |1
+| align="right" |0
+|1
+| align="center" |<ref name="BJP-BDJS-KC" />
+|-
+! align="center" |19
+| [[Rashtriya Loktantrik Party]]
+| Rajasthan
+| align="right" |1
+| align="right" |1
+|0
+| align="center" |
+|-
+! align="center" |20
+| [[All India N.R. Congress]]
+| Pudhucherry
+| align="right" |1
+| align="right" |0
+|1
+| align="center" |<ref name="BJP-AINRC">{{Cite news|url=https://timesofindia.indiatimes.com/city/puducherry/aiadmk-ainrc-sign-pact-ainrc-to-contest-from-puducherry-in-alliance-with-aiadmk/articleshow/68101468.cms|title=AIADMK-AINRC sign pact, AINRC to contest from Puducherry in alliance with AIADMK – Times of India|website=The Times of India|date=21 February 2019 |access-date=3 March 2019}}</ref>
+|-
+! align="center" |21
+| [[Sumalatha]] ([[Independent politician|Independent candidate]])<BR>supported by BJP
+| Karnataka
+| align=right|1  
+| align=right|1 
+|0
+| align=center|
+|-
+| colspan="3" align="center" | '''Total'''
+| align=right |'''543'''
+| align=right |'''352'''
+|191
+|
+|}
+
+== Andhra Pradesh ==
+[[File:Andhra Pradesh NDA Seat Sharing 2019.svg|thumb|280x280px|Andhra Pradesh NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (25) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1
+| [[Araku (ST) (Lok Sabha constituency)|Araku]]
+| align="center" |ST
+| [[K. K. V. V. V. Satyanarayana Reddy|K. V. V. Satyanarayan Reddy]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |2
+| [[Srikakulam (Lok Sabha constituency)|Srikakulam]]
+| align="center" |None
+| Perla Sambamurti<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |3
+| [[Vizianagaram (Lok Sabha constituency)|Vizianagaram]]
+| align="center" |None
+| P. Sanyasi Raju<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |4
+| [[Visakhapatnam (Lok Sabha constituency)|Visakhapatnam]]
+| align="center" |None
+| [[Daggubati Purandeswari]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |5
+| [[Anakapalli (Lok Sabha constituency)|Anakapalli]]
+| align="center" |None
+| Gandi Venkata Satyanarayana<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |6
+| [[Kakinada (Lok Sabha constituency)|Kakinada]]
+| align="center" |None
+| Yalla Venkata Ramamohana Rao<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |7
+| [[Amalapuram (Lok Sabha constituency)|Amalapuram]]
+| align="center" |SC
+| Ayyaji Vema Manepalli<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |8
+| [[Rajahmundry (Lok Sabha constituency)|Rajahmundry]]
+| align="center" |None
+| Satya Gopinath Dasparavasthu<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |9
+| [[Narasapuram (Lok Sabha constituency)|Narasapuram]]
+| align="center" |None
+| [[Pydikondala Manikyala Rao]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |10
+| [[Eluru (Lok Sabha constituency)|Eluru]]
+| align="center" |None
+| Chinnam Ramkotaya<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |11
+| [[Machilipatnam (Lok Sabha constituency)|Machilipatnam]]
+| align="center" |None
+| Gudivaka Ramanjaneyulu<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |12
+| [[Vijayawada (Lok Sabha constituency)|Vijayawada]]
+| align="center" |None
+| Dilip Kumar Kilaru<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |13
+| [[Guntur (Lok Sabha constituency)|Guntur]]
+| align="center" |None
+| Valluru Jayaprakash Narayana<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |14
+| [[Narasaraopet (Lok Sabha constituency)|Narasaraopet]]
+| align="center" |None
+| [[Kanna Lakshminarayana]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |15
+| [[Bapatla (SC) (Lok Sabha constituency)|Bapatla]]
+| align="center" |SC
+| Challagali Kishore Kumar<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |16
+| [[Ongole (Lok Sabha constituency)|Ongole]]
+| align="center" |None
+| Thogunta Srinivas<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |17
+| [[Nandyal (Lok Sabha constituency)|Nandyal]]
+| align="center" |None
+| Adinarayana Inti<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |18
+| [[Kurnool (Lok Sabha constituency)|Kurnool]]
+| align="center" |None
+| P. V. Parthasarathi<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |19
+| [[Anantapur (Lok Sabha constituency)|Anantapur]]
+| align="center" |None
+| Hamsa Devineni<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |20
+| [[Hindupur (Lok Sabha constituency)|Hindupur]]
+| align="center" |None
+| Pogala Venkata Parthasarathi<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |21
+| [[Kadapa (Lok Sabha constituency)|Kadapa]]
+| align="center" |None
+| Singareddy Ramchandra Reddy<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |22
+| [[Nellore (Lok Sabha constituency)|Nellore]]
+| align="center" |None
+| Sannapareddy Suresh Reddy<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |23
+| [[Tirupati (Lok Sabha constituency)|Tirupati]]
+| align="center" |SC
+| Bommi Srihari Rao<ref name="List1to9"/>
+| bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |24
+| [[Rajampet (Lok Sabha constituency)|Rajampet]]
+| align="center" |None
+| Pappireddi Maheswara Reddy<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |25
+| [[Chittoor (SC) (Lok Sabha constituency)|Chittoor]]
+| align="center" |SC
+| Jayaram Duggani<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+
+|}
+
+== Arunachal Pradesh ==
+[[File:Arunachal Pradesh NDA Seat Sharing Colour Coded.png|thumb|224x224px|Arunachal Pradesh NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (2) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Arunachal West (Lok Sabha constituency)|Arunachal West]] || align="center" |None || [[Kiren Rijiju]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Arunachal East (Lok Sabha constituency)|Arunachal East]] || align="center" |None ||[[Tapir Gao]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+|}
+
+==Assam ==
+[[File:Assam NDA Seat Sharing colour coded.png|alt=|thumb|256x256px|Assam NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (10) |border=solid 1px #AAAAAA}}
+{{legend2|#99CCFF|[[Asom Gana Parishad|AGP]] (3) |border=solid 1px #AAAAAA}}
+{{legend2|#F2CEE0|[[Bodoland People's Front|BPF]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1
+| [[Karimganj (Lok Sabha constituency)|Karimganj]]
+| align="center" |SC
+| [[Kripanath Mallah]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 18 April 2019
+| align="center" {{won}}
+|-
+| align="center" |2
+| [[Silchar (Lok Sabha constituency)|Silchar]] || align="center" |None || [[Rajdeep Roy]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Autonomous District (Lok Sabha constituency)|Autonomous District]] || align="center" |ST || [[Horen Sing Bey]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Dhubri (Lok Sabha constituency)|Dhubri]] || align="center" |None || [[Zabed Islam]]<ref name="AGP">{{cite web | url=http://www.assamtribune.com/scripts/detailsnew.asp?id=mar2019/at057 | title=AGP finalises candidates for LS polls | publisher=Assam Tribune | date=19 March 2019 | accessdate=29 March 2019 | archive-date=20 March 2019 | archive-url=https://web.archive.org/web/20190320133055/http://www.assamtribune.com/scripts/detailsnew.asp?id=mar2019%2Fat057 | url-status=dead }}</ref> ||bgcolor=#99CCFF|
+|[[Asom Gana Parishad]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |5 || [[Kokrajhar (Lok Sabha constituency)|Kokrajhar]] || align="center" |ST || [[Pramila Rani Brahma]]<ref>{{cite web | url=https://www.sentinelassam.com/news/btc-chief-formally-announced-pramila-rani-brahma-as-mp-candidate-from-kokrajhar-claims-absu-as-biggest-challenge/ | title=BTC Chief formally announced Pramila Rani Brahma as MP candidate from Kokrajhar, claims ABSU as biggest challenge | publisher=Sentinel Assam | date=12 March 2019 | accessdate=29 March 2019}}</ref> || bgcolor=#F2CEE0|
+|[[Bodoland People's Front]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |6 ||[[Barpeta (Lok Sabha constituency)|Barpeta]] || align="center" |None || [[Kumar Deepak Das]]<ref name="AGP"/> ||bgcolor=#99CCFF|
+|[[Asom Gana Parishad]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |7 || [[Gauhati (Lok Sabha constituency)|Gauhati]] || align="center" |None || [[Queen Oja]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |8 || [[Mangaldoi (Lok Sabha constituency)|Mangaldoi]] || align="center" |None || [[Dilip Saikia]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Tezpur (Lok Sabha constituency)|Tezpur]] || align="center" |None ||[[Pallab Lochan Das]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |10 || [[Nowgong (Lok Sabha constituency)|Nowgong]] || align="center" |None ||[[Rupak Sharma]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |11 || [[Kaliabor (Lok Sabha constituency)|Kaliabor]] || align="center" |None
+| Mani Madhav Mahanta<ref name="AGP"/> ||bgcolor=#99CCFF|
+|[[Asom Gana Parishad]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |12 || [[Jorhat (Lok Sabha constituency)|Jorhat]] || align="center" |None || [[Topon Kumar Gogoi]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |13 || [[Dibrugarh (Lok Sabha constituency)|Dibrugarh]] || align="center" |None || [[Rameswar Teli]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |14 || [[Lakhimpur (Lok Sabha constituency)|Lakhimpur]] || align="center" |None || [[Pradan Baruah]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+|}
+
+==Bihar ==
+
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (17) |border=solid 1px #AAAAAA}}
+{{legend2|#1D3463|[[Janata Dal (United)|JD(U)]] (17) |border=solid 1px #AAAAAA}}
+{{legend2|#0093DD|[[Lok Janshakti Party|LJP]] (6) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1
+| [[Valmiki Nagar (Lok Sabha constituency)|Valmiki Nagar]]
+| align="center" |None
+| [[Baidyanath Prasad Mahto]]<ref name="Bihar">{{cite web|url=https://www.financialexpress.com/elections/bihar-lok-sabha-seats-list-2019-party-wise-list-of-candidates-contesting-from-40-constituencies/1519817/|title=Bihar candidate list 2019: Party-wise list of candidates contesting from 40 constituencies|date=27 March 2019|publisher=Financial Express|accessdate=29 March 2019}}</ref>
+| style="color:inherit;background:#1D3463" |
+|[[Janata Dal (United)]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |2
+| [[Paschim Champaran (Lok Sabha constituency)|Paschim Champaran]]
+| align="center" |None
+| [[Sanjay Jaiswal|Dr. Sanjay Jaiswal]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 12 May 2019
+| align="center" {{won}}
+|-
+| align="center" |3
+| [[Purvi Champaran (Lok Sabha constituency)|Purvi Champaran]]
+| align="center" |None ||[[Radha Mohan Singh]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 12 May 2019
+| align="center" {{won}}
+|-
+| align="center" |4
+| [[Sheohar (Lok Sabha constituency)|Sheohar]]
+| align="center" |None
+| [[Rama Devi (Bihar politician)|Rama Devi]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 12 May 2019
+| align="center" {{won}}
+|-
+| align="center" |5
+| [[Sitamarhi (Lok Sabha constituency)|Sitamarhi]]
+| align="center" |None
+| [[Sunil Kumar Pintu]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 6 May 2019
+| align="center" {{won}}
+|-
+| align="center" |6
+| [[Madhubani (Lok Sabha constituency)|Madhubani]]
+| align="center" |None
+| [[Ashok Kumar Yadav]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 6 May 2019
+| align="center" {{won}}
+|-
+| align="center" |7
+| [[Jhanjharpur (Lok Sabha constituency)|Jhanjharpur]]
+| align="center" |None
+| [[Ramprit Mandal]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |8
+| [[Supaul (Lok Sabha constituency)|Supaul]]
+| align="center" |None
+| [[Dileshwar Kamait]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |9
+| [[Araria (Lok Sabha constituency)|Araria]]
+| align="center" |None
+| [[Pradeep Kumar Singh]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |10
+| [[Kishanganj (Lok Sabha constituency)|Kishanganj]]
+| align="center" |None
+| Mahmood Ashraf<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 18 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |11
+| [[Katihar (Lok Sabha constituency)|Katihar]]
+| align="center" |None
+| [[Dulal Chandra Goswami]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 18 April 2019
+| align="center" {{won}}
+|-
+| align="center" |12
+| [[Purnia (Lok Sabha constituency)|Purnia]]
+| align="center" |None
+| [[Santosh Kumar (politician)|Santosh Kumar Kushwaha]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 18 April 2019
+| align="center" {{won}}
+|-
+| align="center" |13
+| [[Madhepura (Lok Sabha constituency)|Madhepura]]
+| align="center" |None
+| [[Dinesh Chandra Yadav (Indian politician)|Dinesh Chandra Yadav]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |14
+| [[Darbhanga (Lok Sabha constituency)|Darbhanga]]
+| align="center" |None
+| [[Gopal Jee Thakur]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 29 April 2019
+| align="center" {{won}}
+|-
+| align="center" |15
+| [[Muzaffarpur (Lok Sabha constituency)|Muzaffarpur]]
+| align="center" |None
+| [[Ajay Nishad]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 6 May 2019
+| align="center" {{won}}
+|-
+| align="center" |16
+| [[Vaishali (Lok Sabha constituency)|Vaishali]]
+| align="center" |None
+| [[Veena Devi]]<ref name="Bihar"/>
+| bgcolor=#0093DD|
+| [[Lok Janshakti Party]]
+| align="center" | 12 May 2019
+| align="center" {{won}}
+|-
+| align="center" |17
+| [[Gopalganj (Lok Sabha constituency)|Gopalganj]]
+| align="center" |SC
+|Dr. [[Alok Kumar Suman]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 12 May 2019
+| align="center" {{won}}
+|-
+| align="center" |18
+| [[Siwan (Lok Sabha constituency)|Siwan]]
+| align="center" |None
+| [[Kavita Singh (Bihar politician)|Kavita Singh]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 12 May 2019
+| align="center" {{won}}
+|-
+| align="center" |19
+| [[Maharajganj (Bihar Lok Sabha constituency)|Maharajganj]]
+| align="center" |None
+| [[Janardan Singh Sigriwal]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 12 May 2019
+| align="center" {{won}}
+|-
+| align="center" |20
+| [[Saran (Lok Sabha constituency)|Saran]]
+| align="center" |None
+| [[Rajiv Pratap Rudy]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 6 May 2019
+| align="center" {{won}}
+|-
+| align="center" |21
+| [[Hajipur (Lok Sabha constituency)|Hajipur]]
+| align="center" |SC
+| [[Pashupati Kumar Paras]]<ref name="Bihar"/>
+| bgcolor=#0093DD|
+| [[Lok Janshakti Party]]
+| align="center" | 6 May 2019
+| align="center" {{won}}
+|-
+| align="center" |22
+| [[Ujiarpur (Lok Sabha constituency)|Ujiarpur]]
+| align="center" |None
+| [[Nityanand Rai]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 29 April 2019
+| align="center" {{won}}
+|-
+| align="center" |23
+| [[Samastipur (Lok Sabha constituency)|Samastipur]]
+| align="center" |None
+| [[Ram Chandra Paswan]]<ref name="Bihar"/>
+| bgcolor=#0093DD|
+| [[Lok Janshakti Party]]
+| align="center" | 29 April 2019
+| align="center" {{won}}
+|-
+| align="center" |24
+| [[Begusarai (Lok Sabha constituency)|Begusarai]]
+| align="center" |None
+| [[Giriraj Singh]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 29 April 2019
+| align="center" {{won}}
+|-
+| align="center" |25
+| [[Khagaria (Lok Sabha constituency)|Khagaria]]
+| align="center" |None
+| [[Mehboob Ali Kaiser]]<ref>{{cite web | url=https://timesofindia.indiatimes.com/elections/lok-sabha-elections-2019/bihar/news/ljp-retains-mehboob-ali-kaiser-from-khagaria/articleshow/68585550.cms | title=Lok Sabha elections: LJP retains Mehboob Ali Kaiser from Khagaria | publisher=Times of India | date=27 March 2019 | accessdate=29 March 2019 | author=Singh, Abhay}}</ref>
+| bgcolor=#0093DD|
+| [[Lok Janshakti Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |26
+| [[Bhagalpur (Lok Sabha constituency)|Bhagalpur]]
+| align="center" |None
+| [[Ajay Kumar Mandal]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 18 April 2019
+| align="center" {{won}}
+|-
+| align="center" |27
+| [[Banka (Lok Sabha constituency)|Banka]]
+| align="center" |None
+| [[Giridhari Yadav]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 18 April 2019
+| align="center" {{won}}
+|-
+| align="center" |28
+| [[Munger (Lok Sabha constituency)|Munger]]
+| align="center" |None
+| [[Lalan Singh]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 29 April 2019
+| align="center" {{won}}
+|-
+| align="center" |29
+| [[Nalanda (Lok Sabha constituency)|Nalanda]]
+| align="center" |None
+| [[Kaushalendra Kumar]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+|-
+| align="center" |30
+| [[Patna Sahib (Lok Sabha constituency)|Patna Sahib]]
+| align="center" |None
+| [[Ravi Shankar Prasad]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+|-
+| align="center" |31
+| [[Pataliputra (Lok Sabha constituency)|Pataliputra]]
+| align="center" |None
+| [[Ram Kripal Yadav]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+|-
+| align="center" |32
+| [[Arrah (Lok Sabha constituency)|Arrah]]
+| align="center" |None
+| [[R. K. Singh|Raj Kumar Singh]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+|-
+| align="center" |33
+| [[Buxar (Lok Sabha constituency)|Buxar]]
+| align="center" |None
+| [[Ashwini Kumar Choubey]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+|-
+| align="center" |34
+| [[Sasaram (Lok Sabha constituency)|Sasaram]]
+| align="center" |SC
+| [[Chhedi Paswan]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+|-
+| align="center" |35
+| [[Karakat (Lok Sabha constituency)|Karakat]]
+| align="center" |None
+| [[Mahabali Singh]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+|-
+| align="center" |36
+| [[Jahanabad (Lok Sabha constituency)|Jahanabad]]
+| align="center" |None
+| [[Chandeshwar Prasad]]<ref name="Bihar"/>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+|-
+| align="center" |37
+| [[Aurangabad (Bihar Lok Sabha constituency)|Aurangabad]]
+| align="center" |None
+| [[Sushil Kumar Singh (politician)|Sushil Kumar Singh]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{won}}
+|-
+| align="center" |38
+| [[Gaya (Lok Sabha constituency)|Gaya]]
+| align="center" |SC
+| [[Vijay Kumar Manjhi]]<ref>{{cite web | url=https://www.dnaindia.com/india/photo-gallery-bjp-jdu-and-ljp-announce-lok-sabha-candidates-in-bihar-complete-list-major-takeaways-2732305/sitting-bjp-mps-dropped-2732308 | title=BJP, JD(U) and LJP announce Lok Sabha candidates in Bihar: Complete list, major takeaways | work=Daily News and Analysis | date=23 March 2019 | accessdate=29 March 2019}}</ref>
+| bgcolor=#1D3463|
+| [[Janata Dal (United)]]
+| align="center" | 11 April 2019
+| align="center" {{won}}
+|-
+| align="center" |39
+| [[Nawada (Lok Sabha constituency)|Nawada]]
+| align="center" |None
+| [[Chandan Singh (politician)|Chandan Kumar]]<ref name="Bihar"/>
+| bgcolor=#0093DD|
+| [[Lok Janshakti Party]]
+| align="center" | 11 April 2019
+| align="center" {{won}}
+|-
+| align="center" |40
+| [[Jamui (Lok Sabha constituency)|Jamui]]
+| align="center" |SC
+| [[Chirag Paswan]]<ref name="Bihar"/>
+| bgcolor=#0093DD|
+| [[Lok Janshakti Party]]
+| align="center" | 11 April 2019
+| align="center" {{won}}
+
+|}
+
+== Chhattisgarh  ==
+[[File:Chhattisgarh NDA Seat Sharing Colour Coded.png|thumb|Chhattisgarh NDA |231x231px]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (11) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1
+| [[Sarguja (Lok Sabha constituency)|Sarguja]]
+| align="center" |ST
+| [[Renuka Singh (politician)|Renuka Singh]]<ref name="List1to9"/>
+| bgcolor=#FF9933| 
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |2
+| [[Raigarh (Lok Sabha constituency)|Raigarh]]
+| align="center" |ST
+| [[Gomtee Sai]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |3
+| [[Janjgir (Lok Sabha constituency)|Janjgir]]
+| align="center" |SC
+| [[Guharam Ajgalle]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |4
+| [[Korba (Lok Sabha constituency)|Korba]]
+| align="center" |None
+| Jyotinand Dubey<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |5
+| [[Bilaspur (Lok Sabha constituency)|Bilaspur]]
+| align="center" |None
+| [[Arun Sao]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |6
+| [[Rajnandgaon (Lok Sabha constituency)|Rajnandgaon]]
+| align="center" |None
+| [[Santosh Pandey (BJP)|Santosh Pandey]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 18 April 2019
+| align="center" {{won}}
+|-
+| align="center" |7
+| [[Durg (Lok Sabha constituency)|Durg]]
+| align="center" |None
+| [[Vijay Baghel]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |8
+| [[Raipur (Lok Sabha constituency)|Raipur]]
+| align="center" |None
+| [[Sunil Soni]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |9
+| [[Mahasamund (Lok Sabha constituency)|Mahasamund]]
+| align="center" |None
+| [[Chunnilal Sahu]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 18 April 2019
+| align="center" {{won}}
+|-
+| align="center" |10
+| [[Bastar (Lok Sabha constituency)|Bastar]]
+| align="center" |ST
+| Baiduram Kashyap<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |11
+| [[Kanker (Lok Sabha constituency)|Kanker]]
+| align="center" |ST
+| [[Mohan Mandavi]]<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 18 April 2019
+| align="center" {{won}}
+
+|}
+
+== Goa ==
+[[File:Goa NDA Seat Sharing Colour Coded.png|thumb|171x171px|Goa NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (2) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1
+| [[North Goa (Lok Sabha constituency)|North Goa]]
+| align="center" |None
+| [[Shripad Naik]]<ref name="List1to9"/>
+|bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{won}}
+|-
+| align="center" |2
+| [[South Goa (Lok Sabha constituency)|South Goa]]
+| align="center" |None
+| [[Narendra Keshav Sawaikar]]<ref name="List1to9"/>
+|bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{lost}}
+
+|}
+
+==Gujarat ==
+[[File:Gujarat NDA Seat Sharing Colour Coded.png|thumb|258x258px|Gujarat NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (26) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Kachchh (Lok Sabha constituency)|Kachchh]] || align="center" |SC ||[[Vinodbhai Chavda]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Banaskantha (Lok Sabha constituency)|Banaskantha]] || align="center" |None ||[[Parbatbhai Patel]]<ref name="Guj">{{cite web | url=https://www.thehindu.com/elections/lok-sabha-2019/bjp-drops-three-mps-in-gujarat-list/article26656474.ece | title=BJP drops three MPs in Gujarat list | work=The Hindu | date=27 March 2019 | accessdate=29 March 2019}}</ref> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Patan (Lok Sabha constituency)|Patan]] || align="center" |None ||[[Bharatsinhji Dabhi|Bharatsinhji Dabhi Thakor]]<ref name="GJ2">{{cite web | url=https://ahmedabadmirror.indiatimes.com/ahmedabad/others/bjp-declares-candidates-for-4-ls-seats/articleshow/68661610.cms | title=BJP declares candidates for 4 LS seats | publisher=Ahmedabad Mirror | date=1 April 2019 | accessdate=8 April 2019}}</ref> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Mahesana (Lok Sabha constituency)|Mahesana]] || align="center" |None ||[[Shardaben Patel]]<ref name="GJ1">{{cite web | url=https://www.business-standard.com/article/pti-stories/bjp-declares-two-more-lok-sabha-candidates-in-gujarat-119040201278_1.html | title=BJP declares two more Lok Sabha candidates in Gujarat | publisher=Business Standard | date=2 April 2019 | accessdate=4 April 2019}}</ref>||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Sabarkantha (Lok Sabha constituency)|Sabarkantha]] || align="center" |None || [[Dipsinh Shankarsinh Rathod|Dipsinh Rathod]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Gandhinagar (Lok Sabha constituency)|Gandhinagar]] || align="center" |None || [[Amit Shah]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Ahmedabad East (Lok Sabha constituency)|Ahmedabad East]] || align="center" |None ||[[Hasmukh Patel (politician)|Hasmukh Patel]]<ref name="GJ3">{{cite web | url=https://ahmedabadmirror.indiatimes.com/ahmedabad/others/bjp-cong-pull-rabbit-out-of-hat/articleshow/68729817.cms | title=BJP, Cong pull rabbit out of hat | publisher=Ahmedabad Mirror | date=5 April 2019 | accessdate=8 April 2019 | author=Nikunj Soni and Alok Brahmbhatt}}</ref>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |8 || [[Ahmedabad West (Lok Sabha constituency)|Ahmedabad West]] || align="center" |SC || [[Kirit Premjibhai Solanki|Kirit Solanki]]<ref name="GJ3"/>||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]] || align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Surendranagar (Lok Sabha constituency)|Surendranagar]] || align="center" |None ||[[Mahendra Munjapara]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |10 || [[Rajkot (Lok Sabha constituency)|Rajkot]] || align="center" |None || [[Mohan Kundariya]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |11 || [[Porbandar (Lok Sabha constituency)|Porbandar]] || align="center" |None ||[[Rameshbhai Dhaduk]]<ref name="Guj"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Jamnagar (Lok Sabha constituency)|Jamnagar]] || align="center" |None || [[Poonamben Maadam]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |13 || [[Junagadh (Lok Sabha constituency)|Junagadh]] || align="center" |None ||[[Rajesh Chudasama]]<ref name="GJ2"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |14 || [[Amreli (Lok Sabha constituency)|Amreli]] || align="center" |None || [[Naranbhai Kachhadia]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |15 || [[Bhavnagar (Lok Sabha constituency)|Bhavnagar]] || align="center" |None || [[Bharti Shiyal]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |16 || [[Anand (Lok Sabha constituency)|Anand]] || align="center" |None ||[[Miteshbhai Patel]]<ref name="GJ2"/>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |17 || [[Kheda (Lok Sabha constituency)|Kheda]] || align="center" |None || [[Devusinh Jesingbhai Chauhan|Devusinh Chauhan]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |18 || [[Panchmahal (Lok Sabha constituency)|Panchmahal]] || align="center" |None ||[[Ratansinh Rathod]]<ref name="Guj"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |19 || [[Dahod (Lok Sabha constituency)|Dahod]] || align="center" |ST || [[Jasvantsinh Sumanbhai Bhabhor|Jasvantsinh Bhabhor]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |20 || [[Vadodara (Lok Sabha constituency)|Vadodara]] || align="center" |None || [[Ranjanben Dhananjay Bhatt|Ranjanben Bhatt]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |21 || [[Chhota Udaipur (Lok Sabha constituency)|Chhota Udaipur]] || align="center" |ST ||[[Gitaben Rathva]]<ref name="GJ2"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |22 || [[Bharuch (Lok Sabha constituency)|Bharuch]] || align="center" |None || [[Mansukhbhai Vasava]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |23 || [[Bardoli (Lok Sabha constituency)|Bardoli]] || align="center" |ST || [[Parbhubhai Vasava]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |24 || [[Surat (Lok Sabha constituency)|Surat]] || align="center" |None ||[[Darshana Jardosh]]<ref name="GJ1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |25 || [[Navsari (Lok Sabha constituency)|Navsari]] || align="center" |None || [[C. R. Patil]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |26 || [[Valsad (Lok Sabha constituency)|Valsad]] || align="center" |ST || Dr. [[K C Patel]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+|}
+
+== Haryana ==
+[[File:Haryana NDA Seat Sharing Colour Coded.png|thumb|219x219px|Haryana NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (10) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Ambala (Lok Sabha constituency)|Ambala]] || align="center" |SC ||[[Rattan Lal Kataria]]<ref name="HR1">{{cite web | url=https://www.ndtv.com/india-news/lok-sabha-election-2019-bjp-names-8-candidates-for-haryana-2019158 | title=5 Lawmakers Retained As BJP Names 8 Candidates For Haryana | publisher=NDTV | date=7 April 2019 | accessdate=8 April 2019}}</ref> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Kurukshetra (Lok Sabha constituency)|Kurukshetra]] || align="center" |None ||[[Nayab Singh|Nayab Singh Saini]]<ref name="HR1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Sirsa (Lok Sabha constituency)|Sirsa]] || align="center" |SC ||[[Sunita Duggal|Suneeta Duggal]]<ref name="HR1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Hisar (Lok Sabha constituency)|Hisar]] || align="center" |None ||[[Brijendra Singh (BJP politician)|Brijendra Singh]]||bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Karnal (Lok Sabha constituency)|Karnal]] || align="center" |None ||[[Sanjay Bhatia]]<ref name="HR1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Sonipat (Lok Sabha constituency)|Sonipat]] || align="center" |None ||[[Ramesh Chander Kaushik]]<ref name="HR1"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Rohtak (Lok Sabha constituency)|Rohtak]] || align="center" |None ||[[Arvind Kumar Sharma]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |8 || [[Bhiwani–Mahendragarh (Lok Sabha constituency)|Bhiwani–Mahendragarh]] || align="center" |None ||[[Dharambir Singh Chaudhary|Dharmvir Singh]]<ref name="HR1"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Gurgaon (Lok Sabha constituency)|Gurgaon]] || align="center" |None ||[[Rao Inderjit Singh]]<ref name="HR1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |10 || [[Faridabad (Lok Sabha constituency)|Faridabad]] || align="center" |None ||[[Krishan Pal Gurjar]]<ref name="HR1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+|}
+
+==Himachal Pradesh ==
+[[File:Himachal Pradesh NDA Seat Sharing Colour Coded.png|thumb|184x184px|Himachal Pradesh NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (4) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Kangra (Lok Sabha constituency)|Kangra]] || align="center" |None ||[[Kishan Kapoor]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Mandi (Lok Sabha constituency)|Mandi]] || align="center" |None ||[[Ram Swaroop Sharma]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Hamirpur, Himachal Pradesh (Lok Sabha constituency)|Hamirpur]] || align="center" |None ||[[Anurag Thakur]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Shimla (Lok Sabha constituency)|Shimla]] || align="center" |SC ||[[Suresh Kumar Kashyap|Suresh Kashyap]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+|}
+
+==Jammu and Kashmir ==
+[[File:Jammu & Kashmir NDA Seat Sharing Colour Coded.png|thumb|216x216px|Jammu & Kashmir NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (6) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1|| [[Baramulla (Lok Sabha constituency)|Baramulla]] || align="center" |None ||M. M. War<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |2 || [[Srinagar (Lok Sabha constituency)|Srinagar]] || align="center" |None || Khalid Jehangir<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |3 || [[Anantnag (Lok Sabha constituency)|Anantnag]] || align="center" |None || Sofi Youssaf<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April, 29 April, 6 May 2019 || align="center" {{lost}}
+|-
+| align="center" |4 || [[Ladakh (Lok Sabha constituency)|Ladakh]] || align="center" |None ||[[Jamyang Tsering Namgyal]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Udhampur (Lok Sabha constituency)|Udhampur]] || align="center" |None || [[Jitendra Singh (BJP politician)|Jitendra Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Jammu (Lok Sabha constituency)|Jammu]] || align="center" |None || [[Jugal Kishore Sharma]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019|| align="center" {{won}}
+|-
+|}
+
+==Jharkhand ==
+[[File:Jharkhand NDA Seat Sharing Colour Coded.png|alt=|thumb|229x229px|Jharkhand NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (13) |border=solid 1px #AAAAAA}}
+{{legend2|#FF33FF|[[All Jharkhand Students Union|AJSU]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1|| [[Rajmahal (Lok Sabha constituency)|Rajmahal]] || align="center" |ST ||[[Hemlal Murmu]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|- 
+| align="center" |2 || [[Dumka (Lok Sabha constituency)|Dumka]] || align="center" |ST ||[[Sunil Soren]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Godda (Lok Sabha constituency)|Godda]] || align="center" |None ||[[Nishikant Dubey]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Chatra (Lok Sabha constituency)|Chatra]] || align="center" |None ||[[Sunil Kumar Singh (Jharkhand politician)|Sunil Kumar Singh]]<ref name="JH1">{{cite web | url=https://timesofindia.indiatimes.com/elections/lok-sabha-elections-2019/jharkhand/news/sanjay-seth-is-bjp-candidate-from-ranchi-annapurna-from-koderma/articleshow/68757154.cms? | title=Sanjay Seth is BJP candidate from Ranchi, Annapurna from Koderma | publisher=Times of India | date=7 April 2019 | accessdate=8 April 2019}}</ref> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Kodarma (Lok Sabha constituency)|Kodarma]] || align="center" |None ||[[Annapurna Devi Yadav]]<ref name="JH1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Giridih (Lok Sabha constituency)|Giridih]] || align="center" |None ||[[Chandra Prakash Choudhary|Chandra Prakash Chaudhary]]<ref>{{cite web | url=https://www.business-standard.com/article/pti-stories/chandraprakash-choudhary-to-be-ajsu-candidate-for-giridih-seat-119032500673_1.html | title=Chandraprakash Choudhary to be Ajsu candidate for Giridih seat | publisher=Business Standard | date=25 March 2019 | accessdate=29 March 2019}}</ref> ||bgcolor=#FF33FF|
+|[[All Jharkhand Students Union]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Dhanbad (Lok Sabha constituency)|Dhanbad]] || align="center" |None ||[[Pashupati Nath Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |8 || [[Ranchi (Lok Sabha constituency)|Ranchi]] || align="center" |None ||[[Sanjay Seth (Politician)|Sanjay Seth]]<ref name="JH1"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Jamshedpur (Lok Sabha constituency)|Jamshedpur]] || align="center" |None ||[[Bidyut Baran Mahato]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |10 || [[Singhbhum (Lok Sabha constituency)|Singhbhum]] || align="center" |ST ||[[Laxman Giluwa]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |11 || [[Khunti (Lok Sabha constituency)|Khunti]] || align="center" |ST ||[[Arjun Munda]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Lohardaga (Lok Sabha constituency)|Lohardaga]] || align="center" |ST ||[[Sudarshan Bhagat]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |13 || [[Palamau (Lok Sabha constituency)|Palamau]] || align="center" |SC ||[[Vishnu Dayal Ram]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |14 || [[Hazaribagh (Lok Sabha constituency)|Hazaribagh]] || align="center" |None ||[[Jayant Sinha]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+|}
+
+==Karnataka ==
+[[File:Karnataka NDA Seat Sharing Colour Coded.png|alt=|thumb|291x291px|Karnataka NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (27) |border=solid 1px #AAAAAA}}
+{{legend2|#DDDDDD|[[Independent politician|Independent]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Chikkodi (Lok Sabha constituency)|Chikkodi]] || align="center" |None ||[[Annasaheb Jolle]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Belagavi (Lok Sabha constituency)|Belagavi]] || align="center" |None ||[[Suresh Angadi]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Bagalkot (Lok Sabha constituency)|Bagalkot]] || align="center" |None ||[[P. C. Gaddigoudar]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Bijapur (Lok Sabha constituency)|Bijapur]] || align="center" |SC ||[[Ramesh Chandappa Jigajinagi]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Gulbarga (Lok Sabha constituency)|Kalaburagi]] || align="center" |SC ||[[Umesh. G. Jadhav]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Raichur (Lok Sabha constituency)|Raichur]] || align="center" |ST ||[[Raja Amresh Nayak]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Bidar (Lok Sabha constituency)|Bidar]] || align="center" |None ||[[Bhagwanth Khuba]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |8 || [[Koppal (Lok Sabha constituency)|Koppal]] || align="center" |None ||[[Karadi Sanganna Amarappa]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Bellary (Lok Sabha constituency)|Bellary]] || align="center" |ST || [[Devendrappa]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |10 || [[Haveri (Lok Sabha constituency)|Haveri]] || align="center" |None ||[[Shivkumar Chanabasappa Udasi]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |11 || [[Dharwad (Lok Sabha constituency)|Dharwad]] || align="center" |None ||[[Pralhad Joshi]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Uttara Kannada (Lok Sabha constituency)|Uttara Kannada]] || align="center" |None ||[[Anant Kumar Hegde]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |13 || [[Davangere (Lok Sabha constituency)|Davanagere]] || align="center" |None ||[[G. M. Siddeshwara]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |14 || [[Shimoga (Lok Sabha constituency)|Shimoga]] || align="center" |None ||[[B. Y. Raghavendra]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |15 || [[Udupi Chikmagalur (Lok Sabha constituency)|Udupi Chikmagalur]] || align="center" |None ||[[Shobha Karandlaje]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |16 || [[Hassan (Lok Sabha constituency)|Hassan]] || align="center" |None ||[[A. Manju]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |17 || [[Dakshina Kannada (Lok Sabha constituency)|Dakshina Kannada]] || align="center" |None ||[[Nalin Kumar Kateel]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |18 || [[Chitradurga (Lok Sabha constituency)|Chitradurga]] || align="center" |SC ||[[A. Narayana Swamy]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |19 || [[Tumkur (Lok Sabha constituency)|Tumkur]] || align="center" |None ||[[G. S. Basavaraj]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |20 || [[Mandya (Lok Sabha constituency)|Mandya]] || align="center" |None ||[[Sumalatha]]<ref name="List1to9"/> ||bgcolor=#DDDDDD|
+|[[Independent politician|Independent]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |21 || [[Mysore (Lok Sabha constituency)|Mysore]] || align="center" |None ||[[Pratap Simha]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |22 || [[Chamarajanagar (Lok Sabha constituency)|Chamarajanagar]] || align="center" |SC ||[[Srinivasa Prasad]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |23 || [[Bangalore Rural (Lok Sabha constituency)|Bangalore Rural]] || align="center" |None
+|Ashwathnarayan Gowda<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |24 || [[Bangalore North (Lok Sabha constituency)|Bangalore North]] || align="center" |None ||[[D. V. Sadananda Gowda]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |25 || [[Bangalore Central (Lok Sabha constituency)|Bangalore Central]] || align="center" |None ||[[P. C. Mohan]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |26 || [[Bangalore South (Lok Sabha constituency)|Bangalore South]] || align="center" |None ||[[L. S. Tejaswi Surya]]<ref name="List1to9"/>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |27 || [[Chikballapur (Lok Sabha constituency)|Chikballapur]] || align="center" |None ||[[B. N. Bache Gowda]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |28 || [[Kolar (Lok Sabha constituency)|Kolar]] || align="center" |SC ||[[S. Muniswamy]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|}
+
+== Kerala ==
+[[File:Kerala NDA Seat Sharing Arrangement Colour Coded.png|alt=|thumb|329x329px|Kerala NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (15) |border=solid 1px #AAAAAA}}
+{{legend2|#FFFF00|[[Bharath Dharma Jana Sena|BDJS]] (4) |border=solid 1px #AAAAAA}}
+{{legend2|#CC6600|[[Kerala Congress (Thomas)|KC(T)]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1
+| [[Kasaragod (Lok Sabha constituency)|Kasaragod]]
+| align="center" |None
+| Raveesh Thanthri Kuntar<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |2
+| [[Kannur (Lok Sabha constituency)|Kannur]]
+| align="center" |None
+| C. K. Padmanabhan<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |3
+| [[Vatakara (Lok Sabha constituency)|Vatakara]] || align="center" |None ||V. K. Sajeevan<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |4 || [[Wayanad (Lok Sabha constituency)|Wayanad]] || align="center" |None ||Thushar Vellapally|| bgcolor="#FFFF00" |
+|[[Bharath Dharma Jana Sena]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |5 || [[Kozhikode (Lok Sabha constituency)|Kozhikode]] || align="center" |None ||K. P. Prakash Babu<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |6 || [[Malappuram (Lok Sabha constituency)|Malappuram]] || align="center" |None
+| Unnikrishnan Master<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |7 || [[Ponnani (Lok Sabha constituency)|Ponnani]] || align="center" |None
+| V. T. Rema<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |8 || [[Palakkad (Lok Sabha constituency)|Palakkad]] || align="center" |None
+| C Krishna Kumar<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |9 || [[Alathur (Lok Sabha constituency)|Alathur]] || align="center" |SC ||T. V. Babu<ref name="Ker">{{cite web | url=https://www.thehindu.com/news/national/kerala/bdjs-candidates-for-3-seats/article26646720.ece | title=BDJS candidates for 3 seats | work=The Hindu | date=27 March 2019 | accessdate=29 March 2019}}</ref> ||bgcolor=#FFFF00|
+|[[Bharath Dharma Jana Sena]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |10 || [[Thrissur Lok Sabha constituency|Thrissur]] || align="center" |None ||[[Suresh Gopi]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |11 || [[Chalakudy (Lok Sabha constituency)|Chalakudy]] || align="center" |None ||A. N. Radhakrishnan<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |12 || [[Ernakulam (Lok Sabha constituency)|Ernakulam]] || align="center" |None || [[Alphons Kannanthanam]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |13 || [[Idukki (Lok Sabha constituency)|Idukki]] || align="center" |None ||Biju Krishnan<ref name="Ker"/> ||bgcolor=#FFFF00|
+|[[Bharath Dharma Jana Sena]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |14 || [[Kottayam (Lok Sabha constituency)|Kottayam]] || align="center" |None || [[P. C. Thomas]]<ref>{{cite web | url=https://www.newindianexpress.com/cities/kochi/2019/mar/24/will-repeat-muvattupuzha-win-1954939.html | title='Will repeat Muvattupuzha win'- P C Thomas | publisher=Indian Express | date=24 March 2019 | access-date=29 March 2019}}</ref> ||bgcolor=#CC6600| 
+|[[Kerala Congress (Thomas)]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |15
+| [[Alappuzha (Lok Sabha constituency)|Alappuzha]]
+| align="center" |None
+| K. S. Radhakrishnan<ref name="List1to9"/>
+| bgcolor=#FF9933|
+| [[Bharatiya Janata Party]]
+| align="center" | 23 April 2019
+| align="center" {{lost}}
+|-
+| align="center" |16 || [[Mavelikara (Lok Sabha constituency)|Mavelikara]] || align="center" |SC ||Thazhava Sahadevan<ref name="Ker"/> ||bgcolor=#FFFF00|
+|[[Bharath Dharma Jana Sena]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |17 || [[Pathanamthitta (Lok Sabha constituency)|Pathanamthitta]] || align="center" |None
+|K. Surendran<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |18 || [[Kollam (Lok Sabha constituency)|Kollam]] || align="center" |None || K. V. Sabu<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |19 || [[Attingal (Lok Sabha constituency)|Attingal]] || align="center" |None ||Shobha Surendran<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |20 || [[Thiruvananthapuram (Lok Sabha constituency)|Thiruvananthapuram]] || align="center" |None || [[Kummanam Rajasekharan]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|}
+
+==Madhya Pradesh ==
+[[File:Madhya Pradesh NDA Seat Sharing Colour Coded.png|thumb|284x284px|Madhya Pradesh NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (29) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Morena (Lok Sabha constituency)|Morena]] || align="center" |None ||[[Narendra Singh Tomar]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Bhind (Lok Sabha constituency)|Bhind]] || align="center" |SC ||[[Sandhya Rai]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Gwalior (Lok Sabha constituency)|Gwalior]] || align="center" |None ||[[Vivek Sejwalker]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Guna (Lok Sabha constituency)|Guna]] || align="center" |None ||[[K.P. Yadav]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Sagar (Lok Sabha constituency)|Sagar]] || align="center" |None ||[[Raj Bahadur Singh]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Tikamgarh (Lok Sabha constituency)|Tikamgarh]] || align="center" |SC ||[[Virendra Kumar Khatik]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Damoh (Lok Sabha constituency)|Damoh]] || align="center" |None ||[[Prahlad Singh Patel]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |8 || [[Khajuraho (Lok Sabha constituency)|Khajuraho]] || align="center" |None ||[[V. D. Sharma|Vishnu Datt Sharma]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Satna (Lok Sabha constituency)|Satna]] || align="center" |None ||[[Ganesh Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |10 || [[Rewa (Lok Sabha constituency)|Rewa]] || align="center" |None ||[[Janardan Mishra]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |11 || [[Sidhi (Lok Sabha constituency)|Sidhi]] || align="center" |None ||[[Riti Pathak]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Shahdol (Lok Sabha constituency)|Shahdol]] || align="center" |ST ||[[Himadri Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |13 || [[Jabalpur (Lok Sabha constituency)|Jabalpur]] || align="center" |None ||[[Rakesh Singh (politician)|Rakesh Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |14 || [[Mandla (Lok Sabha constituency)|Mandla]] || align="center" |ST ||[[Faggan Singh Kulaste]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |15 || [[Balaghat (Lok Sabha constituency)|Balaghat]] || align="center" |None ||[[Dhal Singh Bisen]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |16 || [[Chhindwara (Lok Sabha constituency)|Chhindwara]] || align="center" |None ||Natthan Shah||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |17 || [[Hoshangabad (Lok Sabha constituency)|Hoshangabad]] || align="center" |None ||[[Uday Pratap Singh (Madhya Pradesh politician)|Rao Uday Pratap Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |18 || [[Vidisha (Lok Sabha constituency)|Vidisha]] || align="center" |None ||[[Ramakant Bhargav]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |19 || [[Bhopal (Lok Sabha constituency)|Bhopal]] || align="center" |None ||[[Sadhvi Pragya]] || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |20 || [[Rajgarh (Lok Sabha constituency)|Rajgarh]] || align="center" |None ||[[Rodmal Nagar]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |21 || [[Dewas (Lok Sabha constituency)|Dewas]] || align="center" |SC ||[[Mahendra Solanki]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |22 || [[Ujjain (Lok Sabha constituency)|Ujjain]] || align="center" |SC ||[[Anil Firojiya]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |23 || [[Mandsaur (Lok Sabha constituency)|Mandsaur]] || align="center" |None ||[[Sudhir Gupta]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |24 || [[Ratlam (Lok Sabha constituency)|Ratlam]] || align="center" |ST ||[[Guman Singh Damor|G S Damor]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |25 || [[Dhar (Lok Sabha constituency)|Dhar]] || align="center" |ST ||[[Chhatar Singh Darbar]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |26 || [[Indore (Lok Sabha constituency)|Indore]] || align="center" |None ||[[Shankar Lalwani]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |27 || [[Khargone (Lok Sabha constituency)|Khargone]] || align="center" |ST ||[[Gajendra Patel]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |28 || [[Khandwa (Lok Sabha constituency)|Khandwa]] || align="center" |None ||[[Nandkumar Singh Chauhan|Nand Kumar Singh Chouhan]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |29 || [[Betul (Lok Sabha constituency)|Betul]] || align="center" |ST ||[[Durgadas Uike]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+|}
+
+==Maharashtra ==
+[[2019 Indian general election in Maharashtra|2019 Indian general election Maharashtra]] 
+[[File:Maharashtra NDA Seat Sharing Colour Coded.png|alt=|thumb|348x348px|Maharashtra NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (25) |border=solid 1px #AAAAAA}}
+{{legend2|#FF6634|[[Shiv Sena|SS]] (23) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Nandurbar (Lok Sabha constituency)|Nandurbar]] || align="center" |SC ||[[Heena Gavit]]<ref name="MH1">{{cite web | url=https://timesofindia.indiatimes.com/city/nashik/four-women-candidates-get-bjp-tickets-in-north-maharashtra/articleshow/68540491.cms | title=Four women candidates get BJP tickets in north Maharashtra | publisher=Times of India | date=24 March 2019 | accessdate=28 March 2019}}</ref> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Dhule (Lok Sabha constituency)|Dhule]] || align="center" |None ||[[Subhash Bhamre]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Jalgaon (Lok Sabha constituency)|Jalgaon]] || align="center" |None ||[[Unmesh Patil]]<ref>{{cite web | url=https://www.ndtv.com/india-news/lok-sabha-elections-2019-bjp-changes-maharashtras-jalgaon-candidate-unmesh-patil-replaces-smita-wagh-2017979 | title=BJP Changes Jalgaon Candidate, Unmesh Patil Replaces Smita Wagh | publisher=NDTV | date=4 April 2019 | accessdate=4 April 2019}}</ref> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Raver (Lok Sabha constituency)|Raver]] || align="center" |None ||[[Raksha Khadse]]<ref name="MH1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Buldhana (Lok Sabha constituency)|Buldhana]] || align="center" |None ||[[Prataprao Ganpatrao Jadhav]]<ref name="SS">{{cite web | url=https://www.business-standard.com/article/news-ians/shiv-sena-announces-21-ls-candidates-for-maharashtra-119032200618_1.html | title=Shiv Sena announces 21 LS candidates for Maharashtra | publisher=Business Standard | date=22 March 2019 | accessdate=29 March 2019}}</ref>||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Akola (Lok Sabha constituency)|Akola]] || align="center" |None || [[Sanjay Shamrao Dhotre]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Amravati (Lok Sabha constituency)|Amravati]] || align="center" |SC ||[[Anandrao Adsul]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |8 || [[Wardha (Lok Sabha constituency)|Wardha]] || align="center" |None || [[Ramdas Chandrabhanji Tadas]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Ramtek (Lok Sabha constituency)|Ramtek]] || align="center" |SC || [[Krupal Tumane]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |10 || [[Nagpur (Lok Sabha constituency)|Nagpur]] || align="center" |None || [[Nitin Jairam Gadkari]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |11 || [[Bhandara–Gondiya (Lok Sabha constituency)|Bhandara–Gondia]] || align="center" |None ||[[Sunil Baburao Mendhe]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Gadchiroli–Chimur (Lok Sabha constituency)|Gadchiroli–Chimur]] || align="center" |ST || [[Ashok Mahadeorao Nete]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |13 || [[Chandrapur (Lok Sabha constituency)|Chandrapur]] || align="center" |None || [[Hansraj Gangaram Ahir]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |14 || [[Yavatmal–Washim (Lok Sabha constituency)|Yavatmal–Washim]] || align="center" |None ||[[Bhavana Gawali]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |15 || [[Hingoli (Lok Sabha constituency)|Hingoli]] || align="center" |None ||[[Hemant Sriram Patil]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |16 || [[Nanded (Lok Sabha constituency)|Nanded]] || align="center" |None ||[[Prataprao Govindrao Chikhalikar]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |17 || [[Parbhani (Lok Sabha constituency)|Parbhani]] || align="center" |None ||[[Sanjay Haribhau Jadhav]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |18 || [[Jalna (Lok Sabha constituency)|Jalna]] || align="center" |None ||[[Raosaheb Danve]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |19 || [[Aurangabad (Maharashtra Lok Sabha constituency)|Aurangabad]] || align="center" |None ||[[Chandrakant Khaire]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |20 || [[Dindori (Lok Sabha constituency)|Dindori]] || align="center" |ST || Dr. [[Bharati Pawar]]<ref name="MH1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |21 || [[Nashik (Lok Sabha constituency)|Nashik]] || align="center" |None ||[[Hemant Godse]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |22 || [[Palghar (Lok Sabha constituency)|Palghar]] || align="center" |ST ||[[Rajendra Gavit]]<ref name="MH2"/>||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |23 || [[Bhiwandi (Lok Sabha constituency)|Bhiwandi]] || align="center" |None || [[Kapil Moreshwar Patil]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |24 || [[Kalyan (Lok Sabha constituency)|Kalyan]] || align="center" |None ||[[Shrikant Shinde]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |25 || [[Thane (Lok Sabha constituency)|Thane]] || align="center" |None ||[[Rajan Vichare]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |26 || [[Mumbai North (Lok Sabha constituency)|Mumbai North]] || align="center" |None || [[Gopal Chinayya Shetty]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |27 || [[Mumbai North West (Lok Sabha constituency)|Mumbai North West]] || align="center" |None ||[[Gajanan Kirtikar]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |28 || [[Mumbai North East (Lok Sabha constituency)|Mumbai North East]] || align="center" |None ||[[Manoj Kotak]]<ref>{{cite web | url=https://www.indiatoday.in/elections/lok-sabha-2019/story/bjp-drops-motor-mouth-kirit-somaiya-fields-councillor-manoj-kotak-in-mumbai-north-east-1493273-2019-04-03 | title=BJP drops motor mouth Kirit Somaiya, fields councillor Manoj Kotak in Mumbai North East | publisher=India Today | date=3 April 2019 | accessdate=4 April 2019 | author=Tare, Kiran}}</ref> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |29 || [[Mumbai North Central (Lok Sabha constituency)|Mumbai North Central]] || align="center" |None || [[Poonam Mahajan]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |30 || [[Mumbai South Central (Lok Sabha constituency)|Mumbai South Central]] || align="center" |None ||[[Rahul Shewale]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |31 || [[Mumbai South (Lok Sabha constituency)|Mumbai South]] || align="center" |None ||[[Arvind Sawant]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |32 || [[Raigad (Lok Sabha constituency)|Raigad]] || align="center" |None ||[[Anant Geete]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |33 || [[Maval (Lok Sabha constituency)|Maval]] || align="center" |None ||[[Shrirang Barne]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |34 || [[Pune (Lok Sabha constituency)|Pune]] || align="center" |None ||[[Girish Bapat]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |35 || [[Baramati (Lok Sabha constituency)|Baramati]] || align="center" |None || [[Kanchan Rahul Kul]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |36 || [[Shirur (Lok Sabha constituency)|Shirur]] || align="center" |None ||[[Shivajirao Adhalarao Patil]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |37 || [[Ahmednagar (Lok Sabha constituency)|Ahmednagar]] || align="center" |None || [[Sujay Vikhe Patil]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |38 || [[Shirdi (Lok Sabha constituency)|Shirdi]] || align="center" |SC ||[[Sadashiv Lokhande]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |39 || [[Beed (Lok Sabha constituency)|Beed]] || align="center" |None ||[[Pritam Munde]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |40 || [[Osmanabad (Lok Sabha constituency)|Osmanabad]] || align="center" |None || [[Omraje Nimbalkar]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |41 || [[Latur (Lok Sabha constituency)|Latur]] || align="center" |SC || [[Sudhakar Bhalerao Shrungare]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |42 || [[Solapur (Lok Sabha constituency)|Solapur]] || align="center" |SC || Dr. [[Jaisidhesvar Swami]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |43 || [[Madha (Lok Sabha constituency)|Madha]] || align="center" |None ||[[Ranjit Naik-Nimbalkar]]<ref>{{cite web | url=https://www.thehindu.com/elections/lok-sabha-2019/former-congress-leader-ranjitsinh-naik-nimbalkar-is-bjp-candidate-for-madha/article26673969.ece | title=Former Congress leader Ranjitsinh Naik-Nimbalkar is BJP candidate for Madha | work=The Hindu | date=29 March 2019 | accessdate=4 April 2019 | author=Banerjee, Shoumojit}}</ref> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |44 || [[Sangli (Lok Sabha constituency)|Sangli]] || align="center" |None ||[[Sanjaykaka Patil]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |45 || [[Satara (Lok Sabha constituency)|Satara]] || align="center" |None ||[[Narendra Patil]]<ref name="MH2">{{cite web | url=https://www.thehindu.com/elections/lok-sabha-2019/rajendra-gavit-joins-shiv-sena-will-contest-from-palghar/article26646835.ece | title=Rajendra Gavit joins Shiv Sena, will contest from Palghar | work=The Hindu | date=27 March 2019 | accessdate=29 March 2019 | author=Deshpande, Tanvi}}</ref> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |46 || [[Ratnagiri-Sindhudurg (Lok Sabha constituency)|Ratnagiri–Sindhudurg]] || align="center" |None ||[[Vinayak Raut]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |47 || [[Kolhapur (Lok Sabha constituency)|Kolhapur]] || align="center" |None ||[[Sanjay Mandlik]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |48 || [[Hatkanangle (Lok Sabha constituency)|Hatkanangle]] || align="center" |None || [[Dhairyashil Mane]]<ref name="SS"/> ||bgcolor=#FF6634|
+|[[Shiv Sena]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+|}
+
+== Manipur ==
+[[File:Manipur NDA Seat Sharing Colour Coded.png|thumb|136x136px|Manipur NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (2) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Inner Manipur (Lok Sabha constituency)|Inner Manipur]] || align="center" |None || [[Rajkumar Ranjan Singh|R. K. Ranjan Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Outer Manipur (Lok Sabha constituency)|Outer Manipur]] || align="center" |ST || [[H. Shokhopao Mate]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+|}
+
+== Meghalaya ==
+[[File:Meghalaya NDA Seat Sharing Colour Coded.png|thumb|202x202px|Meghalaya NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (2) |border=solid 1px #AAAAAA}}
+
+''Note: NDA member [[National People's Party (India)|National People's Party]] won in Tura, although there was no pre-poll alliance.''
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Shillong (Lok Sabha constituency)|Shillong]] || align="center" |ST || [[Sanbor Shullai]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |2 || [[Tura (Lok Sabha constituency)|Tura]] || align="center" |ST || [[Rikman G. Momin]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" |11 April 2019 || align="center" {{lost}}
+|-
+|}
+
+==Mizoram ==
+[[File:Mizoram NDA Seat-Sharing Colour Coded.png|thumb|124x124px|Mizoram NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (1) |border=solid 1px #AAAAAA}}
+
+''Note: NDA member [[Mizo National Front]] won, although there was no pre-poll alliance.''
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Mizoram (Lok Sabha constituency)|Mizoram]] || align="center" |ST || [[Nirupam Chakma]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+|}
+
+==Nagaland ==
+[[File:Nagaland NDA Seat Sharing Colour Coded.png|thumb|112x112px|Nagaland NDA]]
+{{legend2|#FD4242|[[Nationalist Democratic Progressive Party|NDPP]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+!Poll On
+! Result
+|-
+| align="center" |1 || [[Nagaland (Lok Sabha constituency)|Nagaland]] || align="center" |None || [[Tokheho Yepthomi]]<ref>{{cite web | url=https://www.business-standard.com/article/news-ians/nagaland-mp-ex-cm-file-nominations-for-ls-polls-119032200990_1.html | title=Nagaland MP, ex-CM file nominations for LS polls | publisher=Business Standard | date=22 March 2019 | accessdate=29 March 2019}}</ref> ||bgcolor=#FD4242|
+|[[Nationalist Democratic Progressive Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+|}
+
+==Odisha ==
+[[File:Odisha NDA Seat Sharing Colour Coded.png|thumb|234x234px|Odisha NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (21) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Bargarh (Lok Sabha constituency)|Bargarh]] || align="center" |None || [[Suresh Pujari]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Sundargarh (Lok Sabha constituency)|Sundargarh]] || align="center" |ST || [[Jual Oram]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Sambalpur (Lok Sabha constituency)|Sambalpur]] || align="center" |None || [[Nitesh Ganga Deb]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Keonjhar (Lok Sabha constituency)|Keonjhar]] || align="center" |ST || [[Ananta Nayak]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |5 || [[Mayurbhanj (Lok Sabha constituency)|Mayurbhanj]] || align="center" |ST ||[[Bishweswar Tudu]]<ref name="OR1"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Balasore (Lok Sabha constituency)|Balasore]] || align="center" |None || [[Pratap Sarangi]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Bhadrak (Lok Sabha constituency)|Bhadrak]] || align="center" |SC ||Avimanyu Sethi<ref name="OR1">{{cite web | url=https://www.business-standard.com/article/news-ians/bjp-names-3-ls-11-assembly-candidates-in-odisha-119040100470_1.html | title=BJP names 3 LS, 11 Assembly candidates in Odisha | publisher=Business Standard | date=1 April 2019 | accessdate=4 April 2019}}</ref>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |8 || [[Jajpur (Lok Sabha constituency)|Jajpur]] || align="center" |SC ||Amiya Kanta Mallick<ref name="OR1"/>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |9 || [[Dhenkanal (Lok Sabha constituency)|Dhenkanal]] || align="center" |None || [[Rudra Narayan Pani]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |10 || [[Bolangir (Lok Sabha constituency)|Bolangir]] || align="center" |None || [[Sangeeta Kumari Singh Deo]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |11 || [[Kalahandi (Lok Sabha constituency)|Kalahandi]] || align="center" |None ||[[Basanta Kumar Panda]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Nabarangpur (Lok Sabha constituency)|Nabarangpur]] || align="center" |ST || [[Balabhadra Majhi]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |13 || [[Kandhamal (Lok Sabha constituency)|Kandhamal]] || align="center" |None ||[[M. A. Kharavela Swain]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |14 || [[Cuttack (Lok Sabha constituency)|Cuttack]] || align="center" |None ||Prakash Mishra<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |15 || [[Kendrapara (Lok Sabha constituency)|Kendrapara]] || align="center" |None || [[Baijayant Panda]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |16 || [[Jagatsinghpur (Lok Sabha constituency)|Jagatsinghpur]] || align="center" |SC ||[[Bibhu Prasad Tarai]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |17 || [[Puri (Lok Sabha constituency)|Puri]] || align="center" |None ||[[Sambit Patra]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |18 || [[Bhubaneswar (Lok Sabha constituency)|Bhubaneswar]] || align="center" |None || [[Aparajita Sarangi]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |19 || [[Aska (Lok Sabha constituency)|Aska]] || align="center" |None ||Anita Subhadarshini<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |20 || [[Berhampur (Lok Sabha constituency)|Berhampur]] || align="center" |None || [[Bhrugu Baxipatra]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |21 || [[Koraput (Lok Sabha constituency)|Koraput]] || align="center" |ST ||[[Jayaram Pangi]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+|}
+
+==Punjab ==
+[[File:Punjab NDA Seat Sharing.png|thumb|Punjab NDA |alt=|211x211px]]
+{{legend2|#BD710F|[[Shiromani Akali Dal|SAD]] (10) |border=solid 1px #AAAAAA}}
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (3) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Gurdaspur (Lok Sabha constituency)|Gurdaspur]] || align="center" |None ||[[Sunny Deol]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Amritsar (Lok Sabha constituency)|Amritsar]] || align="center" |None ||[[Hardeep Singh Puri]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |3 || [[Khadoor Sahib (Lok Sabha constituency)|Khadoor Sahib]] || align="center" |None ||[[Bibi Jagir Kaur]]<ref>{{cite web | url=https://www.indiatoday.in/elections/lok-sabha-2019/story/shiromani-akali-dal-announces-first-candidate-for-lok-sabha-polls-in-punjab-1476261-2019-03-12 | title=SAD fields first candidate from Punjab for Lok Sabha elections | publisher=Indian Today | date=12 March 2019 | accessdate=2 April 2019}}</ref> ||bgcolor=#BD710F|
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |4 || [[Jalandhar (Lok Sabha constituency)|Jalandhar]] || align="center" |SC ||[[Charanjit Singh Atwal]]<ref name="PJ1"/> ||bgcolor=#BD710F|
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |5 || [[Hoshiarpur (Lok Sabha constituency)|Hoshiarpur]] || align="center" |SC ||[[Som Parkash]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Anandpur Sahib (Lok Sabha constituency)|Anandpur Sahib]] || align="center" |None ||[[Prem Singh Chandumajra]]<ref name="PJ1">{{cite web | url=https://www.hindustantimes.com/lok-sabha-elections/lok-sabha-elections-2019-shiromani-akali-dal-banks-on-old-warhorses-again/story-l5PkLtDxNCSqLQgCvtUNEM.html | title=Shiromani Akali Dal banks on old warhorses again | publisher=Hindustan Times | date=1 April 2019 | accessdate=2 April 2019}}</ref> || bgcolor="#BD710F" |
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |7 || [[Ludhiana (Lok Sabha constituency)|Ludhiana]] || align="center" |None ||[[Maheshinder Singh]]|| bgcolor="#BD710F" |
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |8 || [[Fatehgarh Sahib (Lok Sabha constituency)|Fatehgarh Sahib]] || align="center" |SC ||[[Darbara Singh Guru]]<ref name="PJ1"/> || bgcolor="#BD710F" |
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |9 || [[Faridkot (Lok Sabha constituency)|Faridkot]] || align="center" |SC ||[[Gulzar Singh Ranike]]<ref>{{cite web | url=https://www.tribuneindia.com/news/archive/punjab/gulzar-singh-ranike-is-sad-s-candidate-from-faridkot-754665/ | title=Ranike is SAD pick for crucial Faridkot seat | publisher=Tribune India | date=8 April 2019 | access-date=9 April 2019 | author=Khanna, Ruchika}}</ref>|| bgcolor="#BD710F" |
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |10 || [[Firozpur (Lok Sabha constituency)|Firozpur]] || align="center" |None ||[[Sukhbir Singh Badal]]||bgcolor=#BD710F|
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |11 || [[Bhatinda (Lok Sabha constituency)|Bathinda]] || align="center" |None ||[[Harsimrat Kaur Badal]]||bgcolor=#BD710F|
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Sangrur (Lok Sabha constituency)|Sangrur]] || align="center" |None ||[[Parminder Singh Dhindsa]]<ref>{{cite web | url=https://www.tribuneindia.com/news/archive/punjab/with-sad-bjp-leaders-in-tow-dhindsa-starts-campaign-in-sangrur-755171/ | title=With SAD-BJP leaders in tow, Dhindsa starts campaign in Sangrur | publisher=Tribune India | date=8 April 2019 | access-date=9 April 2019 | author=Sharma, Parvesh}}</ref>|| bgcolor="#BD710F" |
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |13 || [[Patiala (Lok Sabha constituency)|Patiala]] || align="center" |None ||[[Surjit Singh Rakhra]]<ref name="PJ1"/> || bgcolor="#BD710F" |
+|[[Shiromani Akali Dal]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+|}
+
+==Rajasthan ==
+[[File:Rajasthan NDA Seat Sharing Modified.png|alt=|thumb|280x280px|Rajasthan NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (24) |border=solid 1px #AAAAAA}}
+{{legend2|#FFFF00|[[Rashtriya Loktantrik Party|RLP]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Ganganagar (Lok Sabha constituency)|Ganganagar-Hanumangarh]] || align="center" |SC ||[[Nihalchand|Nihal Chand Chauhan]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Bikaner (Lok Sabha constituency)|Bikaner]] || align="center" |SC || [[Arjun Ram Meghwal]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Churu (Lok Sabha constituency)|Churu]] || align="center" |None ||[[Rahul Kaswan]]<ref name="RJ1"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Jhunjhunu (Lok Sabha constituency)|Jhunjhunu]] || align="center" |None || [[Narendra Kumar (politician)|Narendra Kumar]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Sikar (Lok Sabha constituency)|Sikar]] || align="center" |None || [[Sumedhanand Saraswati]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Jaipur Rural (Lok Sabha constituency)|Jaipur Rural]] || align="center" |None || [[Rajyavardhan Singh Rathore]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Jaipur (Lok Sabha constituency)|Jaipur]] || align="center" |None || [[Ramcharan Bohra]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |8 || [[Alwar (Lok Sabha constituency)|Alwar]] || align="center" |None ||[[Mahant Balaknath]]<ref name="RJ1"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Bharatpur (Lok Sabha constituency)|Bharatpur]] || align="center" |SC ||[[Ranjeeta Kohli]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |10 || [[Karauli–Dholpur (Lok Sabha constituency)|Karauli–Dholpur]] || align="center" |SC ||[[Manoj Rajoria]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |11 || [[Dausa (Lok Sabha constituency)|Dausa]] || align="center" |ST ||[[Jaskaur Meena]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Tonk–Sawai Madhopur (Lok Sabha constituency)|Tonk–Sawai Madhopur]] || align="center" |None || [[Sukhbir Singh Jaunapuria]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |13 || [[Ajmer (Lok Sabha constituency)|Ajmer]] || align="center" |None || [[Bhagirath Chaudhary]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |14 || [[Nagaur (Lok Sabha constituency)|Nagaur]] || align="center" |None ||[[Hanuman Beniwal]]<ref>{{cite web | url=https://www.firstpost.com/politics/hanuman-beniwals-rashtriya-loktantrik-party-allies-with-bjp-in-rajasthan-to-contest-lok-sabha-election-from-nagaur-6386181.html | title=Hanuman Beniwal's Rashtriya Loktantrik Party allies with BJP in Rajasthan, to contest Lok Sabha election from Nagaur | publisher=First Post | date=4 April 2019 | accessdate=4 April 2019}}</ref> ||bgcolor=#FFFF00|
+|[[Rashtriya Loktantrik Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |15 || [[Pali (Lok Sabha constituency)|Pali]] || align="center" |None || | [[P. P. Chaudhary|Prem Prakash Chaudhary]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |16 || [[Jodhpur (Lok Sabha constituency)|Jodhpur]] || align="center" |None || [[Gajendra Singh Shekhawat]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |17 || [[Barmer (Lok Sabha constituency)|Barmer-Jaisalmer]] || align="center" |None ||[[Kailash Choudhary]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |18 || [[Jalore (Lok Sabha constituency)|Jalore-Sirohi]] || align="center" |None ||[[Devji Patel|Devji Mansinghram Patel]]<ref name="List1to9"/> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |19 || [[Udaipur (Lok Sabha constituency)|Udaipur]] || align="center" |ST || [[Arjunlal Meena]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |20 || [[Banswara (Lok Sabha constituency)|Banswara-Dungarpur]] || align="center" |ST ||[[Kanak Mal Katara]]<ref name="RJ1">{{cite web | url=https://timesofindia.indiatimes.com/city/jaipur/bjp-names-3-candidates-in-second-list/articleshow/68638652.cms | title=Lok Sabha polls: BJP names 3 candidates in second list | work=The Times of India | date=30 March 2019 | accessdate=1 April 2019}}</ref> || bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |21 || [[Chittorgarh (Lok Sabha constituency)|Chittorgarh-Pratapgarh]] || align="center" |None || [[Chandra Prakash Joshi]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |22 || [[Rajsamand (Lok Sabha constituency)|Rajsamand]] || align="center" |None ||[[Diya Kumari]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |23 || [[Bhilwara (Lok Sabha constituency)|Bhilwara]] || align="center" |None || [[Subhash Chandra Baheria]]<ref name="List1to9"/>  ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |24 || [[Kota (Lok Sabha constituency)|Kota-Bundi]] || align="center" |None || [[Om Birla]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |25 || [[Jhalawar–Baran (Lok Sabha constituency)|Jhalawar–Baran]] || align="center" |None || [[Dushyant Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+|}
+
+==Sikkim ==
+[[File:Sikkim NDA Seat Sharing Colour Coded.png|thumb|114x114px|Sikkim NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Sikkim (Lok Sabha constituency)|Sikkim]] || align="center" |None || [[Laten Tshering Sherpa]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+|}
+
+== Tamil Nadu  ==
+[[File:Tamil Nadu NDA Seat Sharing.png|thumb|Tamil Nadu NDA |alt=|254x254px]]
+{{legend2|#009900|[[All India Anna Dravida Munnetra Kazhagam|AIADMK]] (20) |border=solid 1px #AAAAAA}}
+{{legend2|#FFFF00|[[Pattali Makkal Katchi|PMK]] (7) |border=solid 1px #AAAAAA}}
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (5) |border=solid 1px #AAAAAA}}
+{{legend2|#808000|[[Desiya Murpokku Dravida Kazhagam|DMDK]] (4) |border=solid 1px #AAAAAA}}
+{{legend2|#800080|[[Tamil Maanila Congress|TMC]] (1) |border=solid 1px #AAAAAA}}
+{{legend2|#99FF00|[[Puthiya Needhi Katchi|PNK]] (1) |border=solid 1px #AAAAAA}}
+{{legend2|#0000FF|[[Puthiya Tamilagam|PT]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Thiruvallur (Lok Sabha constituency)|Thiruvallur]] || align="center" |SC ||[[Ponnusamy Venugopal]]<ref name="TN1">{{cite web | url=https://www.thenewsminute.com/article/full-list-candidates-aiadmk-bjp-alliance-tamil-nadu-ls-polls-98943 | title=Full list of candidates of AIADMK-BJP Alliance from Tamil Nadu | publisher=The News Minute | date=25 March 2019 | accessdate=1 April 2019}}</ref> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |2 || [[Chennai North (Lok Sabha constituency)|Chennai North]] || align="center" |None ||[[R. Mohan Raj]]<ref name="TN1"/> ||bgcolor=#808000|
+|[[Desiya Murpokku Dravida Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |3 || [[Chennai South (Lok Sabha constituency)|Chennai South]] || align="center" |None ||[[J. Jayavardhan]]<ref name="TN1"/>  ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |4 || [[Chennai Central (Lok Sabha constituency)|Chennai Central]] || align="center" |None || [[Sam Paul (entrepreneur)|Sam Paul. S.R.]]<ref name="TN1"/> ||bgcolor=#FFFF00| 
+|[[Pattali Makkal Katchi]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |5 || [[Sriperumbudur (Lok Sabha constituency)|Sriperumbudur]] || align="center" |None || [[A. Vaithialingam]]<ref name="TN1"/>  ||bgcolor=#FFFF00|
+|[[Pattali Makkal Katchi]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |6 || [[Kancheepuram (Lok Sabha constituency)|Kancheepuram]] || align="center" |SC ||[[K. Maragatham]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |7 || [[Arakkonam (Lok Sabha constituency)|Arakkonam]] || align="center" |None ||[[A. K. Moorthy]]<ref name="TN1"/>  ||bgcolor=#FFFF00|
+|[[Pattali Makkal Katchi]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |8 || [[Vellore (Lok Sabha constituency)|Vellore]] || align="center" |None ||[[A. C. Shanmugam]]<ref name="TN1"/> ||bgcolor=#99FF00|
+|[[Puthiya Needhi Katchi]]|| align="center" | 5 August 2019 || align="center" {{lost}}
+|-
+| align="center" |9 || [[Krishnagiri (Lok Sabha constituency)|Krishnagiri]] || align="center" |None ||[[K. P. Munusamy]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |10 || [[Dharmapuri (Lok Sabha constituency)|Dharmapuri]] || align="center" |None ||[[Anbumani Ramadoss]]<ref name="TN1"/> ||bgcolor=#FFFF00|
+|[[Pattali Makkal Katchi]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |11 || [[Tiruvannamalai (Lok Sabha constituency)|Tiruvannamalai]] || align="center" |None ||[[S. S. Krishnamoorthy]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |12 || [[Arani (Lok Sabha constituency)|Arani]] || align="center" |None ||[[V. Elumalai]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |13 || [[Villupuram (Lok Sabha constituency)|Villupuram]] || align="center" |SC || [[Vadivel Ravanan]]<ref name="TN1"/>  || bgcolor=#FFFF00|
+|[[Pattali Makkal Katchi]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |14 || [[Kallakurichi (Lok Sabha constituency)|Kallakurichi]] || align="center" |None || [[L. K. Sudhish]]<ref name="TN1"/> ||bgcolor=#808000|
+|[[Desiya Murpokku Dravida Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |15 || [[Salem (Lok Sabha constituency)|Salem]] || align="center" |None || [[K. R. S. Saravanan]]<ref name="TN1"/> || bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |16 || [[Namakkal (Lok Sabha constituency)|Namakkal]] || align="center" |None || [[P. Kaliappan]]<ref name="TN1"/> ||bgcolor=#009900| 
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |17 || [[Erode (Lok Sabha constituency)|Erode]] || align="center" |None || [[G. Manimaran]]<ref name="TN1"/> ||bgcolor=#009900| 
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |18 || [[Tiruppur (Lok Sabha constituency)|Tiruppur]] || align="center" |None ||[[M. S. M. Anandan]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |19 || [[Nilgiris (Lok Sabha constituency)|Nilgiris]] || align="center" |SC || [[M. Thiyagarajan]]<ref name="TN1"/> ||bgcolor=#009900| 
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |20 || [[Coimbatore (Lok Sabha constituency)|Coimbatore]] || align="center" |None ||[[C. P. Radhakrishnan]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |21 || [[Pollachi (Lok Sabha constituency)|Pollachi]] || align="center" |None ||[[C. Mahendran]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |22 || [[Dindigul (Lok Sabha constituency)|Dindigul]] || align="center" |None || [[K. Jyothi]]<ref name="TN1"/> ||bgcolor=#FFFF00|
+|[[Pattali Makkal Katchi]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |23 || [[Karur (Lok Sabha constituency)|Karur]] || align="center" |None ||[[M. Thambidurai]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |24 || [[Tiruchirappalli (Lok Sabha constituency)|Tiruchirappalli]] || align="center" |None || Dr. [[V. Elangovan]]<ref name="TN1"/>  ||bgcolor=#808000|
+|[[Desiya Murpokku Dravida Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |25 || [[Perambalur (Lok Sabha constituency)|Perambalur]] || align="center" |None ||[[N. R. Sivapathi]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |26 || [[Cuddalore (Lok Sabha constituency)|Cuddalore]] || align="center" |None || [[R. Govindasamy]]<ref name="TN1"/> ||bgcolor=#FFFF00|
+|[[Pattali Makkal Katchi]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |27 || [[Chidambaram (Lok Sabha constituency)|Chidambaram]] || align="center" |SC || [[P. Chandrasekar]]<ref name="TN1"/> ||bgcolor=#009900| 
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |28 || [[Mayiladuthurai (Lok Sabha constituency)|Mayiladuthurai]] || align="center" |None || [[S. Asaimani]]<ref name="TN1"/> || bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |29 || [[Nagapattinam (Lok Sabha constituency)|Nagapattinam]] || align="center" |SC || [[Thazhai M. Saravanan]]<ref name="TN1"/> || bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |30 || [[Thanjavur (Lok Sabha constituency)|Thanjavur]] || align="center" |None || [[N. R. Natarajan]]<ref name="TN1"/> || bgcolor=#800080|
+|[[Tamil Maanila Congress]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |31 || [[Sivaganga (Lok Sabha constituency)|Sivaganga]] || align="center" |None ||[[H. Raja]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |32 || [[Madurai (Lok Sabha constituency)|Madurai]] || align="center" |None || [[V. V. R. Rajsathyan]]<ref name="TN1"/> || bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |33 || [[Theni (Lok Sabha constituency)|Theni]] || align="center" |None || [[O. P. Ravindranath Kumar]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |34 || [[Virudhunagar (Lok Sabha constituency)|Virudhunagar]] || align="center" |None ||[[R. Azhagarsamy]]<ref name="TN1"/> ||bgcolor=#808000| 
+|[[Desiya Murpokku Dravida Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |35 || [[Ramanathapuram (Lok Sabha constituency)|Ramanathapuram]] || align="center" |None || [[Nainar Nagendran]]<ref name="List1to9"/>  ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |36 || [[Thoothukudi (Lok Sabha constituency)|Thoothukudi]] || align="center" |None ||[[Tamilisai Soundararajan]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |37 || [[Tenkasi (Lok Sabha constituency)|Tenkasi]] || align="center" |SC ||Dr. [[K. Krishnasamy]]<ref name="TN1"/> ||bgcolor=#0000FF|
+|[[Puthiya Tamilagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |38 || [[Tirunelveli (Lok Sabha constituency)|Tirunelveli]] || align="center" |None ||[[P. H. Paul Manoj Pandian]]<ref name="TN1"/> ||bgcolor=#009900|
+|[[All India Anna Dravida Munnetra Kazhagam]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |39 || [[Kanyakumari (Lok Sabha constituency)|Kanyakumari]] || align="center" |None ||[[Pon Radhakrishnan]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+|}
+
+== Telangana ==
+[[File:Telangana NDA Seat Sharing Colour Coded.png|thumb|241x241px|Telangana NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (17) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Adilabad (Lok Sabha constituency)|Adilabad]] || align="center" |ST ||[[Soyam Bapu Rao]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Peddapalle (Lok Sabha constituency)|Peddapalle]] || align="center" |SC ||[[Sogala Kumar]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |3 || [[Karimnagar (Lok Sabha constituency)|Karimnagar]] || align="center" |None || [[Bandi Sanjay Kumar]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Nizamabad (Lok Sabha constituency)|Nizamabad]] || align="center" |None || [[Dharmapuri Arvind]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Zahirabad (Lok Sabha constituency)|Zahirabad]] || align="center" |None ||[[Banala Laxman Reddy]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |6 || [[Medak (Lok Sabha constituency)|Medak]] || align="center" |None ||[[Raghunandan Rao]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |7 || [[Malkajgiri (Lok Sabha constituency)|Malkajgiri]] || align="center" |None || [[Naraparaju Ramchander Rao]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |8 || [[Secunderabad (Lok Sabha constituency)|Secunderabad]] || align="center" |None || [[G. Kishan Reddy]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |9 || [[Hyderabad (Lok Sabha constituency)|Hyderabad]] || align="center" |None ||[[Dr. Bhagwanth Rao]]<ref name="List1to9"/>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |10 || [[Chevella (Lok Sabha constituency)|Chevella]] || align="center" |None ||[[B. Janardhan Reddy]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |11 || [[Mahbubnagar (Lok Sabha Constituency)|Mahbubnagar]] || align="center" |None || [[D. K. Aruna]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |12 || [[Nagarkurnool (Lok Sabha constituency)|Nagarkurnool]] || align="center" |SC || [[Bangaru Sruthi]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |13 || [[Nalgonda (Lok Sabha constituency)|Nalgonda]] || align="center" |None || [[Garlapati Jithender Kumar]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |14 || [[Bhongir (Lok Sabha constituency)|Bhongir]] || align="center" |None || [[P. V. Shamsunder Rao]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |15 || [[Warangal (Lok Sabha constituency)|Warangal]] || align="center" |SC || [[Chinta Sambamurthy]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |16 || [[Mahabubabad (Lok Sabha constituency)|Mahabubabad]] || align="center" |ST || [[Jatothu Hussain Naik]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |17 || [[Khammam (Lok Sabha constituency)|Khammam]] || align="center" |None ||[[Vasudev Rao]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+|}
+
+== Tripura ==
+[[File:Tripura NDA Seat Sharing Colour Coded.png|thumb|144x144px|Tripura NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (2) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Tripura West (Lok Sabha constituency)|Tripura West]] || align="center" |None || [[Pratima Bhowmik]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Tripura East (Lok Sabha constituency)|Tripura East]] || align="center" |ST || [[Rebati Tripura]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+|}
+
+==Uttar Pradesh ==
+[[File:Uttar Pradesh BJP-Apna Dal Seat Sharing.png|alt=|thumb|289x289px|Uttar Pradesh NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (78) |border=solid 1px #AAAAAA}}
+{{legend2|#FF33CC|[[Apna Dal (Sonelal)|AD(S)]] (2) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Saharanpur (Lok Sabha constituency)|Saharanpur]] || align="center" |None || [[Raghav Lakhanpal]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |2 || [[Kairana (Lok Sabha constituency)|Kairana]] || align="center" |None || [[Pradeep Choudhary]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Muzaffarnagar (Lok Sabha constituency)|Muzaffarnagar]] || align="center" |None ||[[Sanjeev Balyan]]<ref name="List1to9"/>||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Bijnor (Lok Sabha constituency)|Bijnor]] || align="center" |None || [[Bharatendra Singh]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+| align="center" |5 || [[Nagina (Lok Sabha constituency)|Nagina]] || align="center" |SC || [[Yashwant Singh (Lok Sabha member)|Yashwant Singh]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |6 ||[[Moradabad (Lok Sabha constituency)|Moradabad]] || align="center" |None || [[Kunwar Sarvesh Kumar]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |7 || [[Rampur (Lok Sabha constituency)|Rampur]] || align="center" |None ||[[Jaya Prada]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |8 || [[Sambhal (Lok Sabha constituency)|Sambhal]] || align="center" |None || [[Parmeshwar Lal Saini]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |9 || [[Amroha (Lok Sabha constituency)|Amroha]] || align="center" |None ||[[Kanwar Singh Tanwar]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{lost}}
+|-
+| align="center" |10 || [[Meerut (Lok Sabha constituency)|Meerut]] || align="center" |None || [[Rajendra Agrawal]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |11 || [[Baghpat (Lok Sabha constituency)|Baghpat]] || align="center" |None || [[Satya Pal Singh (Uttar Pradesh politician)|Satya Pal Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |12 || [[Ghaziabad (Lok Sabha constituency)|Ghaziabad]] || align="center" |None ||[[V. K. Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |13 || [[Gautam Buddh Nagar (Lok Sabha constituency)|Gautam Buddh Nagar]] || align="center" |None ||[[Mahesh Sharma]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |14 || [[Bulandshahr (Lok Sabha constituency)|Bulandshahr]] || align="center" |SC || [[Bhola Singh (UP politician)|Bhola Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |15 || [[Aligarh (Lok Sabha constituency)|Aligarh]] || align="center" |None || [[Satish Kumar Gautam]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |16 || [[Hathras (Lok Sabha constituency)|Hathras]] || align="center" |SC ||[[Rajvir Singh Diler]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |17 || [[Mathura (Lok Sabha constituency)|Mathura]] || align="center" |None || [[Hema Malini]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |18 || [[Agra (Lok Sabha constituency)|Agra]] || align="center" |SC || [[S. P. Singh Baghel]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |19 || [[Fatehpur Sikri (Lok Sabha constituency)|Fatehpur Sikri]] || align="center" |None || [[Rajkumar Chahar]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |20 || [[Firozabad (Lok Sabha constituency)|Firozabad]] || align="center" |None ||[[Chandrasen Jadon]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |21 || [[Mainpuri (Lok Sabha constituency)|Mainpuri]] || align="center" |None ||[[Prem Singh Shakya]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |22 || [[Etah (Lok Sabha constituency)|Etah]] || align="center" |None || [[Rajveer Singh]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |23 || [[Badaun (Lok Sabha constituency)|Badaun]] || align="center" |None || [[Sanghmitra Maurya]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |24 || [[Aonla (Lok Sabha constituency)|Aonla]] || align="center" |None ||[[Dharmendra Kashyap]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |25 || [[Bareilly (Lok Sabha constituency)|Bareilly]] || align="center" |None || [[Santosh Kumar Gangwar]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |26 || [[Pilibhit (Lok Sabha constituency)|Pilibhit]] || align="center" |None ||[[Varun Gandhi]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |27 || [[Shahjahanpur (Lok Sabha constituency)|Shahjahanpur]] || align="center" |SC || [[Arun Sagar]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |28 || [[Kheri (Lok Sabha constituency)|Kheri]] || align="center" |None || [[Ajay Kumar Mishra]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |29 || [[Dhaurahra (Lok Sabha constituency)|Dhaurahra]] || align="center" |None ||[[Rekha Verma (born 1973)|Rekha Verma]] ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |30 || [[Sitapur (Lok Sabha constituency)|Sitapur]] || align="center" |None || [[Rajesh Verma (Sitapur politician)|Rajesh Verma]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |31 || [[Hardoi (Lok Sabha constituency)|Hardoi]] || align="center" |SC || [[Jai Prakash|Jai Prakash Rawat]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |32 || [[Misrikh (Lok Sabha constituency)|Misrikh]] || align="center" |SC ||[[Ashok Kumar Rawat]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |33 || [[Unnao (Lok Sabha constituency)|Unnao]] || align="center" |None ||[[Sakshi Maharaj]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |34 || [[Mohanlalganj (Lok Sabha constituency)|Mohanlalganj]] || align="center" |SC || [[Kaushal Kishore (politician)|Kaushal Kishore]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |35 || [[Lucknow (Lok Sabha constituency)|Lucknow]] || align="center" |None || [[Rajnath Singh]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |36 || [[Rae Bareli (Lok Sabha constituency)|Rae Bareli]] || align="center" |None ||[[Dinesh Pratap Singh]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{lost}}
+|-
+| align="center" |37 || [[Amethi (Lok Sabha constituency)|Amethi]] || align="center" |None || [[Smriti Irani]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |38 || [[Sultanpur (Lok Sabha constituency)|Sultanpur]] || align="center" |None ||[[Maneka Gandhi]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |39 || [[Pratapgarh (Lok Sabha constituency)|Pratapgarh]] || align="center" |None ||[[Sangam Lal Gupta]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]
+|12 May 2019|| align="center" {{won}}
+|-
+| align="center" |40 || [[Farrukhabad (Lok Sabha constituency)|Farrukhabad]] || align="center" |None ||[[Mukesh Rajput]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |41 || [[Etawah (Lok Sabha constituency)|Etawah]] || align="center" |SC ||[[Ram Shankar Katheria]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |42 || [[Kannauj (Lok Sabha constituency)|Kannauj]] || align="center" |None ||[[Subrat Pathak]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |43 || [[Kanpur (Lok Sabha constituency)|Kanpur Urban]] || align="center" |None ||[[Satyadev Pachauri]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |44 || [[Akbarpur (Lok Sabha constituency)|Akbarpur]] || align="center" |None ||[[Devendra Singh (politician)|Devendra Singh Bhole]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |45 || [[Jalaun (Lok Sabha constituency)|Jalaun]] || align="center" |SC ||[[Bhanu Pratap Singh Verma]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |46 || [[Jhansi (Lok Sabha constituency)|Jhansi]] || align="center" |None ||[[Anurag Sharma (politician)|Anurag Sharma]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |47 || [[Hamirpur, Uttar Pradesh (Lok Sabha constituency)|Hamirpur]] || align="center" |None ||[[Pushpendra Singh Chandel]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |48 || [[Banda (Lok Sabha constituency)|Banda]] || align="center" |None ||[[R. K. Singh Patel]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |49 || [[Fatehpur (Lok Sabha constituency)|Fatehpur]] || align="center" |None ||[[Niranjan Jyoti]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |50 || [[Kaushambi (Lok Sabha constituency)|Kaushambi]] || align="center" |SC ||[[Vinod Kumar Sonkar]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |51 || [[Phulpur (Lok Sabha constituency)|Phulpur]] || align="center" |None ||[[Keshari Devi Patel]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |52 || [[Allahabad (Lok Sabha constituency)|Prayagraj]] || align="center" |None ||[[Rita Bahuguna Joshi]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |53 || [[Barabanki (Lok Sabha constituency)|Barabanki]] || align="center" |SC ||[[Upendra Singh Rawat]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |54 || [[Faizabad (Lok Sabha constituency)|Faizabad]] || align="center" |None ||[[Lallu Singh]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |55 || [[Ambedkar Nagar (Lok Sabha constituency)|Ambedkar Nagar]] || align="center" |None ||[[Mukut Bihari]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |56 || [[Bahraich (Lok Sabha constituency)|Bahraich]] || align="center" |SC ||[[Akshaibar Lal|Akshayvara Lal Gaud]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |57 || [[Kaiserganj (Lok Sabha constituency)|Kaiserganj]] || align="center" |None ||[[Brij Bhushan Sharan Singh]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |58 || [[Shrawasti (Lok Sabha constituency)|Shrawasti]] || align="center" |None ||[[Daddan Mishra]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |59 || [[Gonda (Lok Sabha constituency)|Gonda]] || align="center" |None ||[[Kirti Vardhan Singh]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |60 || [[Domariyaganj (Lok Sabha constituency)|Domariyaganj]] || align="center" |None ||[[Jagdambika Pal]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |61 || [[Basti (Lok Sabha constituency)|Basti]] || align="center" |None ||[[Harish Dwivedi]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |62 || [[Sant Kabir Nagar (Lok Sabha constituency)|Sant Kabir Nagar]] || align="center" |None ||[[Praveen Kumar Nishad]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |63 || [[Maharajganj (Uttar Pradesh Lok Sabha constituency)|Maharajganj]] || align="center" |None ||[[Pankaj Choudhary]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |64 || [[Gorakhpur (Lok Sabha Constituency)|Gorakhpur]] || align="center" |None ||[[Ravi Kishan]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |65 || [[Kushi Nagar (Lok Sabha constituency)|Kushi Nagar]] || align="center" |None ||[[Vijay Kumar Dubey|Vijay Dubey]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |66 || [[Deoria (Lok Sabha constituency)|Deoria]] || align="center" |None ||[[Ramapati Ram Tripathi]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |67 || [[Bansgaon (Lok Sabha constituency)|Bansgaon]] || align="center" |SC ||[[Kamlesh Paswan]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |68 || [[Lalganj (Lok Sabha constituency)|Lalganj]] || align="center" |SC ||[[Neelam Sonkar]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |69 || [[Azamgarh (Lok Sabha constituency)|Azamgarh]] || align="center" |None ||[[Dinesh Lal Yadav|Dinesh Lal Yadav 'Nirahua']]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |70 || [[Ghosi (Lok Sabha constituency)|Ghosi]] || align="center" |None ||[[Harinarayan Rajbhar]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |71 || [[Salempur (Lok Sabha constituency)|Salempur]] || align="center" |None ||[[Ravindra Kushawaha]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |72 || [[Ballia (Lok Sabha constituency)|Ballia]] || align="center" |None ||[[Virendra Singh Mast]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |73 || [[Jaunpur (Lok Sabha constituency)|Jaunpur]] || align="center" |None ||[[Krishna Pratap|Krishna Pratap Singh]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |74 || [[Machhlishahr (Lok Sabha constituency)|Machhlishahr]] || align="center" |SC ||[[B. P. Saroj]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |75 || [[Ghazipur (Lok Sabha constituency)|Ghazipur]] || align="center" |None ||[[Manoj Sinha]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |76 || [[Chandauli (Lok Sabha constituency)|Chandauli]] || align="center" |None ||[[Mahendra Nath Pandey]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |77 || [[Varanasi (Lok Sabha constituency)|Varanasi]] || align="center" |None || [[Narendra Modi]]<ref name="List1to9">{{cite web | url=https://indianexpress.com/elections/lok-sabha-elections-bjp-list-of-candidates-for-2019-5640304/ | title=Lok Sabha elections: BJP list of candidates for 2019 | publisher=Indian Express | date=26 March 2019 | accessdate=28 March 2019}}</ref> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |78 || [[Bhadohi (Lok Sabha constituency)|Bhadohi]] || align="center" |None ||[[Ramesh Chand|Ramesh Chand Bind]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |79 || [[Mirzapur (Lok Sabha constituency)|Mirzapur]] || align="center" |None || [[Anupriya Patel]] || bgcolor=#FF33CC|
+|[[Apna Dal (Sonelal)]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+| align="center" |80 || [[Robertsganj (Lok Sabha constituency)|Robertsganj]] || align="center" |SC ||[[Pakaudi Lal Kol]]|| bgcolor="#FF33CC" |
+|[[Apna Dal (Sonelal)]]|| align="center" | 19 May 2019 || align="center" {{won}}
+|-
+|}
+
+== Uttarakhand ==
+[[File:Uttarakhand NDA Seat Sharing Colour Coded.png|thumb|Uttarakhand NDA|192x192px]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (5) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 ||[[Tehri Garhwal (Lok Sabha constituency)|Tehri Garhwal]]|| align="center" |None ||[[Mala Rajya Laxmi Shah]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 ||[[Garhwal (Lok Sabha constituency)|Garhwal]]|| align="center" |None ||[[Tirath Singh Rawat]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |3 ||[[Almora (Lok Sabha constituency)|Almora]]|| align="center" |SC ||[[Ajay Tamta]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 ||[[Nainital–Udhamsingh Nagar (Lok Sabha constituency)|Nainital–Udhamsingh Nagar]]|| align="center" |None ||[[Ajay Bhatt (politician)|Ajay Bhatt]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |5 ||[[Haridwar (Lok Sabha constituency)|Haridwar]]|| align="center" |None ||[[Ramesh Pokhriyal]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|}
+
+== West Bengal ==
+[[File:West Bengal NDA Seat Sharing Colour Coded.png|thumb|279x279px|West Bengal NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (42) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 || [[Cooch Behar (Lok Sabha constituency)|Cooch Behar]] || align="center" |SC || [[Nisith Pramanik]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |2 || [[Alipurduars (Lok Sabha constituency)|Alipurduars]] || align="center" |ST || [[John Barla]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{won}}
+|-
+| align="center" |3 || [[Jalpaiguri (Lok Sabha constituency)|Jalpaiguri]] || align="center" |SC || [[Jayanta Ray]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |4 || [[Darjeeling (Lok Sabha constituency)|Darjeeling]] || align="center" |None ||[[Raju Singh Bisht]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |5 || [[Raiganj (Lok Sabha constituency)|Raiganj]] || align="center" |None || [[Deboshree Chaudhary]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 18 April 2019 || align="center" {{won}}
+|-
+| align="center" |6 || [[Balurghat (Lok Sabha constituency)|Balurghat]] || align="center" |None || [[Sukanta Majumdar]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |7 || [[Maldaha Uttar (Lok Sabha constituency)|Maldaha Uttar]] || align="center" |None || [[Khagen Murmu]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|-
+| align="center" |8 || [[Maldaha Dakshin (Lok Sabha constituency)|Maldaha Dakshin]] || align="center" |None ||[[Sreerupa Mitra Chaudhury|Sreerupa Mitra Choudhury]]<ref name="List1to9"/>|| bgcolor="#FF9933" | 
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |9 || [[Jangipur (Lok Sabha constituency)|Jangipur]] || align="center" |None || [[Mafuja Khatun]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |10 || [[Baharampur (Lok Sabha constituency)|Baharampur]] || align="center" |None ||Krishna Juardar Arya<ref name="WB1">{{cite web | url=http://www.uniindia.com/bjp-announces-names-of-ten-more-candidates-from-bengal-for-ls-polls/east/news/1541578.html | title=BJP announces names of ten more candidates from Bengal for LS polls | publisher=United News of India | date=26 March 2019 | accessdate=1 April 2019}}</ref>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |11 || [[Murshidabad (Lok Sabha constituency)|Murshidabad]] || align="center" |None ||Humayun Kabir<ref name="10thET">{{cite web | url=https://economictimes.indiatimes.com/news/elections/lok-sabha/india/bjp-releases-10th-list-for-ls-polls-maneka-gandhi-to-contest-from-sultanpur/articleshow/68581994.cms?from=mdr | title=Murli Manohar Joshi dropped; Maneka, Varun, Jaya Prada fielded by BJP in LS polls | publisher=Economic Times | date=27 March 2019 | accessdate=1 April 2019}}</ref> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+| align="center" |12 || [[Krishnanagar (Lok Sabha constituency)|Krishnanagar]] || align="center" |None ||[[Kalyan Chaubey|Kalyan Choubey]]<ref name="List1to9"/>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |13 || [[Ranaghat (Lok Sabha constituency)|Ranaghat]] || align="center" |SC ||Jagannath Sarkar<ref name="WB1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |14 || [[Bangaon (Lok Sabha constituency)|Bangaon]] || align="center" |SC ||[[Shantanu Thakur]]<ref name="WB1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |15 || [[Barrackpore (Lok Sabha constituency)|Barrackpur]] || align="center" |None || [[Arjun Singh (politician, born 1962)|Arjun Singh]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |16 || [[Dum Dum (Lok Sabha constituency)|Dum Dum]] || align="center" |None || [[Samik Bhattacharya]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |17 || [[Barasat (Lok Sabha constituency)|Barasat]] || align="center" |None || Mrinal Kanthi Debnath<ref name="List1to9"/>|| bgcolor="#FF9933" | 
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |18 || [[Basirhat (Lok Sabha constituency)|Basirhat]] || align="center" |None || Sayantan Basu<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |19 || [[Jaynagar (Lok Sabha constituency)|Jaynagar]] || align="center" |SC || Ashok Kandari<ref name="List1to9"/>|| bgcolor="#FF9933" | 
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |20 || [[Mathurapur (Lok Sabha constituency)|Mathurapur]] || align="center" |SC || Shyamaprasad Halder<ref name="List1to9"/>|| bgcolor="#FF9933" | 
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |21 || [[Diamond Harbour (Lok Sabha constituency)|Diamond Harbour]] || align="center" |None ||Nilanjan Roy<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |22 || [[Jadavpur (Lok Sabha constituency)|Jadavpur]] || align="center" |None ||[[Anupam Hazra]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |23 || [[Kolkata Dakshin (Lok Sabha constituency)|Kolkata Dakshin]] || align="center" |None || Chandra Kumar Bose<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |24 || [[Kolkata Uttar (Lok Sabha constituency)|Kolkata Uttar]] || align="center" |None || Rahul Sinha<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 19 May 2019 || align="center" {{lost}}
+|-
+| align="center" |25 || [[Howrah (Lok Sabha constituency)|Howrah]] || align="center" |None ||Rantidev Sen Gupta<ref name="WB1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{lost}}
+|-
+| align="center" |26 || [[Uluberia (Lok Sabha constituency)|Uluberia]] || align="center" |None ||[[Joy Banerjee]]<ref name="WB1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{lost}}
+|-
+| align="center" |27 || [[Srerampur (Lok Sabha constituency)|Srerampur]] || align="center" |None || Debjit Sarkar<ref name="List1to9"/>|| bgcolor="#FF9933" | 
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{lost}}
+|-
+| align="center" |28 || [[Hooghly (Lok Sabha constituency)|Hooghly]] || align="center" |None || [[Locket Chatterjee]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{won}}
+|-
+| align="center" |29 || [[Arambagh (Lok Sabha constituency)|Arambag]] || align="center" |SC || [[Tapan Roy]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 6 May 2019 || align="center" {{lost}}
+|-
+| align="center" |30 || [[Tamluk (Lok Sabha constituency)|Tamluk]] || align="center" |None || [[Siddharth Naskar]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |31 || [[Kanthi (Lok Sabha constituency)|Kanthi]] || align="center" |None ||[[Debasish Samant]]<ref name="WB1"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |32 || [[Ghatal (Lok Sabha constituency)|Ghatal]] || align="center" |None || Bharati Ghosh<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{lost}}
+|-
+| align="center" |33 || [[Jhargram (Lok Sabha constituency)|Jhargram]] || align="center" |ST || [[Kunar Hembram]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |34 || [[Medinipur (Lok Sabha constituency)|Medinipur]] || align="center" |None || [[Dilip Ghosh (politician)|Dilip Ghosh]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |35 || [[Purulia (Lok Sabha constituency)|Purulia]] || align="center" |None ||[[Jyotirmay Singh Mahato|Jyotirmoy Singh Mahato]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |36 || [[Bankura (Lok Sabha constituency)|Bankura]] || align="center" |None ||[[Subhash Sarkar]]<ref name="10thET"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |37 || [[Bishnupur (Lok Sabha constituency)|Bishnupur]] || align="center" |SC || [[Saumitra Khan]]<ref name="List1to9"/> ||bgcolor=#FF9933| 
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center" |38 || [[Burdwan (Lok Sabha constituency)|Bardhaman Purba]] || align="center" |SC || Paresh Chandra Das<ref name="List1to9"/>|| bgcolor="#FF9933" | 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |39 || [[Bardhaman–Durgapur (Lok Sabha constituency)|Bardhaman–Durgapur]] || align="center" |None ||[[S. S. Ahluwalia]]|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |40 || [[Asansol (Lok Sabha constituency)|Asansol]] || align="center" |None || [[Babul Supriyo]]<ref name="List1to9"/> || bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{won}}
+|-
+| align="center" |41 || [[Bolpur (Lok Sabha constituency)|Bolpur]] || align="center" |SC ||Ram Prashad Das<ref name="10thET"/>|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+| align="center" |42 || [[Birbhum (Lok Sabha constituency)|Birbhum]] || align="center" |None || Dudh Kumar Mondal<ref name="List1to9"/>|| bgcolor="#FF9933" | 
+|[[Bharatiya Janata Party]]|| align="center" | 29 April 2019 || align="center" {{lost}}
+|-
+|}
+
+== Andaman and Nicobar Islands ==
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center"|1
+| [[Andaman and Nicobar Islands (Lok Sabha constituency)|Andaman and Nicobar Islands]]
+| align="center" |None
+| Vishal Jolly<ref name="List1to9"/>
+| bgcolor=#FF9933|
+
+| [[Bharatiya Janata Party]]
+| align="center" | 11 April 2019
+| align="center" {{lost}}
+
+|}
+
+== Chandigarh ==
+[[File:Chandigarh Lok Sabha election result 2019.png|thumb|150px]]{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1
+|[[Chandigarh (Lok Sabha constituency)|Chandigarh]]
+| align="center" |None
+| [[Kirron Kher]]
+| style="color:inherit;background:#FF9933" |
+| [[Bharatiya Janata Party]]
+| align="center" | 19 May 2019
+| align="center" {{won}}
+
+|}
+
+== Dadra and Nagar Haveli ==
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center"|1 || [[Dadra and Nagar Haveli (Lok Sabha constituency)|Dadra and Nagar Haveli]] || align="center"|ST || [[Natubhai Gomanbhai Patel]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{lost}}
+|-
+|}
+
+== Daman and Diu ==
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center" |1 ||[[Daman and Diu (Lok Sabha constituency)|Daman and Diu]]|| align="center" |None ||[[Lalubhai Patel]]<ref name="List1to9" />|| bgcolor="#FF9933" |
+|[[Bharatiya Janata Party]]|| align="center" | 23 April 2019 || align="center" {{won}}
+|}
+
+== Lakshadweep ==
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center"|1 || [[Lakshadweep (Lok Sabha constituency)|Lakshadweep]] || align="center"|ST || [[Abdul Khader (politician)|Abdul Khader]]<ref name="List1to9"/> ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 11 April 2019 || align="center" {{lost}}
+|-
+|}
+
+== NCT of Delhi ==
+[[File:Delhi NDA Seat Sharing Colour Coded.png|thumb|160x160px|Delhi NDA]]
+{{legend2|#FF9933|[[Bharatiya Janata Party|BJP]] (7) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center"|1 || [[Chandni Chowk (Lok Sabha constituency)|Chandni Chowk]] || align="center"|None ||[[Harsh Vardhan (Delhi politician)|Dr. Harsh Vardhan]] ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center"|2 || [[North East Delhi (Lok Sabha constituency)|North East Delhi]] || align="center"|None ||[[Manoj Tiwari (Delhi politician)|Manoj Tiwari]]||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center"|3 || [[East Delhi (Lok Sabha constituency)|East Delhi]] || align="center"|None ||[[Gautam Gambhir]] ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center"|4 || [[New Delhi (Lok Sabha constituency)|New Delhi]] || align="center"|None ||[[Meenakshi Lekhi]] ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center"|5 || [[North West Delhi (Lok Sabha constituency)|North West Delhi]] || align="center"|SC ||[[Hans Raj Hans]] ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center"|6 || [[West Delhi (Lok Sabha constituency)|West Delhi]] || align="center"|None ||[[Parvesh Verma]] ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+| align="center"|7 || [[South Delhi (Lok Sabha constituency)|South Delhi]] || align="center"|None ||[[Ramesh Bidhuri]] ||bgcolor=#FF9933|
+|[[Bharatiya Janata Party]]|| align="center" | 12 May 2019 || align="center" {{won}}
+|-
+|}
+
+== Puducherry  ==
+{{legend2|#FFC000|[[All India N.R. Congress|AINRC]] (1) |border=solid 1px #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center;"
+! Constituency No.
+! style="width:180px;"|Constituency
+! Reserved for 
+([[Scheduled Castes and Scheduled Tribes|SC/ST]]/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Poll On
+! Result
+|-
+| align="center"|1
+| [[Puducherry (Lok Sabha constituency)|Puducherry]]
+| align="center"|None
+| [[K. Narayanasamy]]<ref>{{cite web | url=https://www.thehindu.com/elections/lok-sabha-2019/rangasamy-picks-newcomer-says-it-is-a-long-term-choice/article26613655.ece | title=Rangasamy picks newcomer, says it is a long-term choice | work=The Hindu | date=22 March 2019 | accessdate=28 March 2019}}</ref>
+|bgcolor=#FFC000| 
+|[[All India N.R. Congress]]
+| align="center" | 18 April 2019
+| align="center" {{lost}}
+
+|}
+
+==See also==
+{{Lists of National Democratic Alliance candidates in Indian general elections}}
+* [[List of United Progressive Alliance candidates in the 2019 Indian general election]]
+* [[List of Left Front candidates in the 2019 Indian general election]]
+* [[Bharatiya Janata Party campaign for the 2019 Indian general election]]
+
+==References==
+{{reflist}}{{Indian general election, 2019}}{{National Democratic Alliance |state=collapsed}}
+{{Indian political parties}}
+
+{{DEFAULTSORT:List Of Constituencies Of The Lok Sabha}}
+[[Category:Candidates in the 2019 Indian general election]]
+[[Category:Lists of Indian political candidates|National Democratic Alliance]]
+[[Category:National Democratic Alliance]]

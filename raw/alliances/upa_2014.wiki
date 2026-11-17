@@ -1,0 +1,4952 @@
+{{Short description|none}}
+{{EngvarB|date=June 2014}}
+{{Use dmy dates|date=June 2014}}
+[[File:Lok Sabha constituencies of India.png|thumbnail|400px|Lok Sabha constituencies of India]][[United Progressive Alliance]] is an Indian political party coalition led by [[Indian National Congress]].
+
+==Seat sharing summary==
+For the [[2014 Indian general election]], the [[United Progressive Alliance|UPA's]] is an alliance led for [[Indian National Congress]] with following parties:
+
+{| class="wikitable sortable" style="border:1px solid black; background-color:#F4F9FF" cellspacing="1" cellpadding="1" border="0"
+|+ Constituents of United Progressive Alliance (Pre-poll Alliance)
+! style="background-color:#99CCFF"|#
+! style="background-color:#99CCFF"|Party
+! style="background-color:#99CCFF"|Alliance in states
+! style="background-color:#99CCFF"|Seats sharing
+! style="background-color:#99CCFF"|References
+|-
+| align=center|1
+| [[Indian National Congress]]
+| All States and UTs
+| align=right|464 <br />
+| align=center|<ref name="Cong">{{cite web | url=http://inc.in/media/candidate.aspx | title=Indian National Congress : Candidate List for Lok Sabha 2014 | publisher=AICC | accessdate=17 March 2014 | url-status=dead | archiveurl=https://web.archive.org/web/20140406105503/http://inc.in/media/candidate.aspx | archivedate=6 April 2014 | df=dmy-all }}</ref><ref name="RJD-INC-NCP"/><ref name="INC-JMM-RJD"/><ref name="INC-NCP-Goa"/><ref name="INC-NCP-Guj"/><ref name="INC-NCP"/><ref name="INC-RLD-MD"/><ref name="INC-JMM"/><ref name="INC-NC"/><ref name="INC-Allies-Kerala"/><ref name="INC-BPF"/><ref name="INC-CPI-Telangana"/>
+|-
+| align=center|2
+| [[Rashtriya Janata Dal]]
+| [[Bihar]], [[Jharkhand]]
+| align=right|28
+| align=center|<ref name="RJD-INC-NCP">{{cite news | url=https://www.thehindu.com/news/national/other-states/congressrjdncp-forge-alliance-in-bihar/article5753377.ece | title=Congress-RJD-NCP forge alliance in Bihar | work=Staff Reporter | date=5 March 2014 | agency=The Hindu | access-date=17 April 2014}}</ref><ref name="INC-JMM-RJD">{{cite news|url=http://news.outlookindia.com/items.aspx?artid=836528 |title='Ex-Maoist' Leader Vs Former Police Chief in Palamau |work=Outlook |date=10 April 2014 |accessdate=17 April 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140418234140/http://news.outlookindia.com/items.aspx?artid=836528 |archivedate=18 April 2014 }}</ref>
+|-
+| align=center|3
+| [[Nationalist Congress Party]]
+| [[Bihar]], [[Goa]], [[Gujarat]], [[Maharashtra]]
+| align=right|23
+| align=center|<ref name="RJD-INC-NCP"/><ref name="INC-NCP-Goa">{{cite news | url=http://indianexpress.com/article/india/politics/congress-ncp-announce-alliance-in-goa/ | title=Congress, NCP announce alliance in Goa | work=PTI | date=23 March 2014 | agency=Indian Express | accessdate=17 April 2014}}</ref><ref name="INC-NCP-Guj">{{cite news | url=http://www.ndtv.com/elections/article/election-2014/congress-ncp-finalise-seat-sharing-arrangement-in-gujarat-500612 | title=Congress, NCP finalise seat sharing arrangement in Gujarat | work=PTI | date=26 March 2014 | agency=NDTV | accessdate=17 April 2014}}</ref><ref name="INC-NCP">{{cite news | url=http://www.firstpost.com/politics/lok-sabha-polls-cong-ncp-finalise-seat-sharing-in-maharashtra-1382817.html | title=Lok Sabha polls: Cong, NCP finalise seat sharing in Maharashtra | work=First Post | date=10 February 2014 | accessdate=17 April 2014}}</ref>
+|-
+| align=center|4
+| [[Rashtriya Lok Dal]]
+| [[Uttar Pradesh]]
+| align=right|8
+| align=center|<ref name="INC-RLD-MD">{{cite news | url=http://indianexpress.com/article/india/politics/cong-to-leave-8-seats-for-rld-3-for-mahan-dal-in-western-up/ | title=Cong to leave 8 seats for RLD, 3 for Mahan Dal in western UP | work=Indian Express | date=9 March 2014 | accessdate=17 April 2014}}</ref>
+|-
+| align=center|5
+| [[Jharkhand Mukti Morcha]]
+| [[Jharkhand]]
+| align=right|4
+| align=center|<ref name="INC-JMM-RJD"/><ref name="INC-JMM">{{cite news | url=https://www.thehindu.com/news/national/other-states/congress-strikes-alliance-with-jmm-ahead-of-general-elections/article4885162.ece | title=Congress strikes alliance with JMM ahead of general elections | work=The Hindu | date=6 July 2013 | access-date=17 April 2014}}</ref>
+|-
+| align=center|6
+| [[Jammu and Kashmir National Conference]]
+| [[Jammu and Kashmir (state)|Jammu and Kashmir]]
+| align=right|3
+| align=center|<ref name="INC-NC">{{cite news | url=http://www.ndtv.com/article/india/omar-abdullah-refutes-breakup-talks-in-national-conference-congress-alliance-478252 | title=Omar Abdullah refutes breakup talks in National Conference-Congress alliance | work=NDTV | date=1 February 2014 | accessdate=17 April 2014}}</ref>
+|-
+| align=center|7
+| [[Mahan Dal]]
+| [[Uttar Pradesh]]
+| align=right|3
+| align=center|<ref name="INC-RLD-MD"/>
+|-
+| align=center|8
+| [[Indian Union Muslim League]]
+| [[Kerala]]
+| align=right|2
+| align=center|<ref name="INC-Allies-Kerala">{{cite news | url=http://www.ndtv.com/elections/article/election-2014/kerala-is-all-set-to-vote-and-elect-20-lok-sabha-members-tomorrow-506223 | title=Kerala is all set to vote and elect 20 Lok Sabha members tomorrow | work=PTI | date=9 April 2014 | agency=NDTV | accessdate=22 April 2014}}</ref>
+|-
+| align=center|9
+| [[Socialist Janata (Democratic)]]
+| [[Kerala]]
+| align=right|1
+| align=center|<ref name="INC-Allies-Kerala"/>
+|-
+| align=center|10
+| [[Kerala Congress (M)]]
+| [[Kerala]]
+| align=right|1
+| align=center|<ref name="INC-Allies-Kerala"/>
+|-
+| align=center|11
+| [[Revolutionary Socialist Party (India)|Revolutionary Socialist Party]]
+| [[Kerala]]
+| align=right|1
+| align=center|<ref name="INC-Allies-Kerala"/>
+|-
+| align=center|12
+| [[Bodoland People's Front]]
+| [[Assam]]
+| align=right|1
+| align=center|<ref name="INC-BPF">{{cite news | url=http://www.telegraphindia.com/1090307/jsp/northeast/story_10635606.jsp | title=Congress gives BPF Kokrajhar | date=6 March 2014 | agency=The Telegraph | accessdate=9 May 2014 | location=Kolkata | archive-url=https://web.archive.org/web/20140512224125/http://www.telegraphindia.com/1090307/jsp/northeast/story_10635606.jsp | archive-date=12 May 2014 | url-status=dead }}</ref>
+|-
+| align=center|13
+| [[Communist Party of India]]
+| [[Andhra Pradesh]]
+| align=right|1
+| align=center|<ref name="INC-CPI-Telangana">{{cite web | url=http://cpim.org/elections-2014/election-issues/electoral-battle-telangana | title=The Electoral Battle in Telangana | work=CPI(M) | accessdate=9 May 2014 | url-status=dead | archiveurl=https://web.archive.org/web/20140516110209/http://cpim.org/elections-2014/election-issues/electoral-battle-telangana | archivedate=16 May 2014 | df=dmy-all }}</ref>
+|-
+! style="background-color:#99CCFF" colspan="3"| Total UPA Candidates
+| align=right|540
+| 
+|}
+
+==Andhra Pradesh==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (41)|border=solid 1px #AAAAAA}}
+{{legend2|#FF4A4A|[[Communist Party of India|CPI]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/><ref name="INC-CPI-Telangana"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Adilabad (Lok Sabha constituency)|Adilabad]]
+| ST
+| Naresh Jadhav
+| bgcolor={{party color|Indian National Congress}} | 
+|[[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Peddapalli (Lok Sabha constituency)|Peddapalli]]
+| SC
+| [[Gaddam Vivek Venkatswamy]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Karimnagar (Lok Sabha constituency)|Karimnagar]]
+| None
+| [[Ponnam Prabhakar Goud]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Nizamabad (Lok Sabha constituency)|Nizamabad]]
+| None
+| [[Madhu Goud Yaskhi]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Zahirabad (Lok Sabha constituency)|Zahirabad]]
+| None
+| [[Suresh Shetkar]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Medak (Lok Sabha constituency)|Medak]]
+| None
+| P. Shravan Kumar Reddy
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Malkajgiri (Lok Sabha constituency)|Malkajgiri]]
+| None
+| [[Sarve Satyanarayana]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Secunderabad (Lok Sabha constituency)|Secunderabad]]
+| None
+| [[Anjan Kumar Yadav]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Hyderabad (Lok Sabha constituency)|Hyderabad]]
+| None
+| S. Krishna Reddy
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Chevella (Lok Sabha constituency)|Chevella]]
+| None
+| [[Patlolla Karthik Reddy]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Mahbubnagar (Lok Sabha Constituency)|Mahbubnagar]]
+| None
+| [[Jaipal Reddy]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Nagarkurnool (Lok Sabha constituency)|Nagarkurnool]]
+| SC
+| [[Nandi Yellaiah]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|13
+| [[Nalgonda (Lok Sabha constituency)|Nalgonda]]
+| None
+| [[Gutha Sukender Reddy]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|14
+| [[Bhongir (Lok Sabha constituency)|Bhongir]]
+| None
+| [[Komatireddy Raj Gopal Reddy]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Warangal (Lok Sabha constituency)|Warangal]]
+| SC
+| [[Siricilla Rajaiah]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Mahabubabad (Lok Sabha constituency)|Mahabubabad]]
+| ST
+| [[Balram Naik]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|17
+| [[Khammam (Lok Sabha constituency)|Khammam]]
+| None
+| Kankanala Narayana
+| bgcolor={{party color|Communist Party of India}} | 
+| [[Communist Party of India]]
+| {{Lost}}
+|-
+| align="center"|18
+| [[Araku (Lok Sabha constituency)|Araku]]
+| ST
+| [[Kishore Chandra Deo]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Srikakulam (Lok Sabha constituency)|Srikakulam]]
+| None
+| [[Killi Krupa Rani]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Vizianagaram (Lok Sabha constituency)|Vizianagaram]]
+| None
+| [[Botsa Jhansi Lakshmi]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Visakhapatnam (Lok Sabha constituency)|Visakhapatnam]]
+| None
+| Satyanarayana Bolisetty
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|22
+| [[Anakapalli (Lok Sabha constituency)|Anakapalli]]
+| None
+| Thota Vijayalakshmi
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|23
+| [[Kakinada (Lok Sabha constituency)|Kakinada]]
+| None
+| [[Pallam Raju|Mallipudi Raju Pallam Mangapati]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|24
+| [[Amalapuram (Lok Sabha constituency)|Amalapuram]]
+| SC
+| A. J. Venkata Butchi Maheshwara Rao
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|25
+| [[Rajahmundry (Lok Sabha constituency)|Rajahmundry]]
+| None
+| Kandula Lakshmi Durgesh Prasad
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|26
+| [[Narasapur (Lok Sabha constituency)|Naraspur]]
+| None
+| [[Kanumuri Bapi Raju]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|27
+| [[Eluru (Lok Sabha constituency)|Eluru]]
+| None
+| Musunuri Nageswar Rao
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|28
+| [[Machilipatnam (Lok Sabha constituency)|Machilipatnam]]
+| None
+| Sistla Ramesh
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|29
+| [[Vijayawada (Lok Sabha constituency)|Vijayawada]]
+| None
+| Avinash Devineni
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|30
+| [[Guntur (Lok Sabha constituency)|Guntur]]
+| None
+| Shaikh Abdul Waheed
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|31
+| [[Narasaraopet (Lok Sabha constituency)|Narasaraopet]]
+| None
+| [[Kasu Krishna Reddy|Kasu Venkata Krishna Reddy]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|32
+| [[Bapatla (Lok Sabha constituency)|Bapatla]]
+| SC
+| [[Panabaka Lakshmi]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|33
+| [[Ongole (Lok Sabha constituency)|Ongole]]
+| None
+| Darsi Pawan Kumar
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|34
+| [[Nandyal (Lok Sabha constituency)|Nandyal]]
+| None
+| B. Y. Ramaiah
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|35
+| [[Kurnool (Lok Sabha constituency)|Kurnool]]
+| None
+| [[Kotla Jayasurya Prakasha Reddy]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|36
+| [[Anantapur (Lok Sabha constituency)|Anantapur]]
+| None
+| P. Anil Chowdary
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|37
+| [[Hindupur (Lok Sabha constituency)|Hindupur]]
+| None
+| Guttur Chinna Venkata Ramudu
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|38
+| [[Kadapa (Lok Sabha constituency)|Kadapa]]
+| None
+| Veena Ajaya Kumar
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|39
+| [[Nellore (Lok Sabha constituency)|Nellore]]
+| None
+| Vakati Narayana Reddy
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|40
+| [[Tirupati (Lok Sabha constituency)|Tirupati]]
+| SC
+| [[Chinta Mohan]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|41
+| [[Rajampet (Lok Sabha constituency)|Rajampet]]
+| None
+| [[Sai Prathap Annayyagari]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|42
+| [[Chittoor (Lok Sabha constituency)|Chittoor]]
+| SC
+| B. Rajagopal
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+
+|}
+
+== Arunachal Pradesh ==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (2)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Arunachal West (Lok Sabha constituency)|Arunachal West]]
+| None
+| [[Takam Sanjoy]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Arunachal East (Lok Sabha constituency)|Arunachal East]]
+| None
+| [[Ninong Ering]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|}
+
+==Assam==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (13)|border=solid 1px #AAAAAA}}
+{{legend2|#FF6600|[[Bodoland People's Front|BPF]] (1)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Karimganj (Lok Sabha constituency)|Karimganj]]
+| SC
+| [[Lalit Mohan Suklabaidya]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Silchar (Lok Sabha constituency)|Silchar]]
+| None
+| Sushmita Dev
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|3
+| [[Autonomous District (Lok Sabha constituency)|Autonomous District]]
+| ST
+| [[Biren Singh Engti]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|4
+| [[Dhubri (Lok Sabha constituency)|Dhubri]]
+| None
+| Mohammad Wajid Ali Chaudhary
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Kokrajhar (Lok Sabha constituency)|Kokrajhar]]
+| ST
+| Chandan Brahma
+| bgcolor={{party color|Bodoland People's Front}} | 
+| [[Bodoland People's Front]]
+| {{Lost}}
+|-
+| align="center"|6
+| [[Barpeta (Lok Sabha constituency)|Barpeta]]
+| None
+|[[Ismail Hussain]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Gauhati (Lok Sabha constituency)|Gauhati]]
+| None
+| Manas Bora
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Mangaldoi (Lok Sabha constituency)|Mangaldoi]]
+| None
+| [[Kirip Chaliha]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Tezpur (Lok Sabha constituency)|Tezpur]]
+| None
+| Bhupen Bora
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Nowgong (Lok Sabha constituency)|Nowgong]]
+| None
+| Jon Jonali Baruah
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Kaliabor (Lok Sabha constituency)|Kaliabor]]
+| None
+| [[Gaurav Gogoi]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|12
+| [[Jorhat (Lok Sabha constituency)|Jorhat]]
+| None
+| [[Bijoy Krishna Handique]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Dibrugarh (Lok Sabha constituency)|Dibrugarh]]
+| None
+| [[Paban Singh Ghatowar]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Lakhimpur (Lok Sabha constituency)|Lakhimpur]]
+| None
+| [[Ranee Narah]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+
+|}
+
+==Bihar==
+{{legend2|#008000|[[Rashtriya Janata Dal|RJD]] (27)|border=solid 1px #AAAAAA}}
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (12)|border=solid 1px #AAAAAA}}
+{{legend2|#00B2B2|[[Nationalist Congress Party|NCP]] (1)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/><ref name="NCPList1">{{cite web | url=http://www.dnaindia.com/mumbai/report-chhagan-bhujbal-replaces-nephew-as-ncp-unveils-list-of-18-lok-sabha-candidates-1965580 | title=Chhagan Bhujbal replaces nephew as NCP unveils list of 18 Lok Sabha candidates | publisher=DNA | date=28 February 2014 | accessdate=17 March 2014}}</ref><ref name="RJDList1">{{cite web | url=http://www.niticentral.com/2014/03/06/rjd-releases-first-list-of-25-candidates-for-lok-sabha-poll-196884.html | archive-url=https://web.archive.org/web/20140309054421/http://www.niticentral.com/2014/03/06/rjd-releases-first-list-of-25-candidates-for-lok-sabha-poll-196884.html | url-status=dead | archive-date=9 March 2014 | title=RJD releases first list of 25 candidates for Lok Sabha poll | publisher=Niti Central | date=6 March 2014 | accessdate=17 March 2014 }}</ref>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Valmiki Nagar (Lok Sabha constituency)|Valmiki Nagar]]
+| None
+| [[Purnmasi Ram]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Paschim Champaran (Lok Sabha constituency)|Paschim Champaran]]
+| None
+| [[Raghunath Jha]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| [[Rashtriya Janata Dal]]
+| {{Lost}}
+|-
+| align="center"|3
+| [[Purvi Champaran (Lok Sabha constituency)|Purvi Champaran]]
+| None
+| Vinod Kumar Srivastava
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|4
+| [[Sheohar (Lok Sabha constituency)|Sheohar]]
+| None
+| Anwarul Haque
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|5
+| [[Sitamarhi (Lok Sabha constituency)|Sitamarhi]]
+| None
+| [[Sitaram Yadav (politician, born 1946)|Sitaram Yadav]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|6
+| [[Madhubani (Lok Sabha constituency)|Madhubani]]
+| None
+| [[Abdul Bari Siddiqui]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|7
+| [[Jhanjharpur (Lok Sabha constituency)|Jhanjharpur]]
+| None
+| Mangilal
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|8
+| [[Supaul (Lok Sabha constituency)|Supaul]]
+| None
+| [[Ranjeet Ranjan]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|9
+| [[Araria (Lok Sabha constituency)|Araria]]
+| None
+| [[Mohammed Taslimuddin]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Won}}
+|-
+| align="center"|10
+| [[Kishanganj (Lok Sabha constituency)|Kishanganj]]
+| None
+| [[Mohammad Asrarul Haque]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|11
+| [[Katihar (Lok Sabha constituency)|Katihar]]
+| None
+| [[Tariq Anwar (politician)|Tariq Anwar]]
+| bgcolor={{party color|Nationalist Congress Party}} | 
+| [[Nationalist Congress Party]]
+| {{Won}}
+|-
+| align="center"|12
+| [[Purnia (Lok Sabha constituency)|Purnia]]
+| None
+| Amarnath Tiwari
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Madhepura (Lok Sabha constituency)|Madhepura]]
+| None
+| [[Pappu Yadav]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Won}}
+|-
+| align="center"|14
+| [[Darbhanga (Lok Sabha constituency)|Darbhanga]]
+| None
+| [[Mohammad Ali Ashraf Fatmi]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|15
+| [[Muzaffarpur (Lok Sabha constituency)|Muzaffarpur]]
+| None
+| Akhilesh Pratap Singh
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Vaishali (Lok Sabha constituency)|Vaishali]]
+| None
+| [[Raghuvansh Prasad Singh]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|17
+| [[Gopalganj (Lok Sabha constituency)|Gopalganj]]
+| SC
+| Jyoti
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|18
+| [[Siwan (Lok Sabha constituency)|Siwan]]
+| None
+| [[Hena Shahab]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|19
+| [[Maharajganj (Bihar Lok Sabha constituency)|Maharajganj]]
+| None
+| [[Prabhunath Singh]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|20
+| [[Saran (Lok Sabha constituency)|Saran]]
+| None
+| [[Rabri Devi]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|21
+| [[Hajipur (Lok Sabha constituency)|Hajipur]]
+| SC
+| Sanjeev Prasad Tony
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|22
+| [[Ujiarpur (Lok Sabha constituency)|Ujiarpur]]
+| None
+| [[Alok Kumar Mehta]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|23
+| [[Samastipur (Lok Sabha constituency)|Samastipur]]
+| SC
+| Ashok Ram
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|24
+| [[Begusarai (Lok Sabha constituency)|Begusarai]]
+| None
+| Ramjivan Singh
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|25
+| [[Khagaria (Lok Sabha constituency)|Khagaria]]
+| None
+| Krishna Yadav
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|26
+| [[Bhagalpur (Lok Sabha constituency)|Bhagalpur]]
+| None
+| Bulo Mondal
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Won}}
+|-
+| align="center"|27
+| [[Banka (Lok Sabha constituency)|Banka]]
+| None
+| [[Jay Prakash Narayan Yadav]]
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Won}}
+|-
+| align="center"|28
+| [[Munger (Lok Sabha constituency)|Munger]]
+| None
+| Pragati Mehta
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|29
+| [[Nalanda (Lok Sabha constituency)|Nalanda]]
+| None
+| Ashish Ranjan Sinha
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|30
+| [[Patna Sahib (Lok Sabha constituency)|Patna Sahib]]
+| None
+| Kunal Singh
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|31
+| [[Pataliputra (Lok Sabha constituency)|Pataliputra]]
+| None
+| Misha Bharti
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|32
+| [[Arrah (Lok Sabha constituency)|Arrah]]
+| None
+| Bhagwan Kushwaha
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|33
+| [[Buxar (Lok Sabha constituency)|Buxar]]
+| None
+| Jagnanad Singh
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|34
+| [[Sasaram (Lok Sabha constituency)|Sasaram]]
+| SC
+| [[Meira Kumar]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|35
+| [[Karakat (Lok Sabha constituency)|Karakat]]
+| None
+| Kanti Singh
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|36
+| [[Jahanabad (Lok Sabha constituency)|Jahanabad]]
+| None
+| Surendra Prasad Yadav
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|37
+| [[Aurangabad (Bihar Lok Sabha constituency)|Aurangabad]]
+| None
+| [[Nikhil Kumar (governor)|Nikhil Kumar]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|38
+| [[Gaya (Lok Sabha constituency)|Gaya]]
+| SC
+| Ramji Majhi
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|39
+| [[Nawada (Lok Sabha constituency)|Nawada]]
+| None
+| Raj Ballabh Yadav
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|-
+| align="center"|40
+| [[Jamui (Lok Sabha constituency)|Jamui]]
+| SC
+| Sudhanshu Shekhar Bhaskar
+| bgcolor={{party color|Rashtriya Janata Dal}} | 
+| Rashtriya Janata Dal
+| {{Lost}}
+|}
+
+==Chhattisgarh==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (11)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable" style="text-align: left;"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Sarguja (Lok Sabha constituency)|Sarguja]]
+| ST
+| Ramdeo Ram
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Raigarh (Lok Sabha constituency)|Raigarh]]
+| ST
+| Aarti Singh
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Janjgir (Lok Sabha constituency)|Janjgir]]
+| SC
+| Premchand Jaisi
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Korba (Lok Sabha constituency)|Korba]]
+| None
+| [[Charan Das Mahant]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Bilaspur (Lok Sabha constituency)|Bilaspur]]
+| None
+| [[Karuna Shukla]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Rajnandgaon (Lok Sabha constituency)|Rajnandgaon]]
+| None
+| Kamleshwar Verma
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Durg (Lok Sabha constituency)|Durg]]
+| None
+| Tamradhwaj Sahu
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|8
+| [[Raipur (Lok Sabha constituency)|Raipur]]
+| None
+| Satyanarayan Sharma
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Mahasamund (Lok Sabha constituency)|Mahasamund]]
+| None
+| [[Ajit Jogi]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Bastar (Lok Sabha constituency)|Bastar]]
+| ST
+| Deepak Karma
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Kanker (Lok Sabha constituency)|Kanker]]
+| ST
+| Phoolo Devi Netam
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+
+|}
+
+==Goa==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (2)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2| Party
+! Result
+|-
+| align="center"|1
+| [[North Goa (Lok Sabha constituency)|North Goa]]
+| SC
+| [[Ravi S. Naik]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[South Goa (Lok Sabha constituency)|South Goa]]
+| None
+| Aleixo Reginaldo Lourenco
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Gujarat==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (25)|border=solid 1px #AAAAAA}}
+{{legend2|#00B2B2|[[Nationalist Congress Party|NCP]] (1)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Kachchh (Lok Sabha constituency)|Kachchh]]
+| SC
+| [[Dineshbhai Parmar]]
+| bgcolor={{party color|Indian National Congress}} |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Banaskantha (Lok Sabha constituency)|Banaskantha]]
+| None
+| Joitabhai Kasnabhai Patel
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Patan (Lok Sabha constituency)|Patan]]
+| None
+| [[Bhavsinh Rathod]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Mahesana (Lok Sabha constituency)|Mahesana]]
+| None
+| [[Jivabhai Ambalal Patel]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Sabarkantha (Lok Sabha constituency)|Sabarkantha]]
+| None
+| [[Shankersinh Vaghela]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+|| [[Gandhinagar (Lok Sabha constituency)|Gandhinagar]]
+| None
+| Kirit Patel
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Ahmedabad East (Lok Sabha constituency)|Ahmedabad East]]
+| None
+| Himmatsingh Patel
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Ahmedabad West (Lok Sabha constituency)|Ahmedabad West]]
+| SC
+| Ishwar Makwana
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Surendranagar (Lok Sabha constituency)|Surendranagar]]
+| None
+| [[Somabhai Gandalal Koli Patel]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Rajkot (Lok Sabha constituency)|Rajkot]]
+| None
+| Kuwarjibhai Bavalia
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Porbandar (Lok Sabha constituency)|Porbandar]]
+| None
+| Kandhal Jadeja
+| bgcolor={{party color|Nationalist Congress Party}} | 
+| [[Nationalist Congress Party]]
+| {{Lost}}
+|-
+| align="center"|12
+| [[Jamnagar (Lok Sabha constituency)|Jamnagar]]
+| None
+| [[Ahir Vikrambhai Arjanbhai Madam]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Junagadh (Lok Sabha constituency)|Junagadh]]
+| None
+| Punjabhai Vansh
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Amreli (Lok Sabha constituency)|Amreli]]
+| None
+| [[Virjibhai Thummar]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Bhavnagar (Lok Sabha constituency)|Bhavnagar]]
+| None
+| Pravin Rathod
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Anand (Lok Sabha constituency)|Anand]]
+| None
+| [[Bharatsinh Solanki]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|17
+| [[Kheda (Lok Sabha constituency)|Kheda]]
+| None
+| [[Dinsha Patel]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|18
+| [[Panchmahal (Lok Sabha constituency)|Panchmahal]]
+| None
+| Ramsingh Parmar
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Dahod (Lok Sabha constituency)|Dahod]]
+| ST
+| Dr Prabhaben Taviyad
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Vadodara (Lok Sabha constituency)|Vadodara]]
+| None
+| [[Madhusudan Mistry]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Chhota Udaipur (Lok Sabha constituency)|Chhota Udaipur]]
+| ST
+| [[Naranbhai Rathwa]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|22
+| [[Bharuch (Lok Sabha constituency)|Bharuch]]
+| None
+| Jayesh Patel
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|23
+| [[Bardoli (Lok Sabha constituency)|Bardoli]]
+| ST
+| [[Tushar Amarsinh Chaudhary]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|24
+| [[Surat (Lok Sabha constituency)|Surat]]
+| None
+| Naishadh Desai
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|25
+| [[Navsari (Lok Sabha constituency)|Navsari]]
+| None
+| Maksud Mirza
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|26
+| [[Valsad (Lok Sabha constituency)|Valsad]]
+| ST
+| [[Kishanbhai Vestabhai Patel]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+
+|}
+
+==Haryana==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (10)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Ambala (Lok Sabha constituency)|Ambala]]
+| SC
+| Raj Kumar Valmiki
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Kurukshetra (Lok Sabha constituency)|Kurukshetra]]
+| None
+| [[Naveen Jindal]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Sirsa (Lok Sabha constituency)|Sirsa]]
+| SC
+| [[Ashok Tanwar]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Hissar (Lok Sabha constituency)|Hissar]]
+| None
+| [[Sampat Singh]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Karnal (Lok Sabha constituency)|Karnal]]
+| None
+| [[Arvind Kumar Sharma]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Sonepat (Lok Sabha constituency)|Sonepat]]
+| None
+| Jagbir Malik
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Rohtak (Lok Sabha constituency)|Rohtak]]
+| None
+| [[Deepender Singh Hooda]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|8
+| [[Bhiwani-Mahendragarh (Lok Sabha constituency)|Bhiwani-Mahendragarh]]
+| None
+| [[Shruti Choudhry]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Gurgaon (Lok Sabha constituency)|Gurgaon]]
+| None
+| [[Rao Dharampal]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Faridabad (Lok Sabha constituency)|Faridabad]]
+| None
+| [[Avtar Singh Bhadana]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Himachal Pradesh==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (4)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Kangra (Lok Sabha constituency)|Kangra]]
+| None
+| [[Chander Kumar]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Mandi (Lok Sabha constituency)|Mandi]]
+| None
+| [[Pratibha Singh]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Hamirpur, Himachal Pradesh (Lok Sabha constituency)|Hamirpur]]
+| None
+| Rajinder Singh
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Shimla (Lok Sabha constituency)|Shimla]]
+| SC
+| Mohan Lal Bragta
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+
+|}
+
+==Jammu and Kashmir==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (3)|border=solid 1px #AAAAAA}}
+{{legend2|#FF4545|[[Jammu & Kashmir National Conference|JKNC]] (3)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/><ref name="JKNCList">{{cite web | url=http://www.elections.in/jammu-and-kashmir/parliamentary-constituencies/candidate-list.html | title=Candidates For Jammu And Kashmir General Elections 2014 | publisher=Compare Infobase Limited | accessdate=17 April 2014}}</ref>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Baramulla (Lok Sabha constituency)|Baramulla]]
+| None
+| [[Sharifuddin Shariq]]
+| bgcolor={{party color|Jammu & Kashmir National Conference}} | 
+| [[Jammu & Kashmir National Conference]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Srinagar (Lok Sabha constituency)|Srinagar]]
+| None
+| [[Farooq Abdullah]]
+| bgcolor={{party color|Jammu & Kashmir National Conference}} |
+| Jammu & Kashmir National Conference
+| {{Lost}}
+|-
+| align="center"|3
+| [[Anantnag (Lok Sabha constituency)|Anantnag]]
+| None
+| [[Mirza Mehboob Beg]]
+| bgcolor={{party color|Jammu & Kashmir National Conference}} |
+| Jammu & Kashmir National Conference
+| {{Lost}}
+|-
+| align="center"|4
+| [[Ladakh (Lok Sabha constituency)|Ladakh]]
+| None
+| [[Tsering Samphel]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|5
+| [[Udhampur (Lok Sabha constituency)|Udhampur]]
+| None
+| [[Ghulam Nabi Azad]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Jammu (Lok Sabha constituency)|Jammu]]
+| None
+| [[Madan Lal Sharma]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Jharkhand==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (9)|border=solid 1px #AAAAAA}} {{legend2|#CC3333|[[Jharkhand Mukti Morcha|JMM]] (4)|border=solid 1px #AAAAAA}} {{legend2|#008000|[[Rashtriya Janata Dal|RJD]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/><ref name="JMMList1">{{cite news | url=http://www.hindustantimes.com/india-news/ranchi/lok-sabha-elections-jmm-announces-candidates-sibu-soren--to-fight-from-dumka/article1-1194087.aspx | archive-url=https://web.archive.org/web/20140312183256/http://www.hindustantimes.com/india-news/ranchi/lok-sabha-elections-jmm-announces-candidates-sibu-soren--to-fight-from-dumka/article1-1194087.aspx | url-status=dead | archive-date=12 March 2014 | title=Lok Sabha elections: JMM announces candidates, Sibu Soren to fight from Dumka | work=HT Correspondent | date=12 March 2014 | agency=Hindustan Times | accessdate=11 April 2014}}</ref>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Rajmahal (Lok Sabha constituency)|Rajmahal]]
+| ST
+| [[Vijay Kumar Hansdak]]
+| bgcolor=#CC3333 |
+| [[Jharkhand Mukti Morcha]]
+| {{Won}}
+|-
+| align="center"|2
+| [[Dumka (Lok Sabha constituency)|Dumka]]
+| ST
+| [[Sibu Soren]]
+| bgcolor=#CC3333 |
+| Jharkhand Mukti Morcha
+| {{Won}}
+|-
+| align="center"|3
+| [[Godda (Lok Sabha constituency)|Godda]]
+| None
+| [[Furkan Ansari]]
+| bgcolor="{{party color|Indian National Congress}}" | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|4
+| [[Chatra (Lok Sabha constituency)|Chatra]]
+| None
+| Dhiraj Pratap Sahu
+| bgcolor="{{party color|Indian National Congress}}" | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Kodarma (Lok Sabha constituency)|Kodarma]]
+| None
+| Tilakdhari Prasad Singh
+| bgcolor="{{party color|Indian National Congress}}" | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Giridih (Lok Sabha constituency)|Giridih]]
+| None
+| Jagarnath Mahto
+| bgcolor=#CC3333 |
+| Jharkhand Mukti Morcha
+| {{Lost}}
+|-
+| align="center"|7
+| [[Dhanbad (Lok Sabha constituency)|Dhanbad]]
+| None
+| Ajay Dubey
+| bgcolor="{{party color|Indian National Congress}}" | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Ranchi (Lok Sabha constituency)|Ranchi]]
+| None
+| [[Subodh Kant Sahay]]
+| bgcolor="{{party color|Indian National Congress}}" | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Jamshedpur (Lok Sabha constituency)|Jamshedpur]]
+| None
+| Niroop Mahanty
+| bgcolor=#CC3333 |
+| Jharkhand Mukti Morcha
+| {{Lost}}
+|-
+| align="center"|10
+| [[Singhbhum (Lok Sabha constituency)|Singhbhum]]
+| ST
+| Chitrasen Sinku
+| bgcolor="{{party color|Indian National Congress}}" | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Khunti (Lok Sabha constituency)|Khunti]]
+| ST
+| Kalicharan Munda
+| bgcolor="{{party color|Indian National Congress}}" | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Lohardaga (Lok Sabha constituency)|Lohardaga]]
+| ST
+| [[Rameshwar Oraon]]
+| bgcolor="{{party color|Indian National Congress}}" | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Palamau (Lok Sabha constituency)|Palamau]]
+| SC
+| [[Manoj Kumar (Jharkhand politician)|Manoj Kumar]]
+| bgcolor="{{party color|Rashtriya Janata Dal}}" | 
+| [[Rashtriya Janata Dal]]
+| {{Lost}}
+|-
+| align="center"|14
+| [[Hazaribagh (Lok Sabha constituency)|Hazaribagh]]
+| None
+| [[Saurabh Narain Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Karnataka==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (28)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Chikkodi (Lok Sabha constituency)|Chikkodi]]
+| None
+| [[Prakash Babanna Hukkeri]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Won}}
+|-
+| align="center"|2
+| [[Belgaum (Lok Sabha constituency)|Belgaum]]
+| None
+| [[Lakshmi Hebbalkar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Bagalkot (Lok Sabha constituency)|Bagalkot]]
+| None
+| Ajay Kumar Sarnaik
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Bijapur (Lok Sabha constituency)|Bijapur]]
+| SC
+| Prakash Rathod
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Gulbarga (Lok Sabha constituency)|Gulbarga]]
+| SC
+| [[Mallikarjun Kharge]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|6
+| [[Raichur (Lok Sabha constituency)|Raichur]]
+| ST
+| [[B. V. Naik]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|7
+| [[Bidar (Lok Sabha constituency)|Bidar]]
+| None
+| [[N. Dharam Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Koppal (Lok Sabha constituency)|Koppal]]
+| None
+| Basavaraj Hitnal
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Bellary (Lok Sabha constituency)|Bellary]]
+| ST
+| [[N. Y. Hanumanthappa]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Haveri (Lok Sabha constituency)|Haveri]]
+| None
+| Saleem Ahamed
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Dharwad (Lok Sabha constituency)|Dharwad]]
+| None
+| Vinay Kulkarni
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Uttara Kannada (Lok Sabha constituency)|Uttara Kannada]]
+| None
+| Prashant Deshpande
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Davangere (Lok Sabha constituency)|Davanagere]]
+| None
+| S.S. Mallikarjun
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Shimoga (Lok Sabha constituency)|Shimoga]]
+| None
+| Manjunath Bhandary
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Udupi Chikmagalur (Lok Sabha constituency)|Udupi Chikmagalur]]
+| None
+| [[K. Jayaprakash Hegde]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Hassan (Lok Sabha constituency)|Hassan]]
+| None
+| A. Manju
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|17
+| [[Dakshina Kannada (Lok Sabha constituency)|Dakshina Kannada]]
+| None
+| [[Janardhana Poojary]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|18
+| [[Chitradurga (Lok Sabha constituency)|Chitradurga]]
+| SC
+| [[B N Chandrappa]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|19
+| [[Tumkur (Lok Sabha constituency)|Tumkur]]
+| None
+| S.P. Muddahanumegowda
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|20
+| [[Mandya (Lok Sabha constituency)|Mandya]]
+| None
+| [[Divya Spandana]] Ramya
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Mysore (Lok Sabha constituency)|Mysore]]
+| None
+| [[Adagur H. Vishwanath]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|22
+| [[Chamarajanagar (Lok Sabha constituency)|Chamarajanagar]]
+| SC
+| [[R. Dhruvanarayana]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|23
+| [[Bangalore Rural (Lok Sabha constituency)|Bangalore Rural]]
+| None
+| [[D. K. Suresh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|24
+| [[Bangalore North (Lok Sabha constituency)|Bangalore North]]
+| None
+| [[C Narayanaswamy]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|25
+| [[Bangalore Central (Lok Sabha constituency)|Bangalore Central]]
+| None
+| Rizwan Arshad
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|26
+| [[Bangalore South (Lok Sabha constituency)|Bangalore South]]
+| None
+| [[Nandan Nilekani]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|27
+| [[Chikkballapur (Lok Sabha constituency)|Chikkballapur]]
+| None
+| [[Veerappa Moily]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|28
+| [[Kolar (Lok Sabha constituency)|Kolar]]
+| SC
+| [[K.H. Muniyappa]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|}
+
+==Kerala==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (15)|border=solid 1px #AAAAAA}} {{legend2|#008000|[[Indian Union Muslim League|IUML]] (2)|border=solid 1px #AAAAAA}} {{legend2|#FF0000|[[Revolutionary Socialist Party (India)|RSP]] (1)|border=solid 1px #AAAAAA}} {{legend2|#CC9900|[[Kerala Congress (M)|KC(M)]] 
+(1)|border=solid 1px #AAAAAA}}
+{{legend2|#CEF6EC|[[Socialist Janata (Democratic)|SJ(D)]] 
+(1)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Kasaragod (Lok Sabha constituency)|Kasaragod]]
+| None
+| T. Siddique
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Kannur (Lok Sabha constituency)|Kannur]]
+| None
+| [[K. Sudhakaran]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Vatakara (Lok Sabha constituency)|Vatakara]]
+| None
+| [[Mullappally Ramachandran]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|4
+| [[Wayanad (Lok Sabha constituency)|Wayanad]]
+| None
+| [[M. I. Shanavas]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|5
+| [[Kozhikode (Lok Sabha constituency)|Kozhikode]]
+| None
+| [[M. K. Raghavan]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|6
+| [[Malappuram (Lok Sabha constituency)|Malappuram]]
+| None
+| [[E. Ahamed]]
+| bgcolor={{party color|Indian Union Muslim League}} | 
+| [[Indian Union Muslim League]]
+| {{Won}}
+|-
+| align="center"|7
+| [[Ponnani (Lok Sabha constituency)|Ponnani]]
+| None
+| [[E. T. Mohammed Basheer]]
+| bgcolor={{party color|Indian Union Muslim League}} |
+| Indian Union Muslim League
+| {{Won}}
+|-
+| align="center"|8
+| [[Palakkad (Lok Sabha constituency)|Palakkad]]
+| None
+| [[M. P. Veerendra Kumar]]
+| bgcolor=#CEF6EC|
+| [[Socialist Janata (Democratic)]]
+| {{Lost}}
+|-
+| align="center"|9
+| [[Alathur (Lok Sabha constituency)|Alathur]]
+| SC
+| Sheeba K. A.
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Trichur (Lok Sabha constituency)|Thrissur]]
+| None
+| [[K. P. Dhanapalan]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Chalakudy (Lok Sabha constituency)|Chalakudy]]
+| None
+| [[P. C. Chacko]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Ernakulam (Lok Sabha constituency)|Ernakulam]]
+| None
+| [[K. V. Thomas]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|13
+| [[Idukki (Lok Sabha constituency)|Idukki]]
+| None
+| Dean Kuriakose
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Kottayam (Lok Sabha constituency)|Kottayam]]
+| None
+| Jose.K.Mani
+| bgcolor={{party color|Kerala Congress (M)}} |
+| [[Kerala Congress (M)]]
+| {{Won}}
+|-
+| align="center"|15
+| [[Alappuzha (Lok Sabha constituency)|Alappuzha]]
+| None
+| [[K. C. Venugopal]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|16
+| [[Mavelikara (Lok Sabha constituency)|Mavelikara]]
+| SC
+| [[Kodikunnil Suresh]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|17
+| [[Pathanamthitta (Lok Sabha constituency)|Pathanamthitta]]
+| None
+| [[Anto Antony]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|18
+| [[Quilon (Lok Sabha constituency)|Kollam]]
+| None
+| [[N. K. Premachandran]]
+| bgcolor={{party color|Revolutionary Socialist Party (India)}} |
+| [[Revolutionary Socialist Party (India)|Revolutionary Socialist Party]]
+| {{Won}}
+|-
+| align="center"|19
+| [[Attingal (Lok Sabha constituency)|Attingal]]
+| None
+| Bindu Krishna
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Trivandrum (Lok Sabha constituency)|Thiruvananthapuram]]
+| None
+| [[Shashi Tharoor]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Won}}
+|}
+
+==Madhya Pradesh==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (29)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Morena (Lok Sabha constituency)|Morena]]
+| None
+| [[Govind Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Bhind (Lok Sabha constituency)|Bhind]]
+| SC
+| [[Imarti Devi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Gwalior (Lok Sabha constituency)|Gwalior]]
+| None
+| Ashok Singh
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Guna (Lok Sabha constituency)|Guna]]
+| None
+| [[Jyotiraditya Madhavrao Scindia]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|5
+| [[Sagar (Lok Sabha constituency)|Sagar]]
+| None
+| [[Govind Singh Rajput]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Tikamgarh (Lok Sabha constituency)|Tikamgarh]]
+| SC
+| Kamleshwar Verma
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Damoh (Lok Sabha constituency)|Damoh]]
+| None
+| Mahendra Pratap
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Khajuraho (Lok Sabha constituency)|Khajuraho]]
+| None
+| Raja Pateria
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Satna (Lok Sabha constituency)|Satna]]
+| None
+| [[Ajay Singh (Madhya Pradesh politician)|Ajay Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Rewa (Lok Sabha constituency)|Rewa]]
+| None
+| Sunderlal Tiwari
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Sidhi (Lok Sabha constituency)|Sidhi]]
+| None
+| Indrajeet Patel
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Shahdol (Lok Sabha constituency)|Shahdol]]
+| ST
+| [[Rajesh Nandini Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Jabalpur (Lok Sabha constituency)|Jabalpur]]
+| None
+| [[Vivek Tankha]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Mandla (Lok Sabha constituency)|Mandla]]
+| ST
+| [[Omkar Markam]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Balaghat (Lok Sabha constituency)|Balaghat]]
+| None
+| Heena Kaware
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Chhindwara (Lok Sabha constituency)|Chhindwara]]
+| None
+| [[Kamal Nath]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|17
+| [[Hoshangabad (Lok Sabha constituency)|Hoshangabad]]
+| None
+| [[Devendra Patel]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|18
+| [[Vidisha (Lok Sabha constituency)|Vidisha]]
+| None
+| [[Lakshman Singh (politician)|Laxman Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Bhopal (Lok Sabha constituency)|Bhopal]]
+| None
+| P.C. Sharma
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Rajgarh (Lok Sabha constituency)|Rajgarh]]
+| None
+| [[Narayan Singh Amlabe]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Dewas (Lok Sabha constituency)|Dewas]]
+| SC
+| Sajjan Kumar Verma
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|22
+| [[Ujjain (Lok Sabha constituency)|Ujjain]]
+| SC
+| [[Guddu Premchand]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|23
+| [[Mandsaur (Lok Sabha constituency)|Mandsaur]]
+| None
+| [[Meenakshi Natarajan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|24
+| [[Ratlam (Lok Sabha constituency)|Ratlam]]
+| ST
+| [[Kantilal Bhuria]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|25
+| [[Dhar (Lok Sabha constituency)|Dhar]]
+| ST
+| Umang Singhar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|26
+| [[Indore (Lok Sabha constituency)|Indore]]
+| None
+| [[Satyanarayan Patel]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|27
+| [[Khargone (Lok Sabha constituency)|Khargone]]
+| ST
+| Ramesh Patel
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|28
+| [[Khandwa (Lok Sabha constituency)|Khandwa]]
+| None
+| [[Arun Subhashchandra Yadav]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|29
+| [[Betul (Lok Sabha constituency)|Betul]]
+| ST
+| Rahul Chaudhary
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+
+|}
+
+==Maharashtra==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (26)|border=solid 1px #AAAAAA}}
+{{legend2|#00B2B2|[[Nationalist Congress Party|NCP]] (21)|border=solid 1px #AAAAAA}}
+{{legend2|#800080|[[Bahujan Vikas Aaghadi|BVA]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/><ref name="NCPList1"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Nandurbar (Lok Sabha constituency)|Nandurbar]]
+| ST
+| [[Manikrao Hodlya Gavit]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Dhule (Lok Sabha constituency)|Dhule]]
+| None
+| Amrishbhai Rasikbhai Patel
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Jalgaon (Lok Sabha constituency)|Jalgaon]]
+| None
+| Satish Pawar
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| [[Nationalist Congress Party]]
+| {{Lost}}
+|-
+| align="center"|4
+| [[Raver (Lok Sabha constituency)|Raver]]
+| None
+| Manish Jain
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|5
+| [[Buldhana (Lok Sabha constituency)|Buldhana]]
+| None
+| Radhakrishna Ingle
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|6
+| [[Akola (Lok Sabha constituency)|Akola]]
+| None
+| Hidayat Patel
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Amravati (Lok Sabha constituency)|Amravati]]
+| SC
+| [[Navneet Kaur Rana|Navneet Kaur]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|8
+| [[Wardha (Lok Sabha constituency)|Wardha]]
+| None
+| Sagar Maghe
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Ramtek (Lok Sabha constituency)|Ramtek]]
+| SC
+| [[Mukul Wasnik]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Nagpur (Lok Sabha constituency)|Nagpur]]
+| None
+| [[Vilas Muttemwar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Bhandara-Gondiya (Lok Sabha constituency)|Bhandara-Gondiya]]
+| None
+| [[Praful Patel]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|12
+| [[Gadchiroli-Chimur (Lok Sabha constituency)|Gadchiroli-Chimur]]
+| ST
+| Namdeo Usendi
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Chandrapur (Lok Sabha constituency)|Chandrapur]]
+| None
+| [[Karan Sanjay Deotale|Sanjay Deotale]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Yavatmal-Washim (Lok Sabha constituency)|Yavatmal-Washim]]
+| None
+| [[Shivajirao Moghe]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Hingoli (Lok Sabha constituency)|Hingoli]]
+| None
+| [[Rajeev Satav]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|16
+| [[Nanded (Lok Sabha constituency)|Nanded]]
+| None
+| [[Ashok Chavan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|17
+| [[Parbhani (Lok Sabha constituency)|Parbhani]]
+| None
+| Vijay Bhamble
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|18
+| [[Jalna (Lok Sabha constituency)|Jalna]]
+| None
+| Vilas Autade
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Aurangabad (Maharashtra Lok Sabha constituency)|Aurangabad]]
+| None
+| Nitin Patil
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Dindori (Lok Sabha constituency)|Dindori]]
+| ST
+| [[Bharati Pawar]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|21
+| [[Nashik (Lok Sabha constituency)|Nashik]]
+| None
+| [[Chhagan Bhujbal]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|22
+| [[Palghar (Lok Sabha constituency)|Palghar]]
+| ST
+|[[Baliram Sukur Jadhav]]
+| style="background:purple;"| 
+|[[Bahujan Vikas Aaghadi]]
+| {{Lost}}
+|-
+| align="center"|23
+| [[Bhiwandi (Lok Sabha constituency)|Bhiwandi]]
+| None
+| Vishwanath Patil
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|24
+| [[Kalyan (Lok Sabha constituency)|Kalyan]]
+| None
+| [[Anand Paranjape]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|25
+| [[Thane (Lok Sabha constituency)|Thane]]
+| None
+| [[Sanjeev Naik]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|26
+| [[Mumbai North (Lok Sabha constituency)|Mumbai North]]
+| None
+| [[Sanjay Nirupam]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|27
+| [[Mumbai North West (Lok Sabha constituency)|Mumbai North West]]
+| None
+| [[Gurudas Kamat]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|28
+| [[Mumbai North East (Lok Sabha constituency)|Mumbai North East]]
+| None
+| [[Sanjay Dina Patil]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|29
+| [[Mumbai North Central (Lok Sabha constituency)|Mumbai North Central]]
+| None
+| [[Priya Dutt]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|30
+| [[Mumbai South Central (Lok Sabha constituency)|Mumbai South Central]]
+| None
+| [[Eknath Gaikwad]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|31
+| [[Mumbai South (Lok Sabha constituency)|Mumbai South]]
+| None
+| [[Milind Deora]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|32
+| [[Raigad (Lok Sabha constituency)|Raigad]]
+| None
+| [[Sunil Tatkare]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|33
+| [[Maval (Lok Sabha constituency)|Maval]]
+| None
+| Rahul Narvekar
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|34
+| [[Pune (Lok Sabha constituency)|Pune]]
+| None
+| Vishwajeet Kadam
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|35
+| [[Baramati (Lok Sabha constituency)|Baramati]]
+| None
+| [[Supriya Sule]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Won}}
+|-
+| align="center"|36
+| [[Shirur (Lok Sabha constituency)|Shirur]]
+| None
+| Devdutt Nikam
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|37
+| [[Ahmednagar (Lok Sabha constituency)|Ahmednagar]]
+| None
+| [[Rajeev Rajale]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|38
+| [[Shirdi (Lok Sabha constituency)|Shirdi]]
+| SC
+| [[Bhausaheb Rajaram Wakchaure]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|39
+| [[Beed (Lok Sabha constituency)|Beed]]
+| None
+| Suresh Dhas
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|40
+| [[Osmanabad (Lok Sabha constituency)|Osmanabad]]
+| None
+| [[Padamsinh Bajirao Patil]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Lost}}
+|-
+| align="center"|41
+| [[Latur (Lok Sabha constituency)|Latur]]
+| SC
+| Dattatraya Bansode
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|42
+| [[Solapur (Lok Sabha constituency)|Solapur]]
+| SC
+| [[Sushilkumar Shinde]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|43
+| [[Madha (Lok Sabha constituency)|Madha]]
+| None
+| [[Vijaysingh Mohite-Patil]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Won}}
+|-
+| align="center"|44
+| [[Sangli (Lok Sabha constituency)|Sangli]]
+| None
+| [[Pratik Prakashbapu Patil]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|45
+| [[Satara (Lok Sabha constituency)|Satara]]
+| None
+| [[Udayanraje Bhosale]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Won}}
+|-
+| align="center"|46
+| [[Ratnagiri-Sindhudurg (Lok Sabha constituency)|Ratnagiri–Sindhudurg]]
+| None
+| [[Nilesh Narayan Rane]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|47
+| [[Kolhapur (Lok Sabha constituency)|Kolhapur]]
+| None
+| [[Dhananjay Mahadik]]
+| bgcolor="{{party color|Nationalist Congress Party}}" |
+| Nationalist Congress Party
+| {{Won}}
+|-
+| align="center"|48
+| [[Hatkanangle (Lok Sabha constituency)|Hatkanangle]]
+| None
+| Kallappa Awade
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+
+|}
+
+==Manipur==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (2)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Inner Manipur (Lok Sabha constituency)|Inner Manipur]]
+| None
+| [[Thokchom Meinya]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Won}}
+|-
+| align="center"|2
+| [[Outer Manipur (Lok Sabha constituency)|Outer Manipur]]
+| ST
+| [[Thangso Baite]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|}
+
+==Meghalaya==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (2)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Shillong (Lok Sabha constituency)|Shillong]]
+| None
+| [[Vincent Pala]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Won}}
+|-
+| align="center"|2
+| [[Tura (Lok Sabha constituency)|Tura]]
+| ST
+| Daryl William Cheran Momin
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Mizoram==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Mizoram (Lok Sabha constituency)|Mizoram]]
+| ST
+| [[C. L. Ruala]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Won}}
+|}
+
+==Nagaland==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Nagaland (Lok Sabha constituency)|Nagaland]]
+| None
+| K. V. Pusa
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|}
+
+==Odisha==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (21)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Bargarh (Lok Sabha constituency)|Bargarh]]
+| None
+| [[Sanjay Bhoi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Sundargarh (Lok Sabha constituency)|Sundargarh]]
+| ST
+| [[Hemanand Biswal]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Sambalpur (Lok Sabha constituency)|Sambalpur]]
+| None
+| [[Amarnath Pradhan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Keonjhar (Lok Sabha constituency)|Keonjhar]]
+| ST
+| [[Madhab Sardar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Mayurbhanj (Lok Sabha constituency)|Mayurbhanj]]
+| ST
+| Shyam Sundar Hansdah
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Balasore (Lok Sabha constituency)|Balasore]]
+| None
+| [[Srikant Kumar Jena]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Bhadrak (Lok Sabha constituency)|Bhadrak]]
+| SC
+| Sangram Jena
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Jajpur (Lok Sabha constituency)|Jajpur]]
+| SC
+| Ashok Das
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Dhenkanal (Lok Sabha constituency)|Dhenkanal]]
+| None
+| Sudhir Kumar Samal
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Bolangir (Lok Sabha constituency)|Bolangir]]
+| None
+| Sarat Patnaik
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Kalahandi (Lok Sabha constituency)|Kalahandi]]
+| None
+| [[Bhakta Charan Das]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Nabarangpur (Lok Sabha constituency)|Nabarangpur]]
+| ST
+| [[Pradeep Kumar Majhi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Kandhamal (Lok Sabha constituency)|Kandhamal]]
+| None
+| Harihar Karan
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Cuttack (Lok Sabha constituency)|Cuttack]]
+| None
+| Aparajita Mohanty
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Kendrapara (Lok Sabha constituency)|Kendrapara]]
+| None
+| Dharnidhar Nayak
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Jagatsinghpur (Lok Sabha constituency)|Jagatsinghpur]]
+| SC
+| [[Bibhu Prasad Tarai]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|17
+| [[Puri (Lok Sabha constituency)|Puri]]
+| None
+| Sucharita Mohanty
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|18
+| [[Bhubaneswar (Lok Sabha constituency)|Bhubaneswar]]
+| None
+| [[Bijay Mohanty]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Aska (Lok Sabha constituency)|Aska]]
+| None
+| Loknath Rath
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Berhampur (Lok Sabha constituency)|Berhampur]]
+| None
+| [[Chandra Sekhar Sahu]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Koraput (Lok Sabha constituency)|Koraput]]
+| ST
+| [[Giridhar Gamang]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Punjab==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (13)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Gurdaspur (Lok Sabha constituency)|Gurdaspur]]
+| None
+| [[Pratap Singh Bajwa]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Amritsar (Lok Sabha constituency)|Amritsar]]
+| None
+| [[Capt. Amarinder Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|3
+| [[Khadoor Sahib (Lok Sabha constituency)|Khadoor Sahib]]
+| None
+| Harminder Singh Gill
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Jalandhar (Lok Sabha constituency)|Jalandhar]]
+| SC
+| Santokh Singh Chaudhary
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|5
+| [[Hoshiarpur (Lok Sabha constituency)|Hoshiarpur]]
+| SC
+| [[Mohinder Singh Kaypee]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Anandpur Sahib (Lok Sabha constituency)|Anandpur Sahib]]
+| None
+| [[Ambika Soni]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Ludhiana (Lok Sabha constituency)|Ludhiana]]
+| None
+| Ravneet Singh Bittu
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|8
+| [[Fatehgarh Sahib (Lok Sabha constituency)|Fatehgarh Sahib]]
+| SC
+| Sadhu Singh Dharamsot
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Faridkot (Lok Sabha constituency)|Faridkot]]
+| SC
+| Joginder Singh Panjgrain
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Firozpur (Lok Sabha constituency)|Firozpur]]
+| None
+| Sunil Kumar Jakhar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Bhatinda (Lok Sabha constituency)|Bathinda]]
+| None
+| [[Manpreet Singh Badal]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Sangrur (Lok Sabha constituency)|Sangrur]]
+| None
+| [[Vijay Inder Singla]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Patiala (Lok Sabha constituency)|Patiala]]
+| None
+| [[Preneet Kaur]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Rajasthan==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (25)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Ganganagar (Lok Sabha constituency)|Ganganagar]]
+| SC
+| [[Bhanwarlal Meghwal]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Bikaner (Lok Sabha constituency)|Bikaner]]
+| SC
+| Shankar Pannu
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Churu (Lok Sabha constituency)|Churu]]
+| None
+| Pratap Punia
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Jhunjhunu (Lok Sabha constituency)|Jhunjhunu]]
+| None
+| Rajbala Ola
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Sikar (Lok Sabha constituency)|Sikar]]
+| None
+| Pratap Singh Jat
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Jaipur Rural (Lok Sabha constituency)|Jaipur Rural]]
+| None
+| [[C. P. Joshi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Jaipur (Lok Sabha constituency)|Jaipur]]
+| None
+| [[Mahesh Joshi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Alwar (Lok Sabha constituency)|Alwar]]
+| None
+| [[Jitendra Singh (INC politician)|Jitendra Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Bharatpur (Lok Sabha constituency)|Bharatpur]]
+| SC
+| Suresh Chand Yadav
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Karauli-Dholpur (Lok Sabha constituency)|Karauli-Dholpur]]
+| SC
+| Lakhiram Bairwa
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Dausa (Lok Sabha constituency)|Dausa]]
+| None
+| [[Namo Narain Meena]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Tonk-Sawai Madhopur (Lok Sabha constituency)|Tonk-Sawai Madhopur]]
+| None
+| [[Mohammad Azharuddin]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Ajmer (Lok Sabha constituency)|Ajmer]]
+| None
+| [[Sachin Pilot]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Nagaur (Lok Sabha constituency)|Nagaur]]
+| None
+| [[Jyoti Mirdha]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Pali (Lok Sabha constituency)|Pali]]
+| None
+| Munni Devi Godara
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Jodhpur (Lok Sabha constituency)|Jodhpur]]
+| None
+| [[Chandresh Kumari Katoch]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|17
+| [[Barmer (Lok Sabha constituency)|Barmer]]
+| None
+| [[Harish Chaudhary]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|18
+| [[Jalore (Lok Sabha constituency)|Jalore]]
+| None
+| [[Udai Lal Anjana]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Udaipur (Lok Sabha constituency)|Udaipur]]
+| ST
+| [[Raghuveer Meena]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Banswara (Lok Sabha constituency)|Banswara]]
+| ST
+| Reshm Mahendra Jeet Singh Malviya
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Chittorgarh (Lok Sabha constituency)|Chittorgarh]]
+| None
+| [[Girija Vyas]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|22
+| [[Rajsamand (Lok Sabha constituency)|Rajsamand]]
+| None
+| Gopal Singh Shekhawat
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|23
+| [[Bhilwara (Lok Sabha constituency)|Bhilwara]]
+| None
+| Ashok Chandna
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|24
+| [[Kota (Lok Sabha constituency)|Kota]]
+| None
+| [[Ijyaraj Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|25
+| [[Jhalawar-Baran (Lok Sabha constituency)|Jhalawar-Baran]]
+| None
+| Pramod Jain Bhaya
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Sikkim==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Sikkim (Lok Sabha constituency)|Sikkim]]
+|None
+| A D Subba
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|}
+
+==Tamil Nadu==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (39)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Thiruvallur (Lok Sabha constituency)|Thiruvallur]]
+| SC
+| Victory M. Jayakumar
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Chennai North (Lok Sabha constituency)|Chennai North]]
+| None
+| Biju Chacko
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Chennai South (Lok Sabha constituency)|Chennai South]]
+| None
+| [[S. V. Ramani]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Chennai Central (Lok Sabha constituency)|Chennai Central]]
+| None
+| C. D. Meyyappan
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Sriperumbudur (Lok Sabha constituency)|Sriperumbudur]]
+| None
+| Arul Anbarasu
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Kancheepuram (Lok Sabha constituency)|Kancheepuram]]
+| SC
+| [[P. Viswanathan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Arakkonam (Lok Sabha constituency)|Arakkonam]]
+| None
+| Naesey Rajesh
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Vellore (Lok Sabha constituency)|Vellore]]
+| None
+| J .Vijay Elanchezian
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Krishnagiri (Lok Sabha constituency)|Krishnagiri]]
+| None
+| [[A. Chellakumar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|10
+| [[Dharmapuri (Lok Sabha constituency)|Dharmapuri]]
+| None
+| Vazhapadi Rama Suganthan
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Tiruvannamalai (Lok Sabha constituency)|Tiruvannamalai]]
+| None
+| A. Subramaniam
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Arani (Lok Sabha constituency)|Arani]]
+| None
+| M. K. Vishnu Prasad
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Villupuram (Lok Sabha constituency)|Villupuram]]
+| SC
+| [[K. Rani (politician)|K. Rani]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Kallakurichi (Lok Sabha constituency)|Kallakurichi]]
+| None
+| R. Devadass
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Salem (Lok Sabha constituency)|Salem]]
+| None
+| [[Mohan Kumaramangalam]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Namakkal (Lok Sabha constituency)|Namakkal]]
+| None
+| G.R. Subramaniam
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|17
+| [[Erode (Lok Sabha constituency)|Erode]]
+| None
+| P. Gopi
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|18
+| [[Tiruppur (Lok Sabha constituency)|Tiruppur]]
+| None
+| [[E. V. K. S. Elangovan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Nilgiris (Lok Sabha constituency)|Nilgiris]]
+| SC
+| P. Gandhi
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Coimbatore (Lok Sabha constituency)|Coimbatore]]
+| None
+| [[R. Prabhu]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Pollachi (Lok Sabha constituency)|Pollachi]]
+| None
+| [[K. Sathu Selvaraj]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|22
+| [[Dindigul (Lok Sabha constituency)|Dindigul]]
+| None
+| [[N. S. V. Chitthan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|23
+| [[Karur (Lok Sabha constituency)|Karur]]
+| None
+| S. Jothi Mani
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|24
+| [[Tiruchirappalli (Lok Sabha constituency)|Tiruchirappalli]]
+| None
+| Charubala Thondaiman
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|25
+| [[Perambalur (Lok Sabha constituency)|Perambalur]]
+| None
+| M. Rajasekaran
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|26
+| [[Cuddalore (Lok Sabha constituency)|Cuddalore]]
+| None
+| K.S. Alagiri
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|27
+| [[Chidambaram (Lok Sabha constituency)|Chidambaram]]
+| SC
+| P. Vallal Peruman
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|28
+| [[Mayiladuthurai (Lok Sabha constituency)|Mayiladuthurai]]
+| None
+| [[Mani Shankar Aiyar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|29
+| [[Nagapattinam (Lok Sabha constituency)|Nagapattinam]]
+| SC
+| T.A.P. Senthilpandian
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|30
+| [[Thanjavur (Lok Sabha constituency)|Thanjavur]]
+| None
+| T. Krishnasamy Vandaiyar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|31
+| [[Sivaganga (Lok Sabha constituency)|Sivaganga]]
+| None
+| Karti P. Chidambaram
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|32
+| [[Madurai (Lok Sabha constituency)|Madurai]]
+| None
+| T.N. Bharath Nachiyappan
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|33
+| [[Theni (Lok Sabha constituency)|Theni]]
+| None
+| [[J. M. Aaroon Rashid]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|34
+| [[Virudhunagar (Lok Sabha constituency)|Virudhunagar]]
+| None
+| [[Manicka Tagore]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|35
+| [[Ramanathapuram (Lok Sabha constituency)|Ramanathapuram]]
+| None
+| [[Su. Thirunavukkarasar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|36
+| [[Thoothukudi (Lok Sabha constituency)|Thoothukudi]]
+| None
+| A. P. C. V. Shanmugam
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|37
+| [[Tenkasi (Lok Sabha constituency)|Tenkasi]]
+| SC
+| K. Jayakumar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|38
+| [[Tirunelveli (Lok Sabha constituency)|Tirunelveli]]
+| None
+| [[S. S. Ramasubbu]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|39
+| [[Kanyakumari (Lok Sabha constituency)|Kanyakumari]]
+| None
+| [[H. Vasanthakumar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Tripura==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (2)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved
+! style="width:200px;"|Candidate<ref name="Cong"/>
+! colspan=2|Party
+! Result
+|-
+| align="center"|1
+| [[Tripura West (Lok Sabha constituency)|Tripura West]]
+| None
+| Arunoday Saha
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Tripura East (Lok Sabha constituency)|Tripura East]]
+| ST
+| Sachitra Debbarma
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Uttar Pradesh==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (67)|border=solid 1px #AAAAAA}}
+{{legend2|#330066|[[Rashtriya Lok Dal|RLD]] (8)|border=solid 1px #AAAAAA}}
+{{legend2|red|[[Mahan Dal|MD]] (3)|border=solid 1px #AAAAAA}}
+
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Saharanpur (Lok Sabha constituency)|Saharanpur]]
+| None
+| [[Imran Masood]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Kairana (Lok Sabha constituency)|Kairana]]
+| None
+| Kartar Singh Bhadana
+| bgcolor="{{party color|Rashtriya Lok Dal}}" |
+| [[Rashtriya Lok Dal]]
+| {{Lost}}
+|-
+| align="center"|3
+| [[Muzaffarnagar (Lok Sabha constituency)|Muzaffarnagar]]
+| None
+| Pankaj Aggarwal
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Bijnor (Lok Sabha constituency)|Bijnor]]
+| None
+| [[Jaya Prada]]
+| bgcolor="{{party color|Rashtriya Lok Dal}}" |
+| Rashtriya Lok Dal
+| {{Lost}}
+|-
+| align="center"|5
+| [[Nagina (Lok Sabha constituency)|Nagina]]
+| SC
+| Bhagwan Dass Rathore
+| bgcolor=red|
+| [[Mahan Dal]]
+| {{Lost}}
+|-
+| align="center"|6
+| [[Moradabad (Lok Sabha constituency)|Moradabad]]
+| None
+| [[Begum Noor Bano]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Rampur (Lok Sabha constituency)|Rampur]]
+| None
+| [[Muhammad Kazim Ali Khan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|8
+| [[Sambhal (Lok Sabha constituency)|Sambhal]]
+| None
+| Acharya Pramod Krishnam
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|9
+| [[Amroha (Lok Sabha constituency)|Amroha]]
+| None
+| Rakesh Tikait
+| bgcolor="{{party color|Rashtriya Lok Dal}}" |
+| Rashtriya Lok Dal
+| {{Lost}}
+|-
+| align="center"|10
+| [[Meerut (Lok Sabha constituency)|Meerut]]
+| None
+| [[Nagma]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|11
+| [[Baghpat (Lok Sabha constituency)|Baghpat]]
+| None
+| [[Ajit Singh (politician, born 1939)|Ajit Singh]]
+| bgcolor="{{party color|Rashtriya Lok Dal}}" |
+| Rashtriya Lok Dal
+| {{Lost}}
+|-
+| align="center"|12
+| [[Ghaziabad (Lok Sabha constituency)|Ghaziabad]]
+| None
+| [[Raj Babbar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Gautam Buddha Nagar (Lok Sabha constituency)|Gautam Buddha Nagar]]
+| None
+| [[Dr. Ramesh Chand Tomar|Ramesh Chand Tomar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Bulandshahr (Lok Sabha constituency)|Bulandshahr]]
+| SC
+| Anju
+| bgcolor="{{party color|Rashtriya Lok Dal}}" |
+| Rashtriya Lok Dal
+| {{Lost}}
+|-
+| align="center"|15
+| [[Aligarh (Lok Sabha constituency)|Aligarh]]
+| None
+| [[Bijendra Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Hathras (Lok Sabha constituency)|Hathras]]
+| SC
+| Niranjan Dhangar
+| bgcolor="{{party color|Rashtriya Lok Dal}}" |
+| Rashtriya Lok Dal
+| {{Lost}}
+|-
+| align="center"|17
+| [[Mathura (Lok Sabha constituency)|Mathura]]
+| None
+| [[Jayant Chaudhary]]
+| bgcolor="{{party color|Rashtriya Lok Dal}}" |
+| Rashtriya Lok Dal
+| {{Lost}}
+|-
+| align="center"|18
+| [[Agra (Lok Sabha constituency)|Agra]]
+| SC
+| Upendra Singh Jatav
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Fatehpur Sikri (Lok Sabha constituency)|Fatehpur Sikri]]
+| None
+| [[Amar Singh (Uttar Pradesh politician)|Amar Singh]]
+| bgcolor="{{party color|Rashtriya Lok Dal}}" |
+| Rashtriya Lok Dal
+| {{Lost}}
+|-
+| align="center"|20
+| [[Firozabad (Lok Sabha constituency)|Firozabad]]
+| None
+| Atul Chaturvedi
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Mainpuri (Lok Sabha constituency)|Mainpuri]]
+| None
+| align="center" colspan=4|  '''None'''
+|-
+| align="center"|22
+| [[Etah (Lok Sabha constituency)|Etah]]
+| None
+| Jogendra Singh
+| bgcolor=red|
+| [[Mahan Dal]]
+| {{Lost}}
+|-
+| align="center"|23
+| [[Badaun (Lok Sabha constituency)|Badaun]]
+| None
+| Paglanand
+| bgcolor=red|
+| [[Mahan Dal]]
+| {{Lost}}
+|-
+| align="center"|24
+| [[Aonla (Lok Sabha constituency)|Aonla]]
+| None
+| [[Saleem Iqbal Shervani]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|25
+| [[Bareilly (Lok Sabha constituency)|Bareilly]]
+| None
+| [[Praveen Singh Aron]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|26
+| [[Pilibhit (Lok Sabha constituency)|Pilibhit]]
+| None
+| Sanjay Kapoor
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|27
+| [[Shahjahanpur (Lok Sabha constituency)|Shahjahanpur]]
+| SC
+| Chetram
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|28
+| [[Kheri (Lok Sabha constituency)|Kheri]]
+| None
+| [[Zafar Ali Naqvi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|29
+| [[Dhaurahra (Lok Sabha constituency)|Dhaurahra]]
+| None
+| [[Jitin Prasada]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|30
+| [[Sitapur (Lok Sabha constituency)|Sitapur]]
+| None
+| Vaishali Ali
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|31
+| [[Hardoi (Lok Sabha constituency)|Hardoi]]
+| SC
+| Sarvesh Kumar Jansevak
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|32
+| [[Misrikh (Lok Sabha constituency)|Misrikh]]
+| SC
+| Om Prakash Rawat
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|33
+| [[Unnao (Lok Sabha constituency)|Unnao]]
+| None
+| [[Annu Tandon]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|34
+| [[Mohanlalganj (Lok Sabha constituency)|Mohanlalganj]]
+| SC
+| Narendra Gautam
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|35
+| [[Lucknow (Lok Sabha constituency)|Lucknow]]
+| None
+| [[Rita Bahuguna|Rita Bahuguna Joshi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|36
+| [[Rae Bareli (Lok Sabha constituency)|Rae Bareli]]
+| None
+| [[Sonia Gandhi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|37
+| [[Amethi (Lok Sabha constituency)|Amethi]]
+| None
+| [[Rahul Gandhi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|38
+| [[Sultanpur (Lok Sabha constituency)|Sultanpur]]
+| None
+| Amita Singh
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|39
+| [[Pratapgarh (Lok Sabha constituency)|Pratapgarh]]
+| None
+| [[Ratna Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|40
+| [[Farrukhabad (Lok Sabha constituency)|Farrukhabad]]
+| None
+| [[Salman Khurshid]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|41
+| [[Etawah (Lok Sabha constituency)|Etawah]]
+| SC
+| Hansmukhi Sankhwar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|42
+| [[Kannauj (Lok Sabha constituency)|Kannauj]]
+| None
+| align="center" colspan=4|  '''None'''
+|-
+| align="center"|43
+| [[Kanpur (Lok Sabha constituency)|Kanpur Urban]]
+| None
+| [[Shriprakash Jaiswal]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|44
+| [[Akbarpur (Lok Sabha constituency)|Akbarpur]]
+| None
+| [[Raja Ram Pal]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|45
+| [[Jalaun (Lok Sabha constituency)|Jalaun]]
+| SC
+| Vijay Chaudhary
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|46
+| [[Jhansi (Lok Sabha constituency)|Jhansi]]
+| None
+| [[Pradeep Jain Aditya]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|47
+| [[Hamirpur, Uttar Pradesh (Lok Sabha constituency)|Hamirpur]]
+| None
+| Preetam Singh
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|48
+| [[Banda (Lok Sabha constituency)|Banda]]
+| None
+| Vivek Singh
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|49
+| [[Fatehpur (Lok Sabha constituency)|Fatehpur]]
+| None
+| Usha Maurya
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|50
+| [[Kaushambi (Lok Sabha constituency)|Kaushambi]]
+| SC
+| Mahendra Gautam
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|51
+| [[Phulpur (Lok Sabha constituency)|Phulpur]]
+| None
+| [[Mohammad Kaif]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|52
+| [[Allahabad (Lok Sabha constituency)|Allahabad]]
+| None
+| Nand Copal Gupta "Nandi"
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|53
+| [[Barabanki (Lok Sabha constituency)|Barabanki]]
+| SC
+| [[P. L. Punia]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|54
+| [[Faizabad (Lok Sabha constituency)|Faizabad]]
+| None
+| [[Nirmal Khatri]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|55
+| [[Ambedkar Nagar (Lok Sabha constituency)|Ambedkar Nagar]]
+| None
+| Ashok Singh
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|56
+| [[Bahraich (Lok Sabha constituency)|Bahraich]]
+| SC
+| [[Kamal Kishor]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|57
+| [[Kaiserganj (Lok Sabha constituency)|Kaiserganj]]
+| None
+| Mukesh Srivastava
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|58
+| [[Shrawasti (Lok Sabha constituency)|Shrawasti]]
+| None
+| [[Vinay Kumar Pandey]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|59
+| [[Gonda (Lok Sabha constituency)|Gonda]]
+| None
+| [[Beni Prasad Verma]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|60
+| [[Domariyaganj (Lok Sabha constituency)|Domariyaganj]]
+| None
+| Vasunhara Kumari
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|61
+| [[Basti (Lok Sabha constituency)|Basti]]
+| None
+| [[Sanjay Jaiswal]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|62
+| [[Sant Kabir Nagar (Lok Sabha constituency)|Sant Kabir Nagar]]
+| None
+| Rohit Pandey
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|63
+| [[Maharajganj (Uttar Pradesh Lok Sabha constituency)|Maharajganj]]
+| None
+| [[Harsh Vardhan (Uttar Pradesh politician)|Harsh Vardhan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|64
+| [[Gorakhpur (Lok Sabha constituency)|Gorakhpur]]
+| None
+| Ashtabhuja Tiwari
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|65
+| [[Kushi Nagar (Lok Sabha constituency)|Kushi Nagar]]
+| None
+| [[R. P. N. Singh]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|66
+| [[Deoria (Lok Sabha constituency)|Deoria]]
+| None
+| Sabha Kunwar Kushwaha
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|67
+| [[Bansgaon (Lok Sabha constituency)|Bansgaon]]
+| SC
+| Sanjay Kumar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|68
+| [[Lalganj (Lok Sabha constituency)|Lalganj]]
+| SC
+| Balibihari Babu
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|69
+| [[Azamgarh (Lok Sabha constituency)|Azamgarh]]
+| None
+| Arvind Jaiswal
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|70
+| [[Ghosi (Lok Sabha constituency)|Ghosi]]
+| None
+| Rashtra Kunwar Singh
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|71
+| [[Salempur (Lok Sabha constituency)|Salempur]]
+| None
+| [[Bholanath and Devendra Pandey|Bhola Pandey]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|72
+| [[Ballia (Lok Sabha constituency)|Ballia]]
+| None
+| Sudha Rai
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|73
+| [[Jaunpur (Lok Sabha constituency)|Jaunpur]]
+| None
+| [[Ravi Kishan]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|74
+| [[Machhlishahr (Lok Sabha constituency)|Machhlishahr]]
+| SC
+| Tufani Nishad
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|75
+| [[Ghazipur (Lok Sabha constituency)|Ghazipur]]
+| None
+| Mohd Maqsood Khan
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|76
+| [[Chandauli (Lok Sabha constituency)|Chandauli]]
+| None
+| Tarun Patel
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|77
+| [[Varanasi (Lok Sabha constituency)|Varanasi]]
+| None
+| [[Ajay Rai]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|78
+| [[Bhadohi (Lok Sabha constituency)|Bhadohi]]
+| None
+| Sartaj Imam
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|79
+| [[Mirzapur (Lok Sabha constituency)|Mirzapur]]
+| None
+| Lalitesh Pati Tripathi
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|80
+| [[Robertsganj (Lok Sabha constituency)|Robertsganj]]
+| SC
+| Bhagwati Prasad Chaudhary
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Uttarakhand==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (5)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Tehri Garhwal (Lok Sabha constituency)|Tehri Garhwal]]
+| None
+| Saket Bahuguna
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Garhwal (Lok Sabha constituency)|Garhwal]]
+| None
+| [[Harak Singh Rawat]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Almora (Lok Sabha constituency)|Almora]]
+| SC
+| [[Pradeep Tamta]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Nainital–Udhamsingh Nagar (Lok Sabha constituency)|Nainital–Udhamsingh Nagar]]
+| None
+| [[K. C. Singh Baba]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Haridwar (Lok Sabha constituency)|Haridwar]]
+| None
+| Renuka Rawat
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==West Bengal==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (42)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Cooch Behar (Lok Sabha constituency)|Cooch Behar]]
+| SC
+| Keshab Ray
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[Alipurduars (Lok Sabha constituency)|Alipurduars]]
+| ST
+| Josef Munda
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[Jalpaiguri (Lok Sabha constituency)|Jalpaiguri]]
+| SC
+| Sukhbilas Verma
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[Darjeeling (Lok Sabha constituency)|Darjeeling]]
+| None
+| Sujoy Ghatak
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[Raiganj (Lok Sabha constituency)|Raiganj]]
+| None
+| [[Deepa Dasmunshi]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[Balurghat (Lok Sabha constituency)|Balurghat]]
+| None
+| Om Prakash Mishra
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[Maldaha Uttar (Lok Sabha constituency)|Maldaha Uttar]]
+| None
+| [[Mausam Noor]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|8
+| [[Maldaha Dakshin (Lok Sabha constituency)|Maldaha Dakshin]]
+| None
+| [[Abu Hasem Khan Choudhury]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|9
+| [[Jangipur (Lok Sabha constituency)|Jangipur]]
+| None
+| [[Abhijit Mukherjee]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|10
+| [[Berhampore (Lok Sabha constituency)|Baharampur]]
+| None
+| [[Adhir Ranjan Chowdhury]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Won}}
+|-
+| align="center"|11
+| [[Murshidabad (Lok Sabha constituency)|Murshidabad]]
+| None
+| [[Abdul Mannan Hossain]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|12
+| [[Krishnagar (Lok Sabha constituency)|Krishnanagar]]
+| None
+| Razia Ahmed
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|13
+| [[Ranaghat (Lok Sabha constituency)|Ranaghat]]
+| SC
+| Pratap Roy
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|14
+| [[Bangaon (Lok Sabha constituency)|Bangaon]]
+| SC
+| Ila Mandal
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|15
+| [[Barrackpore (Lok Sabha constituency)|Barrackpur]]
+| None
+| Samrat Topedar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|16
+| [[Dum Dum (Lok Sabha constituency)|Dum Dum]]
+| None
+| Dhananjay Moitra
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|17
+| [[Barasat (Lok Sabha constituency)|Barasat]]
+| None
+| Rizul Ghoshal
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|18
+| [[Basirhat (Lok Sabha constituency)|Basirhat]]
+| None
+| Quazi Abdul Rahim
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|19
+| [[Jaynagar (Lok Sabha constituency)|Jaynagar]]
+| SC
+| Arnab Roy
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|20
+| [[Mathurapur (Lok Sabha constituency)|Mathurapur]]
+| SC
+| Manoranjan Halder
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|21
+| [[Diamond Harbour (Lok Sabha constituency)|Diamond Harbour]]
+| None
+| Mohmd Qumarhuzzan Qumar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|22
+| [[Jadavpur (Lok Sabha constituency)|Jadavpur]]
+| None
+| Samir Aich
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|23
+| [[Kolkata Dakshin (Lok Sabha constituency)|Kolkata Dakshin]]
+| None
+| Mala Roy
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|24
+| [[Kolkata Uttar (Lok Sabha constituency)|Kolkata Uttar]]
+| None
+| [[Somendra Nath Mitra]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|25
+| [[Howrah (Lok Sabha constituency)|Howrah]]
+| None
+| Manoj Kumar Pandey
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|26
+| [[Uluberia (Lok Sabha constituency)|Uluberia]]
+| None
+| Asit Mitra
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|27
+| [[Serampore (Lok Sabha constituency)|Sreerampur]]
+| None
+| [[Abdul Mannan Hossain]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|28
+| [[Hooghly (Lok Sabha constituency)|Hooghly]]
+| None
+| Pritam Ghosh
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|29
+| [[Arambagh (Lok Sabha constituency)|Arambag]]
+| SC
+| Sambhu Nath Malik
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|30
+| [[Tamluk (Lok Sabha constituency)|Tamluk]]
+| None
+| Anwar Ali
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|31
+| [[Contai (Lok Sabha constituency)|Kanthi]]
+| None
+| Kunal Banerjee
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|32
+| [[Ghatal (Lok Sabha constituency)|Ghatal]]
+| None
+| [[Manas Bhunia]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|33
+| [[Jhargram (Lok Sabha constituency)|Jhargram]]
+| ST
+| Anita Hansdar
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|34
+| [[Midnapore (Lok Sabha constituency)|Medinipur]]
+| None
+| Bimal Raj
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|35
+| [[Purulia (Lok Sabha constituency)|Purulia]]
+| None
+| Nepal Mahto
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|36
+| [[Bankura (Lok Sabha constituency)|Bankura]]
+| None
+| Neel Madhava Gupta
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|37
+| [[Vishnupur (Lok Sabha constituency)|Bishnupur]]
+| SC
+| Narayan Chander Khan
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|38
+| [[Burdwan (Lok Sabha constituency)|Bardhaman Purba]]
+| SC
+| Chandana Majhi
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|39
+| [[Bardhaman-Durgapur (Lok Sabha constituency)|Bardhaman-Durgapur]]
+| None
+| Pradip Agasty
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|40
+| [[Asansol (Lok Sabha constituency)|Asansol]]
+| None
+| Indrani Mishra
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|41
+| [[Bolpur (Lok Sabha constituency)|Bolpur]]
+| SC
+| Tapan Kumar Saha
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|42
+| [[Birbhum (Lok Sabha constituency)|Birbhum]]
+| None
+| Syed Siraj Jimmi
+| bgcolor="{{party color|Indian National Congress}}" |
+| Indian National Congress
+| {{Lost}}
+|}
+
+
+
+==Andaman and Nicobar Islands==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Andaman and Nicobar Islands (Lok Sabha constituency)|Andaman and Nicobar Islands]]
+| None
+| [[Kuldeep Rai Sharma]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|}
+
+==Chandigarh==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Chandigarh (Lok Sabha constituency)|Chandigarh]]
+| None
+| [[Pawan Kumar Bansal]]
+| bgcolor={{party color|Indian National Congress}} | 
+| Indian National Congress
+| {{lost}}
+
+|}
+
+==Dadra and Nagar Haveli==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Dadra and Nagar Haveli (Lok Sabha constituency)|Dadra and Nagar Haveli]]
+| None
+| [[Mohanbhai Sanjibhai Delkar]]
+| bgcolor="{{party color|Indian National Congress}}" |
+| [[Indian National Congress]]
+| {{Lost}}
+|}
+
+==Daman and Diu==
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Daman and Diu (Lok Sabha constituency)|Daman and Diu]]
+| None
+| [[Ketan Dahyabhai Patel|Dahyabhai Patel]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|}
+
+==Lakshadweep==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Lakshadweep (Lok Sabha constituency)|Lakshadweep]]
+| ST
+| [[Muhammed Hamdulla Sayeed]]
+| bgcolor={{party color|Indian National Congress}} | 
+| [[Indian National Congress]]
+| {{Lost}}
+|}
+
+==NCT of Delhi==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (7)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Chandni Chowk (Lok Sabha constituency)|Chandni Chowk]]
+| None
+| [[Kapil Sibal]]
+| bgcolor={{party color|Indian National Congress}} |
+|  [[Indian National Congress]]
+| {{Lost}}
+|-
+| align="center"|2
+| [[North East Delhi (Lok Sabha constituency)|North East Delhi]]
+| None
+| [[Jai Prakash Agarwal]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|3
+| [[East Delhi (Lok Sabha constituency)|East Delhi]]
+| None
+| [[Sandeep Dikshit]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|4
+| [[New Delhi (Lok Sabha constituency)|New Delhi]]
+| None
+| [[Ajay Maken]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|5
+| [[North West Delhi (Lok Sabha constituency)|North West Delhi]]
+| SC
+| [[Krishna Tirath]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|6
+| [[West Delhi (Lok Sabha constituency)|West Delhi]]
+| None
+| [[Mahabal Mishra]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|-
+| align="center"|7
+| [[South Delhi (Lok Sabha constituency)|South Delhi]]
+| None
+| [[Ramesh Kumar (politician)|Ramesh Kumar]]
+| bgcolor={{party color|Indian National Congress}} |
+| Indian National Congress
+| {{Lost}}
+|}
+
+==Puducherry==
+
+{{legend2|#00BFFF|[[Indian National Congress|INC]] (1)|border=solid 1px #AAAAAA}}
+{| class= "wikitable sortable"
+|-
+! Constituency <br /> No.
+! style="width:180px;"|Constituency
+! Reserved for
+(SC/ST/None)
+! style="width:200px;"|Candidate
+! colspan="2" | Party
+! Result
+|-
+| align="center"|1
+| [[Puducherry (Lok Sabha constituency)|Puducherry]]
+| None
+| [[V. Narayanasamy]]
+| bgcolor={{party color|Indian National Congress}} |
+| [[Indian National Congress]]
+| {{Lost}}
+|}
+
+==See also==
+{{Lists of United Progressive Alliance candidates in Indian general elections}}
+* [[List of United Democratic Front candidates in the 2014 Indian general election]]
+* [[List of National Democratic Alliance candidates in the 2014 Indian general election]]
+* [[List of Left Democratic Front candidates in the 2014 Indian general election]]
+* [[List of West Bengal Left Front candidates in the 2014 Indian general election]]
+* [[Indian National Congress campaign for the 2014 Indian general election]]
+
+==References==
+{{reflist|2}}
+{{Indian general election, 2014}}
+
+{{DEFAULTSORT:United Progressive Alliance candidates in the Indian general election, 2014}}
+[[Category:Candidates in the 2014 Indian general election| ]]
+[[Category:Lists of Indian political candidates]]
+[[Category:Indian National Congress]]
+[[Category:United Progressive Alliance candidates in the 2014 Indian general election| ]]

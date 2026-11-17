@@ -1,0 +1,530 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NDA vs others, Lok Sabha 2019 and 2024</title>
+<style>
+  :root {
+    --bg: #f6f5f1; --panel: #ffffff; --ink: #1c1d1a; --muted: #5d5f58; --line: #d9d7cf;
+    --nda: #c2182b; --mid: #7b4ea3; --oth: #1c5fc4; --flat: #e7e4ea;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 1180px; margin: 0 auto; padding: 20px 20px 40px; }
+  h1 { font-size: 26px; line-height: 1.2; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); margin: 0 0 16px; max-width: 760px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; margin-bottom: 12px; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--panel); }
+  .seg button { border: 0; background: none; padding: 8px 14px; font: inherit; color: var(--ink); cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button[aria-pressed="true"] { background: var(--ink); color: #fff; }
+  .seg button:focus-visible, input:focus-visible, .ghost:focus-visible { outline: 2px solid var(--oth); outline-offset: 2px; }
+  label.check { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); cursor: pointer; }
+  input[type="search"] { font: inherit; padding: 7px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); width: 210px; }
+  .ghost { border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 7px 12px; font: inherit; cursor: pointer; }
+  .layout { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 20px; align-items: start; }
+  @media (max-width: 860px) { .layout { grid-template-columns: 1fr; } }
+  .mapwrap { position: relative; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  svg { display: block; width: 100%; height: auto; touch-action: none; cursor: grab; }
+  svg.dragging { cursor: grabbing; }
+  .seat { stroke: #fff; stroke-width: 0.5; vector-effect: non-scaling-stroke; }
+  .seat.flip { stroke: #111; stroke-width: 1.6; }
+  .seat.dim { opacity: 0.25; }
+  #hl { fill: none; stroke: #000; stroke-width: 2.5; vector-effect: non-scaling-stroke; pointer-events: none; }
+  aside h2 { font-size: 15px; margin: 0 0 8px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-bottom: 14px; }
+  .bar { height: 14px; border-radius: 4px; }
+  .ticks { display: flex; justify-content: space-between; font-size: 12.5px; color: var(--muted); margin-top: 4px; }
+  .keyrow { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); margin-top: 8px; }
+  .swatch { width: 18px; height: 12px; border-radius: 3px; flex: none; }
+  #hist { display: block; width: 100%; height: auto; touch-action: none; cursor: crosshair; user-select: none; }
+  #hist .bar.all { opacity: 0.22; }
+  #barHl { fill: none; stroke: #000; stroke-width: 1.6; pointer-events: none; }
+  #hist .sel { fill: none; stroke: var(--ink); stroke-width: 1.2; }
+  #hist .zero { stroke: var(--ink); stroke-width: 1; stroke-dasharray: 2 2; }
+  #hist text { font-size: 10px; fill: var(--muted); }
+  .ends { display: flex; justify-content: space-between; font-size: 12.5px; color: var(--muted); }
+  .range { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); margin-top: 10px; }
+  .range input { width: 62px; font: inherit; font-size: 13px; padding: 3px 5px; border: 1px solid var(--line); border-radius: 6px; }
+  #showing { font-size: 13.5px; font-weight: 600; margin: 8px 0 0; min-height: 1.4em; }
+  .linkish { border: 0; background: none; padding: 0; font: inherit; font-size: 12.5px; color: var(--oth); text-decoration: underline; cursor: pointer; }
+  .src { color: var(--muted); font-size: 12.5px; margin: 14px 0 0; }
+  #scatter { display: block; width: 100%; height: auto; }
+  #scatter .quad { fill: transparent; }
+  #scatter .quad:hover { fill: rgba(0,0,0,.05); }
+  #scatter .dot { stroke: #fff; stroke-width: 0.4; }
+  #scatter .dot.dim { opacity: 0.08; }
+  #scatter .guide { stroke: #8f8c84; stroke-width: 0.8; pointer-events: none; }
+  #scatter .diag { stroke: #8f8c84; stroke-width: 0.8; stroke-dasharray: 3 3; pointer-events: none; }
+  #scatter text { font-size: 10px; fill: var(--muted); pointer-events: none; }
+  #scatter text.q { font-weight: 650; fill: var(--ink); }
+  #dotHl { fill: none; stroke: #000; stroke-width: 1.6; pointer-events: none; }
+  #info { position: absolute; top: 12px; right: 12px; width: 290px; height: 196px; overflow: hidden; visibility: hidden; pointer-events: none;
+    background: rgba(255,255,255,.96); border: 1px solid #bdbab0; border-radius: 10px; padding: 10px 12px; font-size: 13px; line-height: 1.38; }
+  #info.on { visibility: visible; }
+  #info.pinned { border-color: #111; box-shadow: 0 2px 10px rgba(0,0,0,.14); }
+  #info h3 { margin: 0 0 5px; font-size: 15px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #info h3 span { font-weight: 400; color: var(--muted); font-size: 13px; }
+  #info .yr { display: grid; grid-template-columns: 34px minmax(0, 1fr) auto; column-gap: 6px; border-top: 1px solid var(--line); padding: 4px 0; }
+  #info .yr > b { grid-row: span 3; color: var(--muted); font-weight: 600; }
+  #info .who { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #info .num { text-align: right; font-variant-numeric: tabular-nums; }
+  #info .by { grid-column: 2 / 4; color: var(--muted); }
+  #info .nda { color: var(--nda); } #info .oth { color: var(--oth); }
+  #info .win { font-weight: 700; }
+  #info .foot { border-top: 1px solid var(--line); padding-top: 4px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #info .foot span { font-weight: 400; color: #8a4b00; }
+</style>
+</head>
+<body>
+<main>
+  <h1 id="title">NDA vs others in every Lok Sabha seat</h1>
+  <p class="sub" id="subtitle" hidden></p>
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="What the colour shows">
+      <button data-view="swing" aria-pressed="true">Change since 2019</button>
+      <button data-view="y2024" aria-pressed="false">2024 result</button>
+      <button data-view="y2019" aria-pressed="false">2019 result</button>
+    </div>
+    <label class="check"><input type="checkbox" id="flips"> Outline seats that changed hands</label>
+    <input type="search" id="find" list="seatlist" placeholder="Find a seat" aria-label="Find a seat">
+    <datalist id="seatlist"></datalist>
+    <button class="ghost" id="reset">Reset zoom</button>
+  </div>
+
+  <div class="layout">
+    <div class="mapwrap">
+      <svg id="map" role="img" aria-label="Map of India's 543 Lok Sabha seats"><g id="seats"></g><path id="hl"></path></svg>
+      <div id="info" role="status"></div>
+    </div>
+    <aside>
+      <div class="card">
+        <h2 id="legendTitle">Colour</h2>
+        <div class="bar" id="legendBar"></div>
+        <div class="ticks" id="legendTicks"></div>
+        <div class="keyrow" id="legendExtra"></div>
+      </div>
+      <div class="card">
+        <h2 id="countTitle">Seats</h2>
+        <svg id="hist" viewBox="0 0 272 104" role="img" aria-label="Histogram of seats"></svg>
+        <div class="ends"><span id="endLeft"></span><span id="endRight"></span></div>
+        <div class="range">
+          <label>From <input type="number" id="lo" step="2.5" aria-label="Lowest value shown, in points"></label>
+          <label>to <input type="number" id="hi" step="2.5" aria-label="Highest value shown, in points"></label> points
+          <button class="linkish" id="clearRange" hidden>Show all</button>
+        </div>
+        <p id="showing"></p>
+      </div>
+      <div class="card">
+        <h2>2019 lead vs 2024 lead</h2>
+        <svg id="scatter" viewBox="0 0 272 272" role="img" aria-label="Scatter plot of each seat's NDA lead in 2019 against 2024"></svg>
+      </div>
+    </aside>
+  </div>
+  <p class="src">Results: Election Commission of India via India Data Portal. Alliances: Wikipedia. Shapes: DataMeet, 2019 boundaries.</p>
+</main>
+
+<script>
+const NDA = [194, 24, 43], MID = [123, 78, 163], OTH = [28, 95, 196], FLAT = [231, 228, 234];
+const VIEWS = {
+  swing: { clamp: 25, mid: FLAT, legend: "Change in the NDA's lead, 2019 to 2024, in points",
+    ticks: ["25+ to others", "no change", "25+ to NDA"], ends: ["← moved to others", "moved to the NDA →"] },
+  y2024: { clamp: 20, mid: MID, legend: "The NDA's lead in 2024, in points",
+    ticks: ["Others by 20+", "tied", "NDA by 20+"], ends: ["← others won by more", "NDA won by more →"] },
+  y2019: { clamp: 20, mid: MID, legend: "The NDA's lead in 2019, in points",
+    ticks: ["Others by 20+", "tied", "NDA by 20+"], ends: ["← others won by more", "NDA won by more →"] },
+};
+const BIN = 2.5;  // width of one histogram bar, in points
+const NODATA = "#c9c6bd";
+let view = "swing", seats = [], pinned = null;
+let range = null;   // [low, high] in points when a stretch of the histogram is selected
+let axis = null;    // [min, max] of the histogram for the current view
+let quad = null;    // scatter-plot quarter under the pointer: "held", "gained", "lost" or "others"
+let hoverBin = null; // [low, high] of the histogram bar under the pointer
+let hovered = null;  // the single seat under the pointer or pinned, in any of the three charts
+const flipped = p => !!(p.y2019 && p.y2024) && (p.y2019.winnerAlliance === "NDA") !== (p.y2024.winnerAlliance === "NDA");
+// A seat stays lit only if it passes every filter that is on: the selected range,
+// the changed-hands switch, and whatever quarter or bar is under the pointer.
+function isLit(p) {
+  const v = value(p);
+  if (!inRange(v)) return false;
+  if (document.getElementById("flips").checked && !flipped(p)) return false;
+  if (quad && quadrantOf(p) !== quad) return false;
+  if (hoverBin && !(v !== null && v >= hoverBin[0] && v < hoverBin[1])) return false;
+  return true;
+}
+// Half-open like the bars, except that the top of the axis is included.
+const inRange = v => !range || (v !== null && v >= range[0] && (v < range[1] || range[1] >= axis[1]));
+
+const svg = document.getElementById("map"), layer = document.getElementById("seats"),
+      hl = document.getElementById("hl"), info = document.getElementById("info");
+const fmtInt = new Intl.NumberFormat("en-IN");
+const pts = (v, d = 1) => (v > 0 ? "+" : v < 0 ? "−" : "") + Math.abs(v).toFixed(d);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const mix = (a, b, t) => "rgb(" + a.map((v, i) => Math.round(v + (b[i] - v) * t)).join(",") + ")";
+
+// The value a seat is coloured by in the current view; null where there is none.
+function value(p) {
+  if (view === "swing") return p.swing ?? null;
+  return p[view] ? p[view].ndaLead : null;
+}
+function colour(v, cfg) {
+  if (v === null) return NODATA;
+  const t = Math.max(-1, Math.min(1, v / cfg.clamp));
+  return t >= 0 ? mix(cfg.mid, NDA, t) : mix(cfg.mid, OTH, -t);
+}
+
+// Shapes arrive already Mercator-projected, so drawing is a plain scale and flip.
+let box, home;
+function pathFor(g, k, minX, maxY) {
+  let d = "";
+  for (const poly of g) for (const ring of poly) {
+    d += "M" + ring.map(([x, y]) => ((x - minX) * k).toFixed(1) + "," + ((maxY - y) * k).toFixed(1)).join("L") + "Z";
+  }
+  return d;
+}
+
+function draw() {
+  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+  for (const s of seats) for (const poly of s.g) for (const [x, y] of poly[0]) {
+    if (x < minX) minX = x; if (x > maxX) maxX = x; if (y < minY) minY = y; if (y > maxY) maxY = y;
+  }
+  const W = 800, k = W / (maxX - minX), H = (maxY - minY) * k, pad = 12;
+  home = { x: -pad, y: -pad, w: W + 2 * pad, h: H + 2 * pad };
+  box = { ...home };
+  applyBox();
+  const frag = document.createDocumentFragment();
+  for (const s of seats) {
+    const el = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    el.setAttribute("d", pathFor(s.g, k, minX, maxY));
+    el.setAttribute("class", "seat");
+    el.__seat = s;
+    s.el = el;
+    frag.appendChild(el);
+  }
+  layer.appendChild(frag);
+}
+function applyBox() { svg.setAttribute("viewBox", `${box.x} ${box.y} ${box.w} ${box.h}`); }
+
+function paint() {
+  const cfg = VIEWS[view];
+  const showFlips = document.getElementById("flips").checked;
+  for (const s of seats) {
+    const p = s.p, v = value(p);
+    s.el.setAttribute("fill", colour(v, cfg));
+    const lit = isLit(p);
+    s.el.classList.toggle("flip", showFlips && lit);
+    s.el.classList.toggle("dim", !lit);
+    if (s.dot) s.dot.classList.toggle("dim", !lit);
+  }
+  for (const b of document.querySelectorAll(".seg button")) b.setAttribute("aria-pressed", b.dataset.view === view);
+
+  document.getElementById("legendTitle").textContent = cfg.legend;
+  const stops = [];
+  for (let i = 0; i <= 10; i++) stops.push(colour((i / 5 - 1) * cfg.clamp, cfg));
+  document.getElementById("legendBar").style.background = `linear-gradient(90deg, ${stops.join(",")})`;
+  document.getElementById("legendTicks").innerHTML = cfg.ticks.map(t => `<span>${t}</span>`).join("");
+  document.getElementById("legendExtra").innerHTML =
+    `<span class="swatch" style="background:${NODATA}"></span><span>${view === "y2019" ? "No result" : "Surat: no 2024 contest"}</span>`;
+  summarise();
+  histogram();
+  if (hovered) show(hovered);
+}
+
+function summarise() {
+  const vals = seats.map(s => value(s.p)).filter(v => v !== null);
+  const title = document.getElementById("title");
+  const count = f => vals.filter(f).length;
+  if (view === "swing") {
+    title.textContent = `The NDA lost ground in ${count(v => v < 0)} of ${vals.length} seats between 2019 and 2024`;
+    document.getElementById("countTitle").textContent = "How far seats moved";
+  } else {
+    const year = view.slice(1), won = count(v => v > 0);
+    // Surat had no 2024 contest, so it has no lead to colour but still counts as an NDA seat.
+    const total = won + seats.filter(s => !s.p[view] && view === "y2024").length;
+    title.textContent = `In ${year} the NDA won ${total} seats, ${count(v => v > 0 && v < 5)} of them by under 5 points`;
+    document.getElementById("countTitle").textContent = `How big the ${year} leads were`;
+  }
+}
+
+// Histogram of the current view's values. Dragging across it sets `range`.
+const hist = document.getElementById("hist");
+const HW = 272, HTOP = 4, HBASE = 84;
+const sx = v => (v - axis[0]) / (axis[1] - axis[0]) * HW;
+function histogram() {
+  const cfg = VIEWS[view];
+  const vals = seats.map(s => value(s.p)).filter(v => v !== null);
+  const lo = Math.floor(Math.min(...vals) / 5) * 5, hi = Math.ceil(Math.max(...vals) / 5) * 5;
+  axis = [lo, hi];
+  const n = Math.round((hi - lo) / BIN), bins = new Array(n).fill(0), litBins = new Array(n).fill(0);
+  const binOf = v => Math.min(n - 1, Math.floor((v - lo) / BIN));
+  for (const s of seats) {
+    const v = value(s.p);
+    if (v === null) continue;
+    bins[binOf(v)]++;
+    if (isLit(s.p)) litBins[binOf(v)]++;
+  }
+  const top = Math.max(...bins), w = HW / n, height = c => Math.max(1.5, c / top * (HBASE - HTOP));
+  let out = "";
+  // Each bar twice: faint for every seat in the group, solid for the ones currently lit.
+  bins.forEach((c, i) => {
+    if (!c) return;
+    const a = lo + i * BIN, x = (i * w + 0.4).toFixed(1), bw = (w - 0.8).toFixed(1), fill = colour(a + BIN / 2, cfg);
+    out += `<rect class="bar all" x="${x}" y="${(HBASE - height(c)).toFixed(1)}" width="${bw}" height="${height(c).toFixed(1)}" fill="${fill}">` +
+      `<title>${pts(a)} to ${pts(a + BIN)} points: ${c} seat${c === 1 ? "" : "s"}</title></rect>`;
+    if (litBins[i]) out += `<rect class="bar" x="${x}" y="${(HBASE - height(litBins[i])).toFixed(1)}" width="${bw}" height="${height(litBins[i]).toFixed(1)}" fill="${fill}" pointer-events="none"/>`;
+  });
+  out += `<line x1="0" x2="${HW}" y1="${HBASE}" y2="${HBASE}" stroke="#bdbab0"/>`;
+  out += `<line class="zero" x1="${sx(0)}" x2="${sx(0)}" y1="${HTOP}" y2="${HBASE}"/>`;
+  for (let v = Math.ceil(lo / 25) * 25; v <= hi; v += 25) {
+    const anchor = sx(v) < 10 ? "start" : sx(v) > HW - 10 ? "end" : "middle";
+    out += `<text x="${sx(v)}" y="${HBASE + 13}" text-anchor="${anchor}">${v === 0 ? "0" : pts(v, 0)}</text>`;
+  }
+  if (range) out += `<rect class="sel" x="${sx(range[0])}" y="${HTOP - 2}" width="${sx(range[1]) - sx(range[0])}" height="${HBASE - HTOP + 2}"/>`;
+  out += `<rect id="barHl" width="${w.toFixed(1)}" y="${HTOP - 2}" height="${HBASE - HTOP + 2}" visibility="hidden"/>`;
+  hist.innerHTML = out;
+  markBar();
+
+  document.getElementById("endLeft").textContent = cfg.ends[0];
+  document.getElementById("endRight").textContent = cfg.ends[1];
+  const loBox = document.getElementById("lo"), hiBox = document.getElementById("hi");
+  loBox.min = hiBox.min = lo; loBox.max = hiBox.max = hi;
+  loBox.value = range ? range[0] : lo; hiBox.value = range ? range[1] : hi;
+  document.getElementById("clearRange").hidden = !range;
+  const shown = vals.filter(inRange).length;
+  document.getElementById("showing").textContent = range
+    ? `Showing ${shown} of ${vals.length} seats: ${pts(range[0])} to ${pts(range[1])} points`
+    : `Showing all ${vals.length} seats`;
+}
+// Outline the histogram bar holding the seat under the pointer.
+function markBar() {
+  const mark = document.getElementById("barHl"), v = hovered ? value(hovered.p) : null;
+  if (!mark || !axis) return;
+  if (v === null) { mark.setAttribute("visibility", "hidden"); return; }
+  const a = Math.min(axis[1] - BIN, Math.floor(v / BIN) * BIN);
+  mark.setAttribute("x", sx(a).toFixed(1));
+  mark.setAttribute("visibility", "visible");
+}
+function setHoverBin(bin) {
+  if ((bin && bin[0]) === (hoverBin && hoverBin[0]) && !!bin === !!hoverBin) return;
+  hoverBin = bin;
+  paint();
+}
+function setRange(a, b) {
+  if (a === null) range = null;
+  else {
+    const lo = Math.max(axis[0], Math.min(a, b)), hi = Math.min(axis[1], Math.max(a, b));
+    range = lo <= axis[0] && hi >= axis[1] ? null : [lo, hi];
+  }
+  paint();
+}
+// Drag across the bars to pick a stretch; a plain click picks one bar, or clears if it is already inside the selection.
+let brush = null;
+const binEdge = e => {
+  const r = hist.getBoundingClientRect();
+  const v = axis[0] + Math.max(0, Math.min(1, (e.clientX - r.left) / r.width)) * (axis[1] - axis[0]);
+  return Math.min(axis[1] - BIN, Math.floor(v / BIN) * BIN);
+};
+hist.addEventListener("pointerdown", e => {
+  const a = binEdge(e);
+  brush = { a, x: e.clientX, moved: false, wasInside: !!range && a >= range[0] && a < range[1] };
+  if (hist.setPointerCapture) hist.setPointerCapture(e.pointerId);
+});
+hist.addEventListener("pointermove", e => {
+  // Not dragging: light up the seats in the bar under the pointer.
+  if (!brush) { const a = binEdge(e); setHoverBin([a, a + BIN]); return; }
+  hoverBin = null;
+  if (Math.abs(e.clientX - brush.x) > 3) brush.moved = true;
+  if (!brush.moved) return;
+  const b = binEdge(e);
+  setRange(Math.min(brush.a, b), Math.max(brush.a, b) + BIN);
+});
+hist.addEventListener("pointerup", () => {
+  if (!brush) return;
+  if (!brush.moved) brush.wasInside ? setRange(null) : setRange(brush.a, brush.a + BIN);
+  brush = null;
+});
+hist.addEventListener("pointerleave", () => { if (!brush) setHoverBin(null); });
+for (const id of ["lo", "hi"]) document.getElementById(id).addEventListener("change", () => {
+  const a = parseFloat(document.getElementById("lo").value), b = parseFloat(document.getElementById("hi").value);
+  if (!isNaN(a) && !isNaN(b)) setRange(a, b);
+});
+document.getElementById("clearRange").addEventListener("click", () => setRange(null));
+
+// Scatter of each seat's NDA lead in 2019 (across) against 2024 (up).
+const scatter = document.getElementById("scatter");
+const SLO = -70, SHI = 90, SPAD = 14, SSIZE = 272;
+const sc = v => SPAD + (v - SLO) / (SHI - SLO) * (SSIZE - 2 * SPAD);
+const scx = v => sc(v), scy = v => SSIZE - sc(v);
+function quadrantOf(p) {
+  if (!p.y2019 || !p.y2024) return null;
+  const was = p.y2019.ndaLead > 0, is = p.y2024.ndaLead > 0;
+  return was ? (is ? "held" : "lost") : (is ? "gained" : "others");
+}
+function drawScatter() {
+  const ns = "http://www.w3.org/2000/svg";
+  const n = { held: 0, lost: 0, gained: 0, others: 0 };
+  for (const s of seats) { const q = quadrantOf(s.p); if (q) n[q]++; }
+  const z = sc(0), a = SPAD, b = SSIZE - SPAD, zy = scy(0);
+  // Quarters first, so the dots drawn after them take the pointer where they overlap.
+  const quads = [
+    ["gained", a, a, z - a, zy - a, "NDA gained", a + 3, a + 10, "start"],
+    ["held", z, a, b - z, zy - a, "NDA held", b - 3, a + 10, "end"],
+    ["others", a, zy, z - a, b - zy, "Others held", a + 3, b - 5, "start"],
+    ["lost", z, zy, b - z, b - zy, "NDA lost", b - 3, b - 5, "end"],
+  ];
+  let out = "";
+  for (const [q, x, y, w, h] of quads) out += `<rect class="quad" data-q="${q}" x="${x}" y="${y}" width="${w}" height="${h}"/>`;
+  out += `<line class="guide" x1="${a}" x2="${b}" y1="${zy}" y2="${zy}"/><line class="guide" x1="${z}" x2="${z}" y1="${a}" y2="${b}"/>`;
+  out += `<line class="diag" x1="${scx(SLO)}" y1="${scy(SLO)}" x2="${scx(SHI)}" y2="${scy(SHI)}"/>`;
+  for (const [q, , , , , label, tx, ty, anchor] of quads) out += `<text class="q" x="${tx}" y="${ty}" text-anchor="${anchor}">${label} ${n[q]}</text>`;
+  out += `<text x="${SSIZE / 2}" y="${SSIZE - 2}" text-anchor="middle">2019 lead →</text>`;
+  out += `<text transform="translate(9 ${SSIZE / 2}) rotate(-90)" text-anchor="middle">2024 lead →</text>`;
+  scatter.innerHTML = out;
+  for (const s of seats) {
+    if (!quadrantOf(s.p)) continue;
+    const c = document.createElementNS(ns, "circle");
+    c.setAttribute("class", "dot");
+    c.setAttribute("cx", scx(s.p.y2019.ndaLead).toFixed(1));
+    c.setAttribute("cy", scy(s.p.y2024.ndaLead).toFixed(1));
+    c.setAttribute("r", 2.3);
+    c.setAttribute("fill", s.p.y2024.winnerAlliance === "NDA" ? "rgb(" + NDA + ")" : "rgb(" + OTH + ")");
+    c.__seat = s;
+    s.dot = c;
+    scatter.appendChild(c);
+  }
+  const ring = document.createElementNS(ns, "circle");
+  ring.setAttribute("id", "dotHl");
+  ring.setAttribute("r", 0);
+  scatter.appendChild(ring);
+}
+function markDot(seat) {
+  const ring = document.getElementById("dotHl");
+  if (!ring) return;
+  if (seat && seat.dot) {
+    ring.setAttribute("cx", seat.dot.getAttribute("cx")); ring.setAttribute("cy", seat.dot.getAttribute("cy")); ring.setAttribute("r", 5);
+  } else ring.setAttribute("r", 0);
+}
+function setQuad(q) { if (q !== quad) { quad = q; paint(); } }
+// Over a dot: that seat's details. Over empty space: light up that quarter's seats.
+scatter.addEventListener("pointermove", e => {
+  const seat = e.target.__seat;
+  if (seat) { setQuad(null); show(seat); return; }
+  unhover();
+  setQuad(e.target.dataset ? e.target.dataset.q || null : null);
+});
+scatter.addEventListener("pointerleave", () => { setQuad(null); unhover(); });
+
+function yearBlock(p, year) {
+  const r = p["y" + year];
+  if (!r) return `<div class="yr"><b>${year}</b><span class="who nda win">BJP, unopposed</span><span></span></div>`;
+  const side = a => a === "NDA" ? "nda" : "oth";
+  const w = side(r.winnerAlliance), u = side(r.runnerUpAlliance);
+  return `<div class="yr"><b>${year}</b>
+    <span class="who ${w} win">${esc(r.winner)} · ${esc(r.winnerParty)}</span><span class="num ${w} win">${r.winnerPct.toFixed(1)}%</span>
+    <span class="who ${u}">${esc(r.runnerUp)} · ${esc(r.runnerUpParty)}</span><span class="num ${u}">${r.runnerUpPct.toFixed(1)}%</span>
+    <span class="by">by ${fmtInt.format(r.marginVotes)} votes, ${r.marginPct.toFixed(1)} pts</span></div>`;
+}
+
+// The info block sits in one fixed place on the map. Hovering a seat in any chart
+// fills it; a click keeps a seat there until another click replaces or clears it.
+function show(seat) {
+  const p = seat.p;
+  let foot = "";
+  if (p.swing !== undefined) foot = `Moved ${Math.abs(p.swing).toFixed(1)} pts ${p.swing < 0 ? "to others" : "to NDA"}`;
+  if (p.redrawn) foot += ` <span>· redrawn since 2019</span>`;
+  info.innerHTML = `<h3>${esc(p.seat)} <span>${esc(p.state)}</span></h3>${yearBlock(p, 2024)}${yearBlock(p, 2019)}` +
+    (foot ? `<div class="foot">${foot}</div>` : "");
+  info.classList.add("on");
+  info.classList.toggle("pinned", seat === pinned);
+  hl.setAttribute("d", seat.el.getAttribute("d"));
+  hovered = seat;
+  markDot(seat);
+  markBar();
+}
+// The pointer has left a seat: fall back to the pinned seat, or to nothing.
+function unhover() {
+  if (pinned) { if (hovered !== pinned) show(pinned); return; }
+  if (!hovered) return;
+  info.classList.remove("on");
+  hl.setAttribute("d", "");
+  hovered = null;
+  markDot(null);
+  markBar();
+}
+function pin(seat) {
+  pinned = seat;
+  if (seat) show(seat); else unhover();
+}
+
+// Hover, click to pin, wheel to zoom, drag to pan.
+let drag = null, moved = false;
+svg.addEventListener("pointermove", e => {
+  if (drag) {
+    const scale = box.w / svg.clientWidth;
+    const dx = (e.clientX - drag.x) * scale, dy = (e.clientY - drag.y) * scale;
+    if (Math.abs(e.clientX - drag.x) + Math.abs(e.clientY - drag.y) > 4) moved = true;
+    box.x = drag.bx - dx; box.y = drag.by - dy; applyBox();
+    return;
+  }
+  const seat = e.target.__seat;
+  if (seat) show(seat); else unhover();
+});
+svg.addEventListener("pointerleave", unhover);
+svg.addEventListener("pointerdown", e => { drag = { x: e.clientX, y: e.clientY, bx: box.x, by: box.y }; moved = false; svg.classList.add("dragging"); });
+addEventListener("pointerup", () => { drag = null; svg.classList.remove("dragging"); });
+// One click rule for the whole page: a seat (on the map or in the scatter) pins it,
+// anywhere else clears the pin. Controls and the histogram are left alone, and so
+// is the end of a drag across the map.
+document.addEventListener("click", e => {
+  const seat = e.target.__seat;
+  if (seat) { if (!(moved && e.target.closest("#map"))) pin(seat); return; }
+  if (e.target.closest(".controls, #hist, .range")) return;
+  if (moved && e.target.closest("#map")) return;
+  pin(null);
+});
+svg.addEventListener("wheel", e => {
+  e.preventDefault();
+  const r = svg.getBoundingClientRect(), f = e.deltaY < 0 ? 0.8 : 1.25;
+  const w = Math.min(home.w, Math.max(home.w / 40, box.w * f)), ratio = w / box.w;
+  const cx = box.x + (e.clientX - r.left) / r.width * box.w, cy = box.y + (e.clientY - r.top) / r.height * box.h;
+  box = { x: cx - (cx - box.x) * ratio, y: cy - (cy - box.y) * ratio, w, h: box.h * ratio };
+  applyBox();
+}, { passive: false });
+document.addEventListener("keydown", e => { if (e.key === "Escape") pin(null); });
+document.getElementById("reset").addEventListener("click", () => { box = { ...home }; applyBox(); });
+document.getElementById("flips").addEventListener("change", paint);
+// A range means different things in each view, so switching view clears it.
+for (const b of document.querySelectorAll(".seg button")) b.addEventListener("click", () => { view = b.dataset.view; range = null; paint(); });
+
+document.getElementById("find").addEventListener("change", e => {
+  const q = e.target.value.trim().toLowerCase();
+  if (!q) return;
+  const seat = seats.find(s => s.label.toLowerCase() === q) || seats.find(s => s.p.seat.toLowerCase().startsWith(q));
+  if (!seat) return;
+  // Zoom to the seat with room around it, then pin it.
+  const b = seat.el.getBBox(), size = Math.max(b.width, b.height) * 6, w = Math.min(home.w, Math.max(home.w / 12, size));
+  box = { x: b.x + b.width / 2 - w / 2, y: b.y + b.height / 2 - w * (home.h / home.w) / 2, w, h: w * (home.h / home.w) };
+  applyBox();
+  pin(seat);
+});
+
+fetch("data.json").then(r => r.json()).then(data => {
+  seats = data.seats;
+  for (const s of seats) s.label = `${s.p.seat}, ${s.p.state}`;
+  document.getElementById("seatlist").innerHTML =
+    seats.map(s => s.label).sort().map(l => `<option value="${esc(l)}">`).join("");
+  draw();
+  drawScatter();
+  paint();
+}).catch(err => {
+  const sub = document.getElementById("subtitle");
+  sub.hidden = false;
+  sub.textContent = "Could not load data.json: " + err.message;
+});
+</script>
+</body>
+</html>
